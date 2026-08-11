@@ -1,0 +1,555 @@
+{
+  "updated": "2026-08-11",
+  "recipes": [
+    {
+      "id": "seared-salmon-nicoise",
+      "title": "Seared Salmon Niçoise",
+      "collection": "this-week",
+      "night": "Tuesday 11 August",
+      "time": "40 mins",
+      "timeMins": 40,
+      "serves": 2,
+      "source": { "name": "Waitrose", "url": "https://www.waitrose.com/ecom/recipe/seared-salmon-nicoise" },
+      "note": "Hob only — no oven or grill.",
+      "tags": ["fish", "salad", "hob only"],
+      "ingredients": [
+        { "qty": 500, "unit": "g", "item": "baby new potatoes, larger ones halved" },
+        { "qty": 2, "unit": "", "item": "medium eggs" },
+        { "qty": 225, "unit": "g", "item": "green beans, trimmed" },
+        { "qty": 1, "unit": "", "item": "echalion shallot, finely sliced" },
+        { "qty": 250, "unit": "g", "item": "vine tomatoes, quartered" },
+        { "qty": 145, "unit": "g", "item": "pitted Kalamata olives, torn in half" },
+        { "qty": 20, "unit": "g", "item": "pack chives or dill, finely chopped" },
+        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 2, "unit": "", "item": "salmon fillets (approx. 265g pack), patted dry" },
+        { "group": "For the dressing (homemade — replaces the bottled French dressing in the original)", "qty": 3, "unit": "tbsp", "item": "olive oil" },
+        { "group": "For the dressing (homemade — replaces the bottled French dressing in the original)", "qty": 1, "unit": "tbsp", "item": "red wine vinegar" },
+        { "group": "For the dressing (homemade — replaces the bottled French dressing in the original)", "qty": 1, "unit": "tsp", "item": "Dijon mustard" },
+        { "group": "For the dressing (homemade — replaces the bottled French dressing in the original)", "qty": null, "unit": "", "item": "Pinch of salt and black pepper" }
+      ],
+      "method": [
+        "Bring a large and a small saucepan of water to the boil. Salt the large pan, then boil the potatoes for 12 minutes. Boil the eggs for 8 minutes in the small pan. Cool the eggs under cold water. Keep the potatoes on the hob.",
+        "Add the green beans to the pan with the potatoes and boil for 3 minutes more until both are tender. Drain and leave to steam dry in the colander. Peel and quarter the eggs. Put the shallot, tomatoes and olives into a serving bowl with most of the herbs.",
+        "Whisk the dressing ingredients together in a small bowl or jar.",
+        "Season the salmon with salt. Add 1 tbsp oil to a small frying pan over a high heat. When shimmering, add the salmon skin-side down. Reduce to medium-high and cook 2 minutes, then turn and cook 3-4 minutes more. Cook on the 2 remaining sides for 1 minute 30 seconds each. Transfer to a plate lined with kitchen paper and rest 2 minutes. The fish should be opaque and flake easily at the thickest part.",
+        "Add the potatoes and beans to the salad and drizzle with the dressing to taste. Season, add the eggs and toss to coat. Divide between wide bowls, top each with a salmon fillet and garnish with the remaining herbs."
+      ],
+      "nutrition": { "Energy": "723kcal", "Fat": "39.7g (sat 6.3g)", "Carbs": "44.9g (sugars 10.7g)", "Fibre": "13g", "Protein": "40.2g", "Salt": "2.6g" }
+    },
+    {
+      "id": "vietnamese-chicken-noodle-salad",
+      "title": "Vietnamese Chicken Noodle Salad",
+      "collection": "this-week",
+      "night": "Wednesday 12 August",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": { "name": "Tesco Real Food", "url": "https://realfood.tesco.com/recipes/vietnamese-chicken-noodle-salad.html" },
+      "note": "Hob only — no oven or grill.",
+      "tags": ["chicken", "salad", "hob only"],
+      "ingredients": [
+        { "group": "For the salad", "qty": 125, "unit": "g", "item": "rice noodles" },
+        { "group": "For the salad", "qty": 0.5, "unit": "", "item": "cucumber" },
+        { "group": "For the salad", "qty": 150, "unit": "g", "item": "cooked chicken, shredded" },
+        { "group": "For the salad", "qty": 1, "unit": "", "item": "medium carrot, cut into thin matchsticks" },
+        { "group": "For the salad", "qty": 3, "unit": "sprigs", "item": "mint, leaves chopped, plus a few more to garnish" },
+        { "group": "For the salad", "qty": null, "unit": "", "item": "Large handful beansprouts" },
+        { "group": "For the salad", "qty": 50, "unit": "g", "item": "salted peanuts, roughly chopped, to serve" },
+        { "group": "For the dressing", "qty": 0.5, "unit": "", "item": "lime, zested and juiced" },
+        { "group": "For the dressing", "qty": 2, "unit": "tbsp", "item": "soft brown sugar" },
+        { "group": "For the dressing", "qty": 2, "unit": "tbsp", "item": "rice vinegar" },
+        { "group": "For the dressing", "qty": 2, "unit": "tbsp", "item": "fish sauce" },
+        { "group": "For the dressing", "qty": 1, "unit": "", "item": "long red chilli, deseeded, finely chopped — OPTIONAL, leave out if you'd rather" }
+      ],
+      "method": [
+        "Cook the noodles according to pack instructions, then refresh under cold water and tip into a large bowl.",
+        "Halve the cucumber lengthways, scoop out the seeds with a teaspoon and cut into thin ribbons using a peeler. Blanch the beansprouts for at least 15 seconds in boiling water and allow to cool. Add the cucumber ribbons to the noodles, then add the chicken, carrot, mint and beansprouts and mix.",
+        "Mix all the dressing ingredients together, pour over the salad and toss.",
+        "Tip onto a serving platter and top with the peanuts and extra mint."
+      ],
+      "notes": ["The recipe assumes leftover cooked chicken. If you don't have any, poach 1 chicken breast in simmering water for about 12 minutes while the noodles soak, then shred. A shop-bought cooked chicken breast works too."],
+      "nutrition": { "Energy": "574kcal", "Fat": "16g (sat 3g)", "Carbs": "71.1g (sugars 19g)", "Fibre": "5g", "Protein": "33.9g", "Salt": "1.4g" }
+    },
+    {
+      "id": "smashed-chickpea-feta-salad",
+      "title": "Smashed Chickpea and Feta Salad",
+      "collection": "this-week",
+      "night": "Thursday 13 August",
+      "time": "15 mins",
+      "timeMins": 15,
+      "serves": 2,
+      "source": { "name": "olive magazine", "url": "https://www.olivemagazine.com/recipes/quick-and-easy/smashed-chickpea-and-feta-salad/" },
+      "note": "No cooking at all — nothing goes near the oven or the hob.",
+      "tags": ["vegetarian", "salad", "no cook"],
+      "ingredients": [
+        { "qty": 0.5, "unit": "", "item": "lemon, juiced" },
+        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 1, "unit": "tsp", "item": "cumin seeds" },
+        { "qty": 1, "unit": "", "item": "small red chilli, seeded and diced — OPTIONAL, leave out if you'd rather" },
+        { "qty": 400, "unit": "g", "item": "tin chickpeas, rinsed and drained" },
+        { "qty": 0.5, "unit": "", "item": "red onion, chopped" },
+        { "qty": 0.25, "unit": "", "item": "cucumber, diced" },
+        { "qty": 6, "unit": "", "item": "baby plum tomatoes, halved" },
+        { "qty": 50, "unit": "g", "item": "feta, crumbled" },
+        { "qty": null, "unit": "", "item": "Small bunch dill or flat-leaf parsley, chopped" },
+        { "group": "To serve", "qty": 2, "unit": "", "item": "pitta breads or flatbreads, warmed in a dry frying pan" }
+      ],
+      "method": [
+        "Whisk the lemon juice, olive oil, cumin seeds and chilli (if using) with some seasoning in a large bowl.",
+        "Lightly mash the chickpeas with a potato masher or the end of a rolling pin. Add to the dressing bowl with the onion, cucumber and tomatoes, and leave to marinate for 5 minutes. Smashing the chickpeas helps them soak up the dressing.",
+        "Stir through the feta and herbs to serve.",
+        "Warm the pittas in a dry frying pan for a minute a side and serve alongside."
+      ],
+      "nutrition": { "Energy": "369kcal", "Fat": "20.6g (sat 5.4g)", "Carbs": "26g", "Fibre": "8.5g", "Protein": "15.5g", "Salt": "0.7g" }
+    },
+
+    {
+      "id": "leftover-lamb-ragu",
+      "title": "Leftover Lamb Ragu",
+      "collection": "weekday",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": { "name": "Tesco Real Food", "url": "https://realfood.tesco.com/recipes/leftover-lamb-ragu.html" },
+      "note": "For using up leftover roast lamb. Shoulder works especially well — it's fattier than leg, so it enriches the sauce. Recipe as written serves 4; halved here.",
+      "tags": ["lamb", "pasta", "leftovers"],
+      "ingredients": [
+        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 0.5, "unit": "", "item": "onion, sliced" },
+        { "qty": 1.5, "unit": "", "item": "garlic cloves, crushed" },
+        { "qty": 0.5, "unit": "", "item": "red chilli, seeded and finely chopped — optional, background warmth not heat" },
+        { "qty": 0.5, "unit": "tsp", "item": "dried oregano" },
+        { "qty": 0.5, "unit": "tsp", "item": "rosemary leaves, finely chopped" },
+        { "qty": 125, "unit": "g", "item": "leftover roast lamb, finely diced (use more if you have it — the sauce takes it)" },
+        { "qty": 0.5, "unit": "tsp", "item": "dark brown sugar" },
+        { "qty": 0.5, "unit": "", "item": "carrot, grated" },
+        { "qty": 1, "unit": "tbsp", "item": "tomato purée" },
+        { "qty": 200, "unit": "g", "item": "tinned chopped tomatoes (half a 400g tin)" },
+        { "qty": 0.5, "unit": "tsp", "item": "Worcestershire sauce" },
+        { "qty": 200, "unit": "g", "item": "rigatoni" },
+        { "qty": 25, "unit": "g", "item": "parmesan, finely grated" },
+        { "qty": null, "unit": "", "item": "Black pepper" }
+      ],
+      "method": [
+        "Soften the onion in the oil over medium heat, 5-10 minutes, until golden.",
+        "Add the garlic, chilli, oregano and rosemary. Cook 2 minutes. Stir in the lamb, sugar, carrot and tomato purée.",
+        "Add the tomatoes and 50ml water. Bring to the boil, then reduce to a simmer. Stir in the Worcestershire sauce and cook gently for 15 minutes until thick and syrupy. If you have any leftover gravy or roasting juices, tip a spoonful in here.",
+        "Cook the pasta meanwhile. Just before draining, save a splash of the pasta water.",
+        "Off the heat, stir half the parmesan through the ragu with the pasta water — it thickens the sauce and helps it cling.",
+        "Divide the pasta between two bowls, ladle over the ragu, and grate the rest of the parmesan over with plenty of black pepper."
+      ],
+      "notes": [
+        "Parmesan in place of the ricotta garnish. Taste before adding extra salt in step 3 — parmesan brings its own.",
+        "Rosemary in place of the basil garnish. Rosemary goes in early with the garlic and cooks into the sauce; raw on top it's woody and harsh. Thyme works the same way and is gentler."
+      ],
+      "nutrition": { "Energy": "615kcal", "Fat": "17g (sat 6g)", "Carbs": "86.8g (sugars 12g)", "Fibre": "3.5g", "Protein": "35g", "Salt": "0.6g" }
+    },
+    {
+      "id": "summer-lamb-orzo-salad",
+      "title": "Summer Lamb and Orzo Salad",
+      "collection": "weekday",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/summer-lamb-orzo-salad/" },
+      "note": "Recipe as written serves 4; halved here.",
+      "tags": ["lamb", "salad", "griddle"],
+      "ingredients": [
+        { "qty": 100, "unit": "g", "item": "orzo" },
+        { "qty": 50, "unit": "g", "item": "frozen peas" },
+        { "qty": 30, "unit": "g", "item": "feta, crumbled" },
+        { "qty": 0.5, "unit": "", "item": "courgette, peeled into ribbons" },
+        { "qty": 0.25, "unit": "", "item": "red chilli, deseeded and finely chopped (optional — mild background warmth only)" },
+        { "qty": null, "unit": "", "item": "Handful finely chopped fresh mint, plus extra to garnish" },
+        { "qty": 0.5, "unit": "", "item": "preserved lemon, deseeded and finely chopped" },
+        { "qty": 0.5, "unit": "", "item": "lemon, juiced" },
+        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 4, "unit": "", "item": "Welsh lamb cutlets (approx 100g each)" },
+        { "qty": 5, "unit": "g", "item": "pine nuts, toasted in a dry pan for 2 minutes" }
+      ],
+      "method": [
+        "Cook the orzo in boiling water for 8-10 minutes until just tender, adding the peas for the last 2-3 minutes. Drain, refresh under cold water and drain again. Tip into a bowl and mix in the feta, courgette ribbons, chilli and chopped mint.",
+        "Whisk the preserved lemon, lemon juice, 1 tbsp of the olive oil and a pinch of salt and pepper. Pour over the orzo, stir and transfer to a serving dish.",
+        "Heat a griddle to high. Rub the remaining olive oil over the lamb, season both sides. Cook 2-3 minutes per side until charred and tender.",
+        "Arrange lamb over the orzo. Scatter over the pine nuts and extra mint. Serve immediately."
+      ]
+    },
+    {
+      "id": "lemony-courgette-linguine",
+      "title": "Lemony Courgette Linguine",
+      "collection": "weekday",
+      "time": "15 mins",
+      "timeMins": 15,
+      "serves": 2,
+      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/pasta/lemony-courgette-linguine/" },
+      "tags": ["vegetarian", "pasta", "quick"],
+      "ingredients": [
+        { "qty": 150, "unit": "g", "item": "dried linguine" },
+        { "qty": 2, "unit": "", "item": "mixed-colour courgettes" },
+        { "qty": 0.5, "unit": "bunch", "item": "fresh mint (15g)" },
+        { "qty": 30, "unit": "g", "item": "Parmesan cheese" },
+        { "qty": 1, "unit": "", "item": "lemon" }
+      ],
+      "method": [
+        "Cook the linguine in boiling salted water according to packet instructions. Drain, reserving a mugful of cooking water.",
+        "Slice the courgettes lengthways, then into long matchsticks (or use the julienne cutter on a mandolin).",
+        "Heat 1 tbsp olive oil in a large non-stick frying pan over medium-high heat. Add the courgettes and cook for 4 minutes, tossing regularly. Finely slice the mint leaves and stir in.",
+        "Toss the drained pasta into the pan with a splash of reserved cooking water. Finely grate in most of the Parmesan and a little lemon zest, squeeze in all the juice. Toss well, taste and season.",
+        "Dish up, grate over the remaining Parmesan and drizzle with 1 tsp extra virgin olive oil."
+      ]
+    },
+    {
+      "id": "quick-sticky-chicken-salad",
+      "title": "Quick Sticky Chicken Salad",
+      "collection": "weekday",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/quick-sticky-chicken-salad/" },
+      "note": "Recipe as written serves 4; halved here.",
+      "tags": ["chicken", "salad", "griddle"],
+      "ingredients": [
+        { "qty": null, "unit": "", "item": "Zest of 1/2 lemon and juice of 3/4 lemon" },
+        { "qty": 1, "unit": "tbsp", "item": "runny honey" },
+        { "qty": 1.75, "unit": "tbsp", "item": "extra-virgin olive oil" },
+        { "qty": null, "unit": "", "item": "Small bunch fresh mint, half chopped, half kept whole" },
+        { "qty": 2, "unit": "", "item": "skinless chicken breasts, each sliced into 3 pieces" },
+        { "qty": 100, "unit": "g", "item": "podded broad beans" },
+        { "qty": 100, "unit": "g", "item": "garlic ciabatta, sliced in half lengthways" },
+        { "qty": null, "unit": "", "item": "Large handful lamb's lettuce" },
+        { "qty": 200, "unit": "g", "item": "tinned chickpeas, drained and rinsed (half a 400g tin)" },
+        { "qty": 75, "unit": "g", "item": "cherry tomatoes, chopped" },
+        { "qty": 0.25, "unit": "", "item": "cucumber, deseeded and diced" },
+        { "qty": null, "unit": "", "item": "Small handful fresh parsley, chopped" },
+        { "qty": 1, "unit": "tsp", "item": "grainy mustard" }
+      ],
+      "method": [
+        "Mix together the lemon zest and juice (keeping about 1 tbsp juice back for the dressing), honey, 1 tbsp of the oil and the chopped mint. Season and add the chicken, stir to coat, leave 10 minutes.",
+        "Blanch the broad beans in boiling water for 2 minutes. Drain, refresh in cold water, drain again and slip from their skins. Tear the ciabatta into pieces and grill for 5 minutes until golden.",
+        "Heat a griddle over high heat. Cook chicken 2-3 minutes each side until charred, sticky and cooked through.",
+        "Toss the lettuce, broad beans, ciabatta, chickpeas, tomatoes, cucumber, parsley and remaining mint in a large bowl. Whisk the remaining oil, 1 tbsp lemon juice and mustard into a dressing. Season, pour over, add the warm chicken and toss."
+      ]
+    },
+    {
+      "id": "mediterranean-halloumi-salad",
+      "title": "Mediterranean Halloumi Salad",
+      "collection": "weekday",
+      "time": "30 mins",
+      "timeMins": 30,
+      "serves": 4,
+      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/mediterranean-halloumi-salad/" },
+      "tags": ["vegetarian", "salad"],
+      "ingredients": [
+        { "qty": 0.5, "unit": "", "item": "small red onion, finely sliced" },
+        { "qty": 7, "unit": "", "item": "medium vine tomatoes, sliced" },
+        { "qty": 100, "unit": "g", "item": "roasted red and yellow peppers in oil, drained and sliced" },
+        { "qty": 18, "unit": "", "item": "caperberries" },
+        { "qty": null, "unit": "", "item": "Handful small black olives" },
+        { "qty": 3, "unit": "tbsp", "item": "extra-virgin olive oil" },
+        { "qty": 450, "unit": "g", "item": "halloumi (2 x 225g packs)" },
+        { "qty": null, "unit": "", "item": "Handful fresh basil leaves" },
+        { "qty": null, "unit": "", "item": "Crusty bread, to serve" }
+      ],
+      "method": [
+        "Place the onion in a small bowl, cover with freshly boiled water, leave a minute, then drain and rinse in cold water. Lay the sliced tomatoes on a platter, scatter over the blanched onion, roasted peppers, caperberries and olives. Drizzle with 2 tbsp of the olive oil, season well, and set aside.",
+        "Thickly slice the halloumi. Heat a frying pan over high heat and cook the cheese in batches for a minute on each side until golden. Add to the platter, drizzle with the remaining olive oil, scatter over basil leaves, and serve with crusty bread."
+      ]
+    },
+    {
+      "id": "creamy-garlic-prawn-pasta",
+      "title": "Creamy Garlic Prawn Pasta",
+      "collection": "weekday",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 3,
+      "source": { "name": "olive magazine", "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/creamy-garlic-prawn-pasta/" },
+      "tags": ["seafood", "pasta", "quick"],
+      "ingredients": [
+        { "qty": 200, "unit": "g", "item": "linguine" },
+        { "qty": 1, "unit": "tbsp", "item": "butter" },
+        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 1, "unit": "", "item": "garlic clove, crushed" },
+        { "qty": null, "unit": "", "item": "Pinch of dried chilli flakes (optional)" },
+        { "qty": 125, "unit": "ml", "item": "white wine" },
+        { "qty": 3, "unit": "tbsp", "item": "mascarpone, crème fraîche or double cream" },
+        { "qty": 200, "unit": "g", "item": "raw king prawns, defrosted if frozen" },
+        { "qty": 2, "unit": "tbsp", "item": "chopped soft herbs (chives, parsley or tarragon, or a mix)" },
+        { "qty": null, "unit": "", "item": "Squeeze of lemon juice" }
+      ],
+      "method": [
+        "Cook the linguine following pack instructions.",
+        "Meanwhile, heat the butter and oil in a large frying pan over low heat and cook the garlic and chilli flakes (if using) for 2 minutes until fragrant.",
+        "Pour in the wine and simmer a few minutes until reduced by half, then stir in the mascarpone and season well. Add the prawns and cook until pink and cooked through. Stir in the herbs, then tip in the drained linguine and toss with a splash of the cooking water until saucy and slippery. Finish with a squeeze of lemon juice and serve."
+      ]
+    },
+
+    {
+      "id": "slow-roasted-lamb-shoulder",
+      "title": "Slow-Roasted Shoulder of Spring Lamb",
+      "collection": "weekend",
+      "time": "30 mins prep + ~4.5 hrs",
+      "timeMins": 300,
+      "serves": 4,
+      "source": { "name": "Raymond Blanc", "url": "https://raymondblanc.com/recipes/slow-roasted-shoulder-of-spring-lamb/" },
+      "note": "Mostly hands-off. In by 2pm, on the table at 7pm with almost no intervention.",
+      "tags": ["lamb", "roast", "slow"],
+      "ingredients": [
+        { "group": "Meat", "qty": 1.75, "unit": "kg", "item": "shoulder of lamb, bone-in (1.5–2kg)" },
+        { "group": "Meat", "qty": 200, "unit": "g", "item": "lamb bones and trimmings (ask your butcher)" },
+        { "group": "Rub", "qty": 4, "unit": "pinches", "item": "sea salt" },
+        { "group": "Rub", "qty": null, "unit": "", "item": "Freshly ground black pepper" },
+        { "group": "Rub", "qty": 2, "unit": "sprigs", "item": "rosemary, leaves finely chopped" },
+        { "group": "Rub", "qty": 3, "unit": "", "item": "sage leaves, finely chopped" },
+        { "group": "Rub", "qty": 2, "unit": "tbsp", "item": "olive oil" },
+        { "group": "For the pan", "qty": 2, "unit": "tbsp", "item": "rapeseed oil" },
+        { "group": "For the pan", "qty": 1, "unit": "bulb", "item": "garlic, halved horizontally" },
+        { "group": "For the pan", "qty": 100, "unit": "ml", "item": "dry white wine" },
+        { "group": "For the pan", "qty": 450, "unit": "ml", "item": "hot water (400–500ml)" },
+        { "group": "For the pan", "qty": 1, "unit": "", "item": "bay leaf" },
+        { "group": "For the pan", "qty": 3, "unit": "sprigs", "item": "thyme" }
+      ],
+      "method": [
+        "Marinate (1–2 hrs before) — Score the lamb skin lightly. Rub all over with the salt, pepper, chopped rosemary, sage and olive oil. Leave at room temperature for at least 1–2 hours.",
+        "Colour the bones (230°C / Gas 8) — Heat the rapeseed oil in a large heavy roasting pan over medium heat. Add the bones and trimmings and colour for 7–10 minutes until lightly golden. Add the garlic, brown for 3 minutes, then remove the pan from the heat.",
+        "Start the roast — Sit the lamb shoulder on top of the bones. Roast at 230°C for 20 minutes. Meanwhile, bring the wine to a boil in a small pan, let it bubble for 30 seconds, then add 400ml hot water, the bay leaf and thyme.",
+        "Long, slow cook (150°C / Gas 2, 4 hours) — Take the lamb out, baste with pan juices, skim excess fat, and pour the wine-water mixture into the pan. Cover loosely with foil. Return to the oven at 150°C and roast for a further 4 hours, basting every 30 minutes. Add another 100ml water if juices reduce too far.",
+        "Rest and finish — Remove the lamb and rest. Strain the juices into a small saucepan, skim the fat, reheat until bubbling, and season. The meat will be fall-apart tender — serve at the table."
+      ],
+      "notes": [
+        "Serve with a gratin dauphinois, celeriac gratin, or braised seasonal vegetables. Crushed New Potatoes and Griddled Courgettes both pair with this.",
+        "Why it works with premier cru Burgundy: slow-cooked lamb shoulder has enough richness to stand up to the wine without overpowering it. The rosemary, sage and thyme echo the earthiness and forest floor notes in the Pinot, while the clean wine-and-water jus keeps things elegant."
+      ]
+    },
+    {
+      "id": "crushed-new-potatoes",
+      "title": "Crushed New Potatoes",
+      "collection": "weekend",
+      "time": "45 mins (+ cooling)",
+      "timeMins": 45,
+      "serves": 4,
+      "source": { "name": "olive magazine (Adam Bush)", "url": "https://www.olivemagazine.com/recipes/vegetarian/crispy-smashed-new-potatoes/" },
+      "note": "Side dish. Paired for the slow-roasted lamb shoulder.",
+      "tags": ["side", "vegetarian"],
+      "ingredients": [
+        { "qty": 500, "unit": "g", "item": "baby new potatoes" },
+        { "qty": 4, "unit": "cloves", "item": "garlic, peeled" },
+        { "qty": 35, "unit": "g", "item": "butter, plus a little extra" },
+        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
+        { "qty": null, "unit": "", "item": "A few sprigs rosemary" }
+      ],
+      "method": [
+        "Put the potatoes into a large pan of boiling salted water and cook for 15-20 minutes until tender. Add the garlic cloves for the final 10 minutes. Drain well and cool.",
+        "Once cool, press each potato between the side of a large knife and a chopping board until squashed and flat.",
+        "Heat the butter and oil in a large frying pan and, once foaming, add the squashed potatoes and some seasoning. Fry for 5-10 minutes until deeply golden and crunchy, then flip, add the garlic cloves, rosemary and another knob of butter, and cook until really golden."
+      ]
+    },
+    {
+      "id": "griddled-courgettes-lemon-mint",
+      "title": "Griddled Courgettes with Lemon & Mint",
+      "collection": "weekend",
+      "time": "30 mins",
+      "timeMins": 30,
+      "serves": 4,
+      "source": { "name": "Abel & Cole (Jassy Davis)", "url": "https://www.abelandcole.co.uk/recipes/griddled-courgettes-with-lemon-mint" },
+      "note": "Side dish, good warm or cold. Paired for the slow-roasted lamb shoulder.",
+      "tags": ["side", "vegetarian", "griddle"],
+      "ingredients": [
+        { "qty": 2, "unit": "", "item": "large courgettes" },
+        { "qty": 1, "unit": "", "item": "lemon" },
+        { "qty": null, "unit": "", "item": "A handful of mint, leaves only" },
+        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 0.5, "unit": "tbsp", "item": "balsamic vinegar" },
+        { "qty": null, "unit": "", "item": "Sea salt and freshly ground pepper" }
+      ],
+      "method": [
+        "Slice the courgettes on the diagonal to make oval slices around 1/2 cm thick.",
+        "Put a heavy-based griddle or frying pan over a high heat and warm for 1 min. Arrange a layer of slices in the pan and fry for 4-5 mins, turning once, until charred on both sides. Take the courgettes out of the pan and arrange on a serving plate. Repeat with the rest of the courgette slices.",
+        "While the courgettes cook, zest the lemon. Pick the leaves off the mint. Finely shred the larger leaves. Juice half the lemon. Whisk it with the olive oil, balsamic vinegar and a pinch of salt and pepper.",
+        "When the courgettes are all cooked, drizzle over the dressing. Scatter over the lemon zest and mint and serve. This dish is good warm or cold."
+      ]
+    },
+    {
+      "id": "pork-tenderloin-fennel",
+      "title": "Pan-Roasted Pork Tenderloin with Fennel",
+      "collection": "weekend",
+      "time": "30 mins",
+      "timeMins": 30,
+      "serves": 4,
+      "source": { "name": "Platter Talk (adapted from Ian Knauer)", "url": "https://www.plattertalk.com/fennel-rubbed-pork-tenderloin-fennel-wedges/" },
+      "tags": ["pork", "roast"],
+      "ingredients": [
+        { "qty": 450, "unit": "g", "item": "pork tenderloin" },
+        { "qty": 1, "unit": "tbsp", "item": "ground fennel seeds" },
+        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 2, "unit": "", "item": "fennel bulbs, fronds reserved" },
+        { "qty": 3, "unit": "cloves", "item": "garlic, crushed" },
+        { "qty": null, "unit": "", "item": "Salt and black pepper" },
+        { "qty": 240, "unit": "ml", "item": "dry white wine" },
+        { "qty": 240, "unit": "ml", "item": "low-sodium chicken broth" },
+        { "qty": 2, "unit": "tbsp", "item": "unsalted butter" },
+        { "qty": 0.5, "unit": "", "item": "lemon, juiced" }
+      ],
+      "method": [
+        "Preheat oven to 180°C / 350°F.",
+        "Pat the pork dry with paper towel. Rub ground fennel seeds all over the meat, season with salt and pepper.",
+        "Heat olive oil in an oven-safe pan or skillet over medium-high heat. Brown the tenderloin on all sides, about 6 minutes. Remove and set aside on a plate.",
+        "Cut fennel bulbs into 1.5cm wedges. Using the same pan, sauté fennel and garlic over medium heat until fennel is golden and tender, about 6 minutes.",
+        "Add wine and deglaze the pan, scraping up any brown bits. Add butter and broth; stir to combine.",
+        "Place pork on top of the fennel and transfer the pan to the oven. Roast until the internal temperature reaches 63–65°C, about 15 minutes.",
+        "Transfer pork to a cutting board and rest for 10 minutes.",
+        "While pork rests, return the skillet to the stovetop and simmer the liquid until almost completely reduced.",
+        "Add lemon juice, reduce heat, and stir in the reserved chopped fennel fronds.",
+        "Slice pork, serve over fennel wedges, and spoon sauce over the top."
+      ],
+      "notes": ["Use an instant-read thermometer — 63°C keeps the pork juicy. Don't skip the rest."]
+    },
+    {
+      "id": "sea-bass-crudo",
+      "title": "Sea Bass Crudo",
+      "collection": "weekend",
+      "time": "5 mins",
+      "timeMins": 5,
+      "serves": 2,
+      "source": { "name": "Alvin", "url": "" },
+      "note": "Serves 2 as a starter. No cooking required.",
+      "tags": ["fish", "starter", "no cook"],
+      "ingredients": [
+        { "qty": 300, "unit": "g", "item": "sea bass fillets, skinned and pin-boned" },
+        { "qty": 2, "unit": "tbsp", "item": "extra-virgin olive oil" },
+        { "qty": 1.5, "unit": "tbsp", "item": "lemon juice, freshly squeezed" },
+        { "qty": null, "unit": "", "item": "Flaky sea salt and black pepper" },
+        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Finely sliced red onion" },
+        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Chives" },
+        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Fresh chilli" },
+        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Radish, thinly sliced" }
+      ],
+      "method": [
+        "Place the fish and your serving plates in the freezer for 10 minutes beforehand — cold fish slices more cleanly and stays fresher longer on the plate.",
+        "Using a sharp knife, slice the fish thinly on a 45° angle, about 2–3mm thick. Lay slices in a single layer on the cold plates.",
+        "Sprinkle with flaky salt, then drizzle lemon juice over the fish, followed by the olive oil.",
+        "Crack over black pepper and add any optional garnishes.",
+        "Serve immediately."
+      ],
+      "notes": ["Ask your fishmonger to skin and pin-bone the sea bass for you. Quality of fish is everything here — buy the freshest you can find."]
+    },
+    {
+      "id": "perfect-pan-fried-chicken-breasts",
+      "title": "Perfect Pan-Fried Chicken Breasts",
+      "collection": "weekend",
+      "time": "20 mins + 30 mins dry-brining",
+      "timeMins": 50,
+      "serves": 2,
+      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/perfect-pan-fried-chicken-breasts/" },
+      "tags": ["chicken", "technique"],
+      "ingredients": [
+        { "qty": 2, "unit": "", "item": "free-range chicken breasts" },
+        { "qty": 1, "unit": "tbsp", "item": "coarse sea salt" },
+        { "qty": null, "unit": "", "item": "Drizzle olive oil" },
+        { "qty": 20, "unit": "g", "item": "unsalted butter" },
+        { "qty": 1, "unit": "", "item": "anchovy fillet, drained (or 1/2 tsp chopped capers)" },
+        { "qty": 1, "unit": "tsp", "item": "white wine vinegar" },
+        { "qty": null, "unit": "", "item": "Small handful parsley or chives, chopped" }
+      ],
+      "method": [
+        "Put the chicken breasts in a large food bag and bash the thicker parts with a rolling pin until an even 1.5-1.7cm thick. Add the salt and massage into the chicken. Leave at room temperature to dry-brine for 30 minutes (no more).",
+        "Remove from the bag and brush off excess salt. Heat a large frying pan over medium-high heat, add the oil. Once simmering, add the chicken. Cook 5-6 minutes each side without moving it, for a strong caramelised sear. In the final minute, add the butter and baste the chicken once it's foaming. Rest the chicken 5 minutes.",
+        "While resting, add the anchovy to the butter in the pan, stirring until dissolved. Add the vinegar, swirl and cook 1 minute. Slice the chicken against the grain, plate up, add resting juices to the sauce with the chopped herbs, and pour over the chicken."
+      ],
+      "notes": ["The original recipe suggests roast new potatoes and seasonal veg as sides — swap in boiled new potatoes or a simple summer salad to keep it fully oven-free in hot weather."]
+    },
+    {
+      "id": "greek-salad-horiatiki",
+      "title": "Authentic Greek Salad (Horiatiki)",
+      "collection": "weekend",
+      "time": "10 mins",
+      "timeMins": 10,
+      "serves": 4,
+      "source": { "name": "The Mediterranean Dish / My Greek Dish / The Greek Foodie", "url": "" },
+      "note": "Traditional village salad — no lettuce, no fuss.",
+      "tags": ["vegetarian", "salad", "no cook"],
+      "ingredients": [
+        { "qty": 4, "unit": "", "item": "large ripe tomatoes, cut into chunky wedges" },
+        { "qty": 1, "unit": "", "item": "cucumber, cut into thick half-moons" },
+        { "qty": 1, "unit": "", "item": "green bell pepper, sliced into rings" },
+        { "qty": 1, "unit": "", "item": "small red onion, thinly sliced" },
+        { "qty": null, "unit": "", "item": "A generous handful of Kalamata olives" },
+        { "qty": 200, "unit": "g", "item": "block of feta cheese (placed whole on top — do not crumble)" },
+        { "qty": null, "unit": "", "item": "Extra virgin olive oil (good quality — this is the dressing)" },
+        { "qty": null, "unit": "", "item": "Splash of red wine vinegar (optional)" },
+        { "qty": null, "unit": "", "item": "Pinch of dried oregano" },
+        { "qty": null, "unit": "", "item": "Salt and black pepper" }
+      ],
+      "method": [
+        "Combine the tomatoes, cucumber, green pepper, and red onion in a wide bowl or on a platter. Season lightly with salt.",
+        "Scatter over the olives.",
+        "Place the block of feta on top — do not crumble it.",
+        "Drizzle generously with extra virgin olive oil. Add a splash of red wine vinegar if using.",
+        "Finish with a pinch of dried oregano over the feta and a crack of black pepper.",
+        "Serve immediately, or let it sit for a few minutes so the tomato juices start to mingle with the oil."
+      ],
+      "notes": [
+        "No lettuce. Ever. That's the westernised version.",
+        "No lemon juice — it doesn't belong in horiatiki.",
+        "The feta goes on as a whole block, not crumbled.",
+        "Cut everything chunky — this is a rustic village salad, not a finely chopped one.",
+        "The quality of your tomatoes and olive oil makes or breaks this dish. Use the ripest tomatoes you can find."
+      ]
+    },
+    {
+      "id": "lamb-cutlets-basil-sauce",
+      "title": "Lamb Cutlets in Basil Sauce",
+      "collection": "weekend",
+      "time": "20 mins plus resting",
+      "timeMins": 20,
+      "serves": 4,
+      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/lamb/best-lamb-cutlets-with-special-basil-sauce/" },
+      "tags": ["lamb", "griddle"],
+      "ingredients": [
+        { "qty": 12, "unit": "", "item": "lamb cutlets" },
+        { "qty": null, "unit": "", "item": "Small handful fresh thyme, leaves picked" },
+        { "qty": null, "unit": "", "item": "Extra virgin olive oil" },
+        { "qty": 400, "unit": "g", "item": "mushrooms, brushed clean and torn (wild, or chestnut/oyster)" },
+        { "qty": null, "unit": "", "item": "Small handful fresh flat-leaf parsley" },
+        { "qty": 1, "unit": "", "item": "lemon" },
+        { "qty": 2, "unit": "handfuls", "item": "pine nuts" },
+        { "qty": 2, "unit": "large handfuls", "item": "fresh basil" },
+        { "qty": 4, "unit": "tbsp", "item": "balsamic vinegar (3-5 tbsp to taste)" },
+        { "qty": null, "unit": "", "item": "Watercress, to serve" }
+      ],
+      "method": [
+        "Best cooked on a hot barbecue, or use a preheated ridged griddle/frying pan. Flatten the cutlets slightly. Bash the thyme with a little olive oil in a pestle and mortar, rub over the cutlets, and season both sides.",
+        "Cook the mushrooms dry on the hot pan, both sides, to mark them, then set aside in a large bowl. Cook the lamb: about 3-4 minutes each side for cutlets around 1.5cm thick, for medium (less time for rare).",
+        "Add the lamb to the mushroom bowl, drizzle with olive oil, tear over the parsley, squeeze over the lemon juice, season, and toss. Rest so the juices soak into the mushrooms.",
+        "Make the sauce: pound the pine nuts to a pulp in a pestle and mortar, transfer to a bowl. Pound the basil to a pulp and add to the pine nuts, loosening with olive oil until it drops easily off a spoon.",
+        "Balance with balsamic vinegar to taste for a good zing. Give the lamb and mushrooms a final toss. Serve on a platter with the sauce and a simple watercress salad on the side."
+      ]
+    },
+    {
+      "id": "butterflied-leg-of-lamb",
+      "title": "Lemon Thyme and Fennel Butterflied Leg of Lamb",
+      "collection": "weekend",
+      "time": "25-30 mins on the barbecue + 1-24 hrs marinating",
+      "timeMins": 35,
+      "serves": 6,
+      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/lemon-thyme-and-fennel-butterflied-leg-of-lamb/" },
+      "tags": ["lamb", "barbecue"],
+      "ingredients": [
+        { "qty": 2.5, "unit": "kg", "item": "good-quality leg of lamb, butterflied (ask your butcher), trimmed of fat" },
+        { "qty": 6, "unit": "tbsp", "item": "olive oil" },
+        { "qty": 2, "unit": "", "item": "large garlic cloves, crushed" },
+        { "qty": 1, "unit": "tbsp", "item": "fennel seeds, lightly crushed" },
+        { "qty": 6, "unit": "sprigs", "item": "lemon thyme, leaves picked" },
+        { "qty": 1, "unit": "", "item": "lemon, pared zest and juice" },
+        { "qty": 1, "unit": "tsp", "item": "Maldon sea salt flakes" },
+        { "qty": 0.5, "unit": "tsp", "item": "coarsely crushed black peppercorns" },
+        { "qty": null, "unit": "", "item": "Chunky chips (or a summer salad), to serve" }
+      ],
+      "method": [
+        "Cut and open up any thicker areas of meat so it's all about 4-5cm thick. Mix all the other ingredients (apart from the chips) together in a large shallow dish, add the lamb and coat well. Cover and marinate at room temperature for 1 hour, or chill and marinate for up to 24 hours.",
+        "If using a charcoal barbecue, light about 30 minutes before you want to cook. For a gas barbecue, preheat 10 minutes beforehand.",
+        "Lift the lamb out of the dish, let excess oily marinade drain away, then lay on the barbecue. Cook over direct high heat for 25-30 minutes, turning occasionally and moving away from flare-ups, until well-coloured but pink and juicy in the middle (or 60°C on a meat thermometer). Cook longer if you prefer it more done.",
+        "Transfer to a board, cover and rest for 5 minutes. Carve into thick slices and serve."
+      ]
+    }
+  ]
+}
