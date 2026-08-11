@@ -1,7 +1,7 @@
 {
   "name": "Kitchen",
   "short_name": "Kitchen",
-  "description": "Andy and Ruth's recipes",
+  "description": "Our recipes, ready to cook from",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
