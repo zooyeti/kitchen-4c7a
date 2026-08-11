@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Kitchen</title>
 <meta name="description" content="Our recipes, ready to cook from">
-<meta name="theme-color" content="#1b1a17" media="(prefers-color-scheme: dark)">
-<meta name="theme-color" content="#faf7f2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1E1B1A" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#F7F2E9" media="(prefers-color-scheme: light)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Kitchen">
@@ -15,14 +15,16 @@
 <link rel="icon" href="./icon-192.png">
 <style>
 :root{
-  --bg:#faf7f2; --surface:#fff; --surface-2:#f3ede4; --text:#232019; --muted:#7a7268;
-  --line:#e6ddd0; --accent:#b4552d; --accent-soft:#f6e7df; --shadow:0 1px 2px rgba(35,32,25,.06),0 6px 20px rgba(35,32,25,.05);
+  --bg:#F7F2E9; --surface:#FFFFFF; --surface-2:#EEE6D8; --text:#2A2A2E; --muted:#756E63;
+  --line:#E3D9C6; --accent:#7A1F2B; --accent-soft:#F1DEE0; --on-accent:#FFFFFF; --shadow:0 1px 2px rgba(42,42,46,.06),0 6px 20px rgba(42,42,46,.05);
   --radius:16px;
 }
 @media (prefers-color-scheme:dark){
   :root{
-    --bg:#1b1a17; --surface:#232220; --surface-2:#2b2926; --text:#f0ece5; --muted:#a09789;
-    --line:#37342f; --accent:#e07d51; --accent-soft:#3a2a21; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
+    /* accent lifts to a dusty rose so it stays visible at 3px; --on-accent switches to a dark
+       ink instead of white to keep text/icons on top of it readable (6.5:1 vs 2.6:1 for white) */
+    --bg:#1E1B1A; --surface:#282422; --surface-2:#332E2B; --text:#F2EDE5; --muted:#B0A79A;
+    --line:#3E3833; --accent:#D98A96; --accent-soft:#3A2429; --on-accent:#1E1B1A; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
   }
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -49,7 +51,7 @@ header{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px s
 .tabs{display:flex;gap:6px;padding-bottom:10px;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tab{padding:7px 14px;border-radius:999px;background:var(--surface-2);color:var(--muted);font-size:14px;font-weight:600;white-space:nowrap}
-.tab[aria-current="true"]{background:var(--accent);color:#fff}
+.tab[aria-current="true"]{background:var(--accent);color:var(--on-accent)}
 #search{display:none;padding:0 0 12px}
 #search.on{display:block}
 #search input{width:100%;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface);color:var(--text);font-size:16px}
@@ -77,13 +79,13 @@ h1.title{font-size:27px;line-height:1.2;letter-spacing:-.025em;margin:0 0 8px;fo
 .scaler{display:flex;align-items:center;gap:8px;margin-bottom:14px;flex-wrap:wrap}
 .scaler span{font-size:13.5px;color:var(--muted);margin-right:2px}
 .sbtn{padding:6px 14px;border-radius:10px;background:var(--surface-2);font-size:14px;font-weight:600;color:var(--muted)}
-.sbtn[aria-pressed="true"]{background:var(--accent);color:#fff}
+.sbtn[aria-pressed="true"]{background:var(--accent);color:var(--on-accent)}
 ul.ing{list-style:none;margin:0;padding:0}
 ul.ing li{padding:10px 0;border-bottom:1px solid var(--line);display:flex;gap:11px;align-items:flex-start;font-size:15.5px;cursor:pointer}
 ul.ing li:last-child{border-bottom:0}
 ul.ing li .box{width:21px;height:21px;border-radius:6px;border:2px solid var(--line);flex:none;margin-top:2px;display:grid;place-items:center;transition:.15s}
 ul.ing li.done .box{background:var(--accent);border-color:var(--accent)}
-ul.ing li.done .box::after{content:"";width:5px;height:9px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(45deg) translate(-1px,-1px)}
+ul.ing li.done .box::after{content:"";width:5px;height:9px;border:solid var(--on-accent);border-width:0 2px 2px 0;transform:rotate(45deg) translate(-1px,-1px)}
 ul.ing li.done .txt{opacity:.4;text-decoration:line-through}
 .q{font-variant-numeric:tabular-nums;font-weight:650}
 .grp{font-size:13px;font-weight:700;color:var(--accent);margin:16px 0 2px}
@@ -97,7 +99,7 @@ ul.notes li{margin-bottom:7px}
 .nutri div{background:var(--surface-2);border-radius:11px;padding:10px 12px}
 .nutri b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700}
 .nutri span{font-size:14.5px;font-weight:600}
-.cookbtn{position:sticky;bottom:16px;margin:30px 0 0;width:100%;padding:16px;border-radius:15px;background:var(--accent);color:#fff;font-size:16px;font-weight:700;box-shadow:0 6px 22px rgba(180,85,45,.35)}
+.cookbtn{position:sticky;bottom:16px;margin:30px 0 0;width:100%;padding:16px;border-radius:15px;background:var(--accent);color:var(--on-accent);font-size:16px;font-weight:700;box-shadow:0 6px 22px rgba(122,31,43,.35)}
 .cookbtn:active{transform:scale(.985)}
 
 /* cook mode */
@@ -114,7 +116,7 @@ ul.notes li{margin-bottom:7px}
 .cing p{margin:0;font-size:14.5px;color:var(--muted);line-height:1.7}
 .cnav{display:flex;gap:10px;padding:14px 18px;border-top:1px solid var(--line)}
 .cnav button{flex:1;padding:16px;border-radius:14px;background:var(--surface-2);font-size:15px;font-weight:700}
-.cnav button.primary{background:var(--accent);color:#fff}
+.cnav button.primary{background:var(--accent);color:var(--on-accent)}
 .cnav button:disabled{opacity:.35}
 .prog{height:3px;background:var(--surface-2)}
 .prog div{height:100%;background:var(--accent);transition:width .25s}
