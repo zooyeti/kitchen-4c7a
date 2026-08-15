@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-15",
   "recipes": [
     {
       "id": "seared-salmon-nicoise",
@@ -549,6 +549,45 @@
         "If using a charcoal barbecue, light about 30 minutes before you want to cook. For a gas barbecue, preheat 10 minutes beforehand.",
         "Lift the lamb out of the dish, let excess oily marinade drain away, then lay on the barbecue. Cook over direct high heat for 25-30 minutes, turning occasionally and moving away from flare-ups, until well-coloured but pink and juicy in the middle (or 60°C on a meat thermometer). Cook longer if you prefer it more done.",
         "Transfer to a board, cover and rest for 5 minutes. Carve into thick slices and serve."
+      ]
+    },
+    {
+      "id": "thai-basil-chicken-pad-kra-pao",
+      "title": "Thai Basil Chicken (Pad Kra Pao Gai)",
+      "collection": "weekend",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": { "name": "Eating Thai Food (Mark Wiens)", "url": "https://www.eatingthaifood.com/thai-basil-chicken-recipe-pad-kra-pao-gai/" },
+      "note": "Hob only — no oven. Recipe as written serves 1; doubled here for 2. Andy prefers milder heat than the traditional version — start with 2-3 chillies rather than the 8 below, or deseed them.",
+      "tags": ["chicken", "thai", "stir-fry", "hob only", "spicy"],
+      "ingredients": [
+        { "group": "For the fried eggs", "qty": 2, "unit": "", "item": "eggs" },
+        { "group": "For the fried eggs", "qty": 4, "unit": "tbsp", "item": "oil, for frying" },
+        { "group": "For the basil chicken", "qty": 2, "unit": "", "item": "chicken breasts, cut into small bite-sized pieces (about 400g)" },
+        { "group": "For the basil chicken", "qty": 10, "unit": "cloves", "item": "garlic" },
+        { "group": "For the basil chicken", "qty": 8, "unit": "", "item": "Thai chillies — start with 2-3 for less heat (see note)" },
+        { "group": "For the basil chicken", "qty": 2, "unit": "tbsp", "item": "oil, for frying" },
+        { "group": "For the basil chicken", "qty": 2, "unit": "tsp", "item": "oyster sauce" },
+        { "group": "For the basil chicken", "qty": 1, "unit": "tsp", "item": "light soy sauce" },
+        { "group": "For the basil chicken", "qty": 2, "unit": "splashes", "item": "dark soy sauce" },
+        { "group": "For the basil chicken", "qty": 1, "unit": "tsp", "item": "sugar" },
+        { "group": "For the basil chicken", "qty": 2, "unit": "handfuls", "item": "Thai holy basil leaves (Thai sweet basil as a substitute)" },
+        { "qty": null, "unit": "", "item": "Jasmine rice, to serve" }
+      ],
+      "method": [
+        "Get a pot of jasmine rice on so it's ready when the chicken is.",
+        "Heat 2 tbsp of the oil in a wok or frying pan over high heat. Fry the eggs one at a time, splashing hot oil over the yolk as it cooks, until crisp at the edges and the yolk is still runny. Drain and set aside.",
+        "Pound or finely chop the garlic and chillies together — just enough to bring out the oils, no need for a paste. Pluck the basil leaves from their stems.",
+        "Heat the remaining 2 tbsp oil in the wok over high heat. Add the garlic and chillies and stir-fry about 20 seconds until fragrant, without burning.",
+        "Add the chicken and stir-fry continuously until just cooked through, 2-3 minutes. Add a splash of water if the pan looks dry.",
+        "Add the oyster sauce, light soy sauce, sugar and dark soy sauce. Stir-fry another 30 seconds.",
+        "Add the basil, fold it through, and take off the heat immediately — it only needs a few seconds to wilt.",
+        "Serve over the rice with a fried egg on the side."
+      ],
+      "notes": [
+        "Holy basil (bai kra prao) has a peppery flavour and is the authentic choice. Thai sweet basil works as a substitute but loses that peppery note.",
+        "Pairs well with an off-dry Riesling — the fruit and acidity balance the chilli heat and salty sauce."
       ]
     }
   ]
