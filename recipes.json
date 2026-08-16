@@ -2,47 +2,6 @@
   "updated": "2026-08-16",
   "recipes": [
     {
-      "id": "leftover-lamb-ragu",
-      "title": "Leftover Lamb Ragu",
-      "collection": "weekday",
-      "time": "35 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": { "name": "Tesco Real Food", "url": "https://realfood.tesco.com/recipes/leftover-lamb-ragu.html" },
-      "note": "For using up leftover roast lamb. Shoulder works especially well — it's fattier than leg, so it enriches the sauce. Recipe as written serves 4; halved here.",
-      "tags": ["lamb", "pasta", "leftovers"],
-      "ingredients": [
-        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 0.5, "unit": "", "item": "onion, sliced" },
-        { "qty": 1.5, "unit": "", "item": "garlic cloves, crushed" },
-        { "qty": 0.5, "unit": "", "item": "red chilli, seeded and finely chopped — optional, background warmth not heat" },
-        { "qty": 0.5, "unit": "tsp", "item": "dried oregano" },
-        { "qty": 0.5, "unit": "tsp", "item": "rosemary leaves, finely chopped" },
-        { "qty": 125, "unit": "g", "item": "leftover roast lamb, finely diced (use more if you have it — the sauce takes it)" },
-        { "qty": 0.5, "unit": "tsp", "item": "dark brown sugar" },
-        { "qty": 0.5, "unit": "", "item": "carrot, grated" },
-        { "qty": 1, "unit": "tbsp", "item": "tomato purée" },
-        { "qty": 200, "unit": "g", "item": "tinned chopped tomatoes (half a 400g tin)" },
-        { "qty": 0.5, "unit": "tsp", "item": "Worcestershire sauce" },
-        { "qty": 200, "unit": "g", "item": "rigatoni" },
-        { "qty": 25, "unit": "g", "item": "parmesan, finely grated" },
-        { "qty": null, "unit": "", "item": "Black pepper" }
-      ],
-      "method": [
-        "Soften the onion in the oil over medium heat, 5-10 minutes, until golden.",
-        "Add the garlic, chilli, oregano and rosemary. Cook 2 minutes. Stir in the lamb, sugar, carrot and tomato purée.",
-        "Add the tomatoes and 50ml water. Bring to the boil, then reduce to a simmer. Stir in the Worcestershire sauce and cook gently for 15 minutes until thick and syrupy. If you have any leftover gravy or roasting juices, tip a spoonful in here.",
-        "Cook the pasta meanwhile. Just before draining, save a splash of the pasta water.",
-        "Off the heat, stir half the parmesan through the ragu with the pasta water — it thickens the sauce and helps it cling.",
-        "Divide the pasta between two bowls, ladle over the ragu, and grate the rest of the parmesan over with plenty of black pepper."
-      ],
-      "notes": [
-        "Parmesan in place of the ricotta garnish. Taste before adding extra salt in step 3 — parmesan brings its own.",
-        "Rosemary in place of the basil garnish. Rosemary goes in early with the garlic and cooks into the sauce; raw on top it's woody and harsh. Thyme works the same way and is gentler."
-      ],
-      "nutrition": { "Energy": "615kcal", "Fat": "17g (sat 6g)", "Carbs": "86.8g (sugars 12g)", "Fibre": "3.5g", "Protein": "35g", "Salt": "0.6g" }
-    },
-    {
       "id": "summer-lamb-orzo-salad",
       "title": "Summer Lamb and Orzo Salad",
       "collection": "weekday",
@@ -216,54 +175,6 @@
       "notes": [
         "Serve with a gratin dauphinois, celeriac gratin, or braised seasonal vegetables. Crushed New Potatoes and Griddled Courgettes both pair with this.",
         "Why it works with premier cru Burgundy: slow-cooked lamb shoulder has enough richness to stand up to the wine without overpowering it. The rosemary, sage and thyme echo the earthiness and forest floor notes in the Pinot, while the clean wine-and-water jus keeps things elegant."
-      ]
-    },
-    {
-      "id": "crushed-new-potatoes",
-      "title": "Crushed New Potatoes",
-      "collection": "weekend",
-      "time": "45 mins (+ cooling)",
-      "timeMins": 45,
-      "serves": 4,
-      "source": { "name": "olive magazine (Adam Bush)", "url": "https://www.olivemagazine.com/recipes/vegetarian/crispy-smashed-new-potatoes/" },
-      "note": "Side dish. Paired for the slow-roasted lamb shoulder.",
-      "tags": ["side", "vegetarian"],
-      "ingredients": [
-        { "qty": 500, "unit": "g", "item": "baby new potatoes" },
-        { "qty": 4, "unit": "cloves", "item": "garlic, peeled" },
-        { "qty": 35, "unit": "g", "item": "butter, plus a little extra" },
-        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
-        { "qty": null, "unit": "", "item": "A few sprigs rosemary" }
-      ],
-      "method": [
-        "Put the potatoes into a large pan of boiling salted water and cook for 15-20 minutes until tender. Add the garlic cloves for the final 10 minutes. Drain well and cool.",
-        "Once cool, press each potato between the side of a large knife and a chopping board until squashed and flat.",
-        "Heat the butter and oil in a large frying pan and, once foaming, add the squashed potatoes and some seasoning. Fry for 5-10 minutes until deeply golden and crunchy, then flip, add the garlic cloves, rosemary and another knob of butter, and cook until really golden."
-      ]
-    },
-    {
-      "id": "griddled-courgettes-lemon-mint",
-      "title": "Griddled Courgettes with Lemon & Mint",
-      "collection": "weekend",
-      "time": "30 mins",
-      "timeMins": 30,
-      "serves": 4,
-      "source": { "name": "Abel & Cole (Jassy Davis)", "url": "https://www.abelandcole.co.uk/recipes/griddled-courgettes-with-lemon-mint" },
-      "note": "Side dish, good warm or cold. Paired for the slow-roasted lamb shoulder.",
-      "tags": ["side", "vegetarian", "griddle"],
-      "ingredients": [
-        { "qty": 2, "unit": "", "item": "large courgettes" },
-        { "qty": 1, "unit": "", "item": "lemon" },
-        { "qty": null, "unit": "", "item": "A handful of mint, leaves only" },
-        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 0.5, "unit": "tbsp", "item": "balsamic vinegar" },
-        { "qty": null, "unit": "", "item": "Sea salt and freshly ground pepper" }
-      ],
-      "method": [
-        "Slice the courgettes on the diagonal to make oval slices around 1/2 cm thick.",
-        "Put a heavy-based griddle or frying pan over a high heat and warm for 1 min. Arrange a layer of slices in the pan and fry for 4-5 mins, turning once, until charred on both sides. Take the courgettes out of the pan and arrange on a serving plate. Repeat with the rest of the courgette slices.",
-        "While the courgettes cook, zest the lemon. Pick the leaves off the mint. Finely shred the larger leaves. Juice half the lemon. Whisk it with the olive oil, balsamic vinegar and a pinch of salt and pepper.",
-        "When the courgettes are all cooked, drizzle over the dressing. Scatter over the lemon zest and mint and serve. This dish is good warm or cold."
       ]
     },
     {
@@ -452,7 +363,7 @@
     {
       "id": "thai-basil-chicken-pad-kra-pao",
       "title": "Thai Basil Chicken (Pad Kra Pao Gai)",
-      "collection": "weekend",
+      "collection": "weekday",
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
