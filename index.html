@@ -59,6 +59,9 @@ header{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px s
 
 /* list */
 main{padding:18px 0 60px}
+.tagfilter{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.tagchip{padding:6px 12px;border-radius:999px;background:var(--surface-2);color:var(--muted);font-size:12.5px;font-weight:600}
+.tagchip.active{background:var(--accent);color:var(--on-accent)}
 .daylabel{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);margin:0 0 6px}
 .card{display:block;width:100%;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin-bottom:12px;box-shadow:var(--shadow);transition:transform .12s}
 .card:active{transform:scale(.985)}
@@ -165,7 +168,7 @@ svg{display:block}
 </div>
 
 <script>
-const S = { data:null, tab:'this-week', q:'', serves:{}, ticked:{}, cook:null, wake:null };
+const S = { data:null, tab:'this-week', q:'', tagFilter:'', serves:{}, ticked:{}, cook:null, wake:null };
 
 /* ---------- storage ---------- */
 const load = (k,d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d } catch(e){ return d } };
@@ -217,22 +220,46 @@ addEventListener('hashchange', route);
 function list(){
   document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-current', b.dataset.c === S.tab));
   const q = S.q.trim().toLowerCase();
-  const rs = q
-    ? S.data.recipes.filter(r =>
+
+  if (q){
+    const rs = S.data.recipes.filter(r =>
         r.title.toLowerCase().includes(q) ||
         (r.tags||[]).some(t => t.toLowerCase().includes(q)) ||
-        r.ingredients.some(i => i.item.toLowerCase().includes(q)))
-    : S.data.recipes.filter(r => r.collection === S.tab);
+        r.ingredients.some(i => i.item.toLowerCase().includes(q)));
+    renderList(rs, '');
+    return;
+  }
+
+  const all = S.data.recipes.filter(r => r.collection === S.tab);
+  const tags = [...new Set(all.flatMap(r => r.tags || []))].sort();
+  if (S.tagFilter && !tags.includes(S.tagFilter)) S.tagFilter = '';
+  const rs = S.tagFilter ? all.filter(r => (r.tags||[]).includes(S.tagFilter)) : all;
+
+  let chipsHtml = '';
+  if (tags.length > 1){
+    chipsHtml = `<div class="tagfilter">` +
+      `<button class="tagchip${S.tagFilter ? '' : ' active'}" data-tag="">All</button>` +
+      tags.map(t => `<button class="tagchip${S.tagFilter===t ? ' active':''}" data-tag="${esc(t)}">${esc(t)}</button>`).join('') +
+      `</div>`;
+  }
+  renderList(rs, chipsHtml);
+}
+
+function renderList(rs, prefixHtml){
   const app = document.getElementById('app');
-  if (!rs.length){ app.innerHTML = `<p class="empty">${q ? 'Nothing matches “'+esc(S.q)+'”.' : 'Nothing here yet.'}</p>`; return }
-  app.innerHTML = rs.map(r => `
-    <button class="card" data-id="${r.id}">
-      ${r.night && !q ? `<p class="daylabel">${esc(r.night)}</p>` : ''}
-      <h2>${esc(r.title)}</h2>
-      <p class="meta">${esc(r.time)} · serves ${r.serves}${r.source.name ? ' · ' + esc(r.source.name) : ''}</p>
-      ${(r.tags||[]).length ? `<div class="chips">${r.tags.map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>` : ''}
-    </button>`).join('');
+  const q = S.q.trim().toLowerCase();
+  const cardsHtml = rs.length
+    ? rs.map(r => `
+      <button class="card" data-id="${r.id}">
+        ${r.night && !q ? `<p class="daylabel">${esc(r.night)}</p>` : ''}
+        <h2>${esc(r.title)}</h2>
+        <p class="meta">${esc(r.time)} · serves ${r.serves}${r.source.name ? ' · ' + esc(r.source.name) : ''}</p>
+        ${(r.tags||[]).length ? `<div class="chips">${r.tags.map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>` : ''}
+      </button>`).join('')
+    : `<p class="empty">${q ? 'Nothing matches “'+esc(S.q)+'”.' : (S.tagFilter ? 'Nothing tagged “'+esc(S.tagFilter)+'” here.' : 'Nothing here yet.')}</p>`;
+  app.innerHTML = prefixHtml + cardsHtml;
   app.querySelectorAll('.card').forEach(c => c.onclick = () => location.hash = '/r/' + c.dataset.id);
+  app.querySelectorAll('.tagchip').forEach(c => c.onclick = () => { S.tagFilter = c.dataset.tag; list() });
   scrollTo(0,0);
 }
 
@@ -348,6 +375,7 @@ document.getElementById('tabs').onclick = e => {
   const b = e.target.closest('.tab'); if (!b) return;
   S.q = ''; document.getElementById('q').value = '';
   document.getElementById('search').classList.remove('on');
+  S.tagFilter = '';
   const before = location.hash;
   location.hash = '/' + b.dataset.c;
   if (location.hash === before) route();   // same hash fires no hashchange
