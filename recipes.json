@@ -1,72 +1,95 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-21",
   "recipes": [
-    {
-      "id": "chicken-veg-stir-fry",
-      "title": "Chicken & Veg Stir-fry",
-      "collection": "this-week",
-      "added": "2026-08-16",
-      "night": "Monday 17 August",
-      "time": "20 mins",
-      "timeMins": 20,
-      "serves": 2,
-      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/chicken/chicken-veg-stir-fry/" },
-      "tags": ["chicken", "stir-fry", "noodles", "quick"],
-      "ingredients": [
-        { "qty": 1, "unit": "", "item": "clove garlic, finely chopped" },
-        { "qty": 4, "unit": "cm", "item": "piece of ginger, finely chopped" },
-        { "qty": 1, "unit": "", "item": "fresh red chilli, finely chopped" },
-        { "qty": 2, "unit": "", "item": "carrots, peeled, halved lengthways and finely sliced" },
-        { "qty": 0.5, "unit": "", "item": "red onion, finely sliced" },
-        { "qty": 1, "unit": "", "item": "red pepper, deseeded and finely sliced" },
-        { "qty": 80, "unit": "g", "item": "purple sprouting or tenderstem broccoli, trimmed" },
-        { "qty": 80, "unit": "g", "item": "mixed mushrooms, wiped and halved" },
-        { "qty": 1, "unit": "", "item": "free-range chicken breast, cut into 1cm strips" },
-        { "qty": 1, "unit": "tsp", "item": "Chinese five-spice" },
-        { "qty": 1, "unit": "tbsp", "item": "sesame oil" },
-        { "qty": 1, "unit": "tsp", "item": "vegetable oil" },
-        { "qty": 130, "unit": "g", "item": "baby corn" },
-        { "qty": 80, "unit": "g", "item": "mangetout or sugar snap peas" },
-        { "qty": 2, "unit": "", "item": "wholewheat noodle nests (130g)" },
-        { "qty": 1, "unit": "tbsp", "item": "reduced-salt soy sauce" },
-        { "qty": 1, "unit": "tbsp", "item": "black bean sauce" },
-        { "qty": 1, "unit": "tsp", "item": "sesame seeds" },
-        { "qty": null, "unit": "", "item": "Fresh coriander, to serve (optional)" }
-      ],
-      "method": [
-        "Toss the chicken strips in a bowl with the Chinese five-spice and sesame oil.",
-        "Place a wok or large non-stick frying pan on medium-high heat with the vegetable oil. Add the garlic, ginger and chilli, toss for 30 seconds, then add the chicken and stir-fry for 1-2 minutes until golden.",
-        "Add all the veg and stir-fry for a further 3-4 minutes, until the chicken is cooked through and the veg is tender but with a bit of bite.",
-        "Meanwhile, cook the noodles in a pan of boiling salted water according to the packet instructions.",
-        "Drag the noodles into the wok, then add the soy and black bean sauce and toss to coat.",
-        "Divide between plates, scatter over the sesame seeds and coriander, and serve."
-      ]
-    },
     {
       "id": "roasted-salmon-veg-traybake",
       "title": "Roasted Salmon & Veg Traybake",
-      "collection": "this-week",
-      "added": "2026-08-16",
-      "night": "Tuesday 18 August",
+      "collection": "weekday",
+      "added": "2026-08-21",
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
-      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/fish/roasted-salmon-summer-veg-traybake/" },
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/fish/roasted-salmon-summer-veg-traybake/"
+      },
       "note": "Recipe as written serves 4; halved here. Lemon and garlic don't halve cleanly — use a whole lemon and a small pinch of garlic to taste.",
-      "tags": ["fish", "salmon", "traybake"],
+      "tags": [
+        "fish",
+        "salmon",
+        "traybake"
+      ],
       "ingredients": [
-        { "qty": 200, "unit": "g", "item": "baby potatoes, halved if large" },
-        { "qty": 100, "unit": "g", "item": "green beans, trimmed" },
-        { "group": "For the salad base", "qty": 0.5, "unit": "bunch", "item": "fresh basil" },
-        { "group": "For the salad base", "qty": 100, "unit": "g", "item": "ripe cherry tomatoes, halved" },
-        { "group": "For the salad base", "qty": 5, "unit": "", "item": "black olives, stone in" },
-        { "group": "For the salad base", "qty": null, "unit": "", "item": "Olive oil" },
-        { "group": "For the salmon", "qty": 2, "unit": "", "item": "x 120g salmon fillets, skin on" },
-        { "group": "For the salmon", "qty": 1, "unit": "", "item": "lemon" },
-        { "group": "For the basil & mustard yoghurt", "qty": 0.25, "unit": "clove", "item": "garlic" },
-        { "group": "For the basil & mustard yoghurt", "qty": 0.25, "unit": "tsp", "item": "Dijon mustard" },
-        { "group": "For the basil & mustard yoghurt", "qty": 2, "unit": "tbsp", "item": "Greek yoghurt" },
-        { "group": "For the basil & mustard yoghurt", "qty": null, "unit": "", "item": "Extra virgin olive oil" }
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "baby potatoes, halved if large"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "green beans, trimmed"
+        },
+        {
+          "group": "For the salad base",
+          "qty": 0.5,
+          "unit": "bunch",
+          "item": "fresh basil"
+        },
+        {
+          "group": "For the salad base",
+          "qty": 100,
+          "unit": "g",
+          "item": "ripe cherry tomatoes, halved"
+        },
+        {
+          "group": "For the salad base",
+          "qty": 5,
+          "unit": "",
+          "item": "black olives, stone in"
+        },
+        {
+          "group": "For the salad base",
+          "qty": null,
+          "unit": "",
+          "item": "Olive oil"
+        },
+        {
+          "group": "For the salmon",
+          "qty": 2,
+          "unit": "",
+          "item": "x 120g salmon fillets, skin on"
+        },
+        {
+          "group": "For the salmon",
+          "qty": 1,
+          "unit": "",
+          "item": "lemon"
+        },
+        {
+          "group": "For the basil & mustard yoghurt",
+          "qty": 0.25,
+          "unit": "clove",
+          "item": "garlic"
+        },
+        {
+          "group": "For the basil & mustard yoghurt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "Dijon mustard"
+        },
+        {
+          "group": "For the basil & mustard yoghurt",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "Greek yoghurt"
+        },
+        {
+          "group": "For the basil & mustard yoghurt",
+          "qty": null,
+          "unit": "",
+          "item": "Extra virgin olive oil"
+        }
       ],
       "method": [
         "Preheat the oven to 200ºC/400ºF/gas 6.",
@@ -77,41 +100,6 @@
       ]
     },
     {
-      "id": "creamy-tomato-mozzarella-orzo",
-      "title": "Creamy Tomato & Mozzarella Orzo",
-      "collection": "this-week",
-      "added": "2026-08-16",
-      "night": "Wednesday 19 August",
-      "time": "30 mins",
-      "timeMins": 30,
-      "serves": 2,
-      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/pasta/creamy-tomato-mozzarella-orzo/" },
-      "note": "Recipe as written serves 4; halved here.",
-      "tags": ["vegetarian", "pasta", "one-pan"],
-      "ingredients": [
-        { "group": "For the charred broccoli", "qty": 0.5, "unit": "head", "item": "broccoli" },
-        { "group": "For the charred broccoli", "qty": 0.5, "unit": "clove", "item": "garlic, finely grated" },
-        { "group": "For the charred broccoli", "qty": 0.5, "unit": "tbsp", "item": "red wine vinegar" },
-        { "group": "For the charred broccoli", "qty": 0.5, "unit": "tbsp", "item": "extra virgin olive oil" },
-        { "group": "For the orzo", "qty": 0.5, "unit": "", "item": "onion, peeled and finely chopped" },
-        { "group": "For the orzo", "qty": 2, "unit": "cloves", "item": "garlic, finely chopped" },
-        { "group": "For the orzo", "qty": 0.5, "unit": "tbsp", "item": "olive oil" },
-        { "group": "For the orzo", "qty": 250, "unit": "g", "item": "cherry tomatoes, halved" },
-        { "group": "For the orzo", "qty": 0.5, "unit": "bunch", "item": "fresh basil (15g)" },
-        { "group": "For the orzo", "qty": 150, "unit": "g", "item": "orzo pasta" },
-        { "group": "For the orzo", "qty": 0.5, "unit": "", "item": "organic veg stock cube, dissolved in 500ml boiling water" },
-        { "group": "For the orzo", "qty": 75, "unit": "g", "item": "mozzarella, chopped into 1cm cubes" }
-      ],
-      "method": [
-        "Break the broccoli into florets and dry-fry in a hot casserole pan for 7 minutes until charred and slightly softened.",
-        "Mix the grated garlic with the red wine vinegar and extra virgin olive oil, toss with the hot broccoli and set aside.",
-        "Cook the onion and remaining garlic in the olive oil over medium-low heat for 10 minutes until softened.",
-        "Halve and add the cherry tomatoes, tear in half the basil, season and stir. Cover and cook for 5 minutes until the tomatoes start to burst.",
-        "Stir in the orzo until coated in the sauce. Pour in the hot stock and simmer for 10 minutes, stirring regularly, until the orzo is tender and the tomatoes are saucy.",
-        "Chop the mozzarella into the pasta and leave to stand for 1 minute until melty. Stir through the remaining basil, drizzle with extra virgin olive oil, and serve with the charred broccoli."
-      ]
-    },
-    {
       "id": "summer-lamb-orzo-salad",
       "title": "Summer Lamb and Orzo Salad",
       "collection": "weekday",
@@ -119,21 +107,72 @@
       "time": "25 mins",
       "timeMins": 25,
       "serves": 2,
-      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/summer-lamb-orzo-salad/" },
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/summer-lamb-orzo-salad/"
+      },
       "note": "Recipe as written serves 4; halved here.",
-      "tags": ["lamb", "salad", "griddle"],
+      "tags": [
+        "lamb",
+        "salad",
+        "griddle"
+      ],
       "ingredients": [
-        { "qty": 100, "unit": "g", "item": "orzo" },
-        { "qty": 50, "unit": "g", "item": "frozen peas" },
-        { "qty": 30, "unit": "g", "item": "feta, crumbled" },
-        { "qty": 0.5, "unit": "", "item": "courgette, peeled into ribbons" },
-        { "qty": 0.25, "unit": "", "item": "red chilli, deseeded and finely chopped (optional — mild background warmth only)" },
-        { "qty": null, "unit": "", "item": "Handful finely chopped fresh mint, plus extra to garnish" },
-        { "qty": 0.5, "unit": "", "item": "preserved lemon, deseeded and finely chopped" },
-        { "qty": 0.5, "unit": "", "item": "lemon, juiced" },
-        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 4, "unit": "", "item": "Welsh lamb cutlets (approx 100g each)" },
-        { "qty": 5, "unit": "g", "item": "pine nuts, toasted in a dry pan for 2 minutes" }
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "orzo"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "item": "frozen peas"
+        },
+        {
+          "qty": 30,
+          "unit": "g",
+          "item": "feta, crumbled"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "courgette, peeled into ribbons"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "item": "red chilli, deseeded and finely chopped (optional — mild background warmth only)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Handful finely chopped fresh mint, plus extra to garnish"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "preserved lemon, deseeded and finely chopped"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, juiced"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "item": "Welsh lamb cutlets (approx 100g each)"
+        },
+        {
+          "qty": 5,
+          "unit": "g",
+          "item": "pine nuts, toasted in a dry pan for 2 minutes"
+        }
       ],
       "method": [
         "Cook the orzo in boiling water for 8-10 minutes until just tender, adding the peas for the last 2-3 minutes. Drain, refresh under cold water and drain again. Tip into a bowl and mix in the feta, courgette ribbons, chilli and chopped mint.",
@@ -150,14 +189,41 @@
       "time": "15 mins",
       "timeMins": 15,
       "serves": 2,
-      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/pasta/lemony-courgette-linguine/" },
-      "tags": ["vegetarian", "pasta", "quick"],
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/pasta/lemony-courgette-linguine/"
+      },
+      "tags": [
+        "vegetarian",
+        "pasta",
+        "quick"
+      ],
       "ingredients": [
-        { "qty": 150, "unit": "g", "item": "dried linguine" },
-        { "qty": 2, "unit": "", "item": "mixed-colour courgettes" },
-        { "qty": 0.5, "unit": "bunch", "item": "fresh mint (15g)" },
-        { "qty": 30, "unit": "g", "item": "Parmesan cheese" },
-        { "qty": 1, "unit": "", "item": "lemon" }
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "dried linguine"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "mixed-colour courgettes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "bunch",
+          "item": "fresh mint (15g)"
+        },
+        {
+          "qty": 30,
+          "unit": "g",
+          "item": "Parmesan cheese"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon"
+        }
       ],
       "method": [
         "Cook the linguine in boiling salted water according to packet instructions. Drain, reserving a mugful of cooking water.",
@@ -175,23 +241,82 @@
       "time": "25 mins",
       "timeMins": 25,
       "serves": 2,
-      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/quick-sticky-chicken-salad/" },
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-sticky-chicken-salad/"
+      },
       "note": "Recipe as written serves 4; halved here.",
-      "tags": ["chicken", "salad", "griddle"],
+      "tags": [
+        "chicken",
+        "salad",
+        "griddle"
+      ],
       "ingredients": [
-        { "qty": null, "unit": "", "item": "Zest of 1/2 lemon and juice of 3/4 lemon" },
-        { "qty": 1, "unit": "tbsp", "item": "runny honey" },
-        { "qty": 1.75, "unit": "tbsp", "item": "extra-virgin olive oil" },
-        { "qty": null, "unit": "", "item": "Small bunch fresh mint, half chopped, half kept whole" },
-        { "qty": 2, "unit": "", "item": "skinless chicken breasts, each sliced into 3 pieces" },
-        { "qty": 100, "unit": "g", "item": "podded broad beans" },
-        { "qty": 100, "unit": "g", "item": "garlic ciabatta, sliced in half lengthways" },
-        { "qty": null, "unit": "", "item": "Large handful lamb's lettuce" },
-        { "qty": 200, "unit": "g", "item": "tinned chickpeas, drained and rinsed (half a 400g tin)" },
-        { "qty": 75, "unit": "g", "item": "cherry tomatoes, chopped" },
-        { "qty": 0.25, "unit": "", "item": "cucumber, deseeded and diced" },
-        { "qty": null, "unit": "", "item": "Small handful fresh parsley, chopped" },
-        { "qty": 1, "unit": "tsp", "item": "grainy mustard" }
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Zest of 1/2 lemon and juice of 3/4 lemon"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "runny honey"
+        },
+        {
+          "qty": 1.75,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small bunch fresh mint, half chopped, half kept whole"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "skinless chicken breasts, each sliced into 3 pieces"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "podded broad beans"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "garlic ciabatta, sliced in half lengthways"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Large handful lamb's lettuce"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "tinned chickpeas, drained and rinsed (half a 400g tin)"
+        },
+        {
+          "qty": 75,
+          "unit": "g",
+          "item": "cherry tomatoes, chopped"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "item": "cucumber, deseeded and diced"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small handful fresh parsley, chopped"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "grainy mustard"
+        }
       ],
       "method": [
         "Mix together the lemon zest and juice (keeping about 1 tbsp juice back for the dressing), honey, 1 tbsp of the oil and the chopped mint. Season and add the chicken, stir to coat, leave 10 minutes.",
@@ -208,18 +333,60 @@
       "time": "30 mins",
       "timeMins": 30,
       "serves": 4,
-      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/mediterranean-halloumi-salad/" },
-      "tags": ["vegetarian", "salad"],
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/mediterranean-halloumi-salad/"
+      },
+      "tags": [
+        "vegetarian",
+        "salad"
+      ],
       "ingredients": [
-        { "qty": 0.5, "unit": "", "item": "small red onion, finely sliced" },
-        { "qty": 7, "unit": "", "item": "medium vine tomatoes, sliced" },
-        { "qty": 100, "unit": "g", "item": "roasted red and yellow peppers in oil, drained and sliced" },
-        { "qty": 18, "unit": "", "item": "caperberries" },
-        { "qty": null, "unit": "", "item": "Handful small black olives" },
-        { "qty": 3, "unit": "tbsp", "item": "extra-virgin olive oil" },
-        { "qty": 450, "unit": "g", "item": "halloumi (2 x 225g packs)" },
-        { "qty": null, "unit": "", "item": "Handful fresh basil leaves" },
-        { "qty": null, "unit": "", "item": "Crusty bread, to serve" }
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "small red onion, finely sliced"
+        },
+        {
+          "qty": 7,
+          "unit": "",
+          "item": "medium vine tomatoes, sliced"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "roasted red and yellow peppers in oil, drained and sliced"
+        },
+        {
+          "qty": 18,
+          "unit": "",
+          "item": "caperberries"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Handful small black olives"
+        },
+        {
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "qty": 450,
+          "unit": "g",
+          "item": "halloumi (2 x 225g packs)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Handful fresh basil leaves"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Crusty bread, to serve"
+        }
       ],
       "method": [
         "Place the onion in a small bowl, cover with freshly boiled water, leave a minute, then drain and rinse in cold water. Lay the sliced tomatoes on a platter, scatter over the blanched onion, roasted peppers, caperberries and olives. Drizzle with 2 tbsp of the olive oil, season well, and set aside.",
@@ -234,19 +401,66 @@
       "time": "20 mins",
       "timeMins": 20,
       "serves": 3,
-      "source": { "name": "olive magazine", "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/creamy-garlic-prawn-pasta/" },
-      "tags": ["seafood", "pasta", "quick"],
+      "source": {
+        "name": "olive magazine",
+        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/creamy-garlic-prawn-pasta/"
+      },
+      "tags": [
+        "seafood",
+        "pasta",
+        "quick"
+      ],
       "ingredients": [
-        { "qty": 200, "unit": "g", "item": "linguine" },
-        { "qty": 1, "unit": "tbsp", "item": "butter" },
-        { "qty": 1, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 1, "unit": "", "item": "garlic clove, crushed" },
-        { "qty": null, "unit": "", "item": "Pinch of dried chilli flakes (optional)" },
-        { "qty": 125, "unit": "ml", "item": "white wine" },
-        { "qty": 3, "unit": "tbsp", "item": "mascarpone, crème fraîche or double cream" },
-        { "qty": 200, "unit": "g", "item": "raw king prawns, defrosted if frozen" },
-        { "qty": 2, "unit": "tbsp", "item": "chopped soft herbs (chives, parsley or tarragon, or a mix)" },
-        { "qty": null, "unit": "", "item": "Squeeze of lemon juice" }
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "linguine"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "butter"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Pinch of dried chilli flakes (optional)"
+        },
+        {
+          "qty": 125,
+          "unit": "ml",
+          "item": "white wine"
+        },
+        {
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "mascarpone, crème fraîche or double cream"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "raw king prawns, defrosted if frozen"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "chopped soft herbs (chives, parsley or tarragon, or a mix)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Squeeze of lemon juice"
+        }
       ],
       "method": [
         "Cook the linguine following pack instructions.",
@@ -254,7 +468,6 @@
         "Pour in the wine and simmer a few minutes until reduced by half, then stir in the mascarpone and season well. Add the prawns and cook until pink and cooked through. Stir in the herbs, then tip in the drained linguine and toss with a splash of the cooking water until saucy and slippery. Finish with a squeeze of lemon juice and serve."
       ]
     },
-
     {
       "id": "slow-roasted-lamb-shoulder",
       "title": "Slow-Roasted Shoulder of Spring Lamb",
@@ -263,23 +476,95 @@
       "time": "30 mins prep + ~4.5 hrs",
       "timeMins": 300,
       "serves": 4,
-      "source": { "name": "Raymond Blanc", "url": "https://raymondblanc.com/recipes/slow-roasted-shoulder-of-spring-lamb/" },
+      "source": {
+        "name": "Raymond Blanc",
+        "url": "https://raymondblanc.com/recipes/slow-roasted-shoulder-of-spring-lamb/"
+      },
       "note": "Mostly hands-off. In by 2pm, on the table at 7pm with almost no intervention.",
-      "tags": ["lamb", "roast", "slow"],
+      "tags": [
+        "lamb",
+        "roast",
+        "slow"
+      ],
       "ingredients": [
-        { "group": "Meat", "qty": 1.75, "unit": "kg", "item": "shoulder of lamb, bone-in (1.5–2kg)" },
-        { "group": "Meat", "qty": 200, "unit": "g", "item": "lamb bones and trimmings (ask your butcher)" },
-        { "group": "Rub", "qty": 4, "unit": "pinches", "item": "sea salt" },
-        { "group": "Rub", "qty": null, "unit": "", "item": "Freshly ground black pepper" },
-        { "group": "Rub", "qty": 2, "unit": "sprigs", "item": "rosemary, leaves finely chopped" },
-        { "group": "Rub", "qty": 3, "unit": "", "item": "sage leaves, finely chopped" },
-        { "group": "Rub", "qty": 2, "unit": "tbsp", "item": "olive oil" },
-        { "group": "For the pan", "qty": 2, "unit": "tbsp", "item": "rapeseed oil" },
-        { "group": "For the pan", "qty": 1, "unit": "bulb", "item": "garlic, halved horizontally" },
-        { "group": "For the pan", "qty": 100, "unit": "ml", "item": "dry white wine" },
-        { "group": "For the pan", "qty": 450, "unit": "ml", "item": "hot water (400–500ml)" },
-        { "group": "For the pan", "qty": 1, "unit": "", "item": "bay leaf" },
-        { "group": "For the pan", "qty": 3, "unit": "sprigs", "item": "thyme" }
+        {
+          "group": "Meat",
+          "qty": 1.75,
+          "unit": "kg",
+          "item": "shoulder of lamb, bone-in (1.5–2kg)"
+        },
+        {
+          "group": "Meat",
+          "qty": 200,
+          "unit": "g",
+          "item": "lamb bones and trimmings (ask your butcher)"
+        },
+        {
+          "group": "Rub",
+          "qty": 4,
+          "unit": "pinches",
+          "item": "sea salt"
+        },
+        {
+          "group": "Rub",
+          "qty": null,
+          "unit": "",
+          "item": "Freshly ground black pepper"
+        },
+        {
+          "group": "Rub",
+          "qty": 2,
+          "unit": "sprigs",
+          "item": "rosemary, leaves finely chopped"
+        },
+        {
+          "group": "Rub",
+          "qty": 3,
+          "unit": "",
+          "item": "sage leaves, finely chopped"
+        },
+        {
+          "group": "Rub",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "For the pan",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "rapeseed oil"
+        },
+        {
+          "group": "For the pan",
+          "qty": 1,
+          "unit": "bulb",
+          "item": "garlic, halved horizontally"
+        },
+        {
+          "group": "For the pan",
+          "qty": 100,
+          "unit": "ml",
+          "item": "dry white wine"
+        },
+        {
+          "group": "For the pan",
+          "qty": 450,
+          "unit": "ml",
+          "item": "hot water (400–500ml)"
+        },
+        {
+          "group": "For the pan",
+          "qty": 1,
+          "unit": "",
+          "item": "bay leaf"
+        },
+        {
+          "group": "For the pan",
+          "qty": 3,
+          "unit": "sprigs",
+          "item": "thyme"
+        }
       ],
       "method": [
         "Marinate (1–2 hrs before) — Score the lamb skin lightly. Rub all over with the salt, pepper, chopped rosemary, sage and olive oil. Leave at room temperature for at least 1–2 hours.",
@@ -301,19 +586,65 @@
       "time": "30 mins",
       "timeMins": 30,
       "serves": 4,
-      "source": { "name": "Platter Talk (adapted from Ian Knauer)", "url": "https://www.plattertalk.com/fennel-rubbed-pork-tenderloin-fennel-wedges/" },
-      "tags": ["pork", "roast"],
+      "source": {
+        "name": "Platter Talk (adapted from Ian Knauer)",
+        "url": "https://www.plattertalk.com/fennel-rubbed-pork-tenderloin-fennel-wedges/"
+      },
+      "tags": [
+        "pork",
+        "roast"
+      ],
       "ingredients": [
-        { "qty": 450, "unit": "g", "item": "pork tenderloin" },
-        { "qty": 1, "unit": "tbsp", "item": "ground fennel seeds" },
-        { "qty": 2, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 2, "unit": "", "item": "fennel bulbs, fronds reserved" },
-        { "qty": 3, "unit": "cloves", "item": "garlic, crushed" },
-        { "qty": null, "unit": "", "item": "Salt and black pepper" },
-        { "qty": 240, "unit": "ml", "item": "dry white wine" },
-        { "qty": 240, "unit": "ml", "item": "low-sodium chicken broth" },
-        { "qty": 2, "unit": "tbsp", "item": "unsalted butter" },
-        { "qty": 0.5, "unit": "", "item": "lemon, juiced" }
+        {
+          "qty": 450,
+          "unit": "g",
+          "item": "pork tenderloin"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "ground fennel seeds"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "fennel bulbs, fronds reserved"
+        },
+        {
+          "qty": 3,
+          "unit": "cloves",
+          "item": "garlic, crushed"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and black pepper"
+        },
+        {
+          "qty": 240,
+          "unit": "ml",
+          "item": "dry white wine"
+        },
+        {
+          "qty": 240,
+          "unit": "ml",
+          "item": "low-sodium chicken broth"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "unsalted butter"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, juiced"
+        }
       ],
       "method": [
         "Preheat oven to 180°C / 350°F.",
@@ -327,7 +658,9 @@
         "Add lemon juice, reduce heat, and stir in the reserved chopped fennel fronds.",
         "Slice pork, serve over fennel wedges, and spoon sauce over the top."
       ],
-      "notes": ["Use an instant-read thermometer — 63°C keeps the pork juicy. Don't skip the rest."]
+      "notes": [
+        "Use an instant-read thermometer — 63°C keeps the pork juicy. Don't skip the rest."
+      ]
     },
     {
       "id": "sea-bass-crudo",
@@ -337,18 +670,61 @@
       "time": "5 mins",
       "timeMins": 5,
       "serves": 2,
-      "source": { "name": "Alvin", "url": "" },
+      "source": {
+        "name": "Alvin",
+        "url": ""
+      },
       "note": "Serves 2 as a starter. No cooking required.",
-      "tags": ["fish", "starter", "no cook"],
+      "tags": [
+        "fish",
+        "starter",
+        "no cook"
+      ],
       "ingredients": [
-        { "qty": 300, "unit": "g", "item": "sea bass fillets, skinned and pin-boned" },
-        { "qty": 2, "unit": "tbsp", "item": "extra-virgin olive oil" },
-        { "qty": 1.5, "unit": "tbsp", "item": "lemon juice, freshly squeezed" },
-        { "qty": null, "unit": "", "item": "Flaky sea salt and black pepper" },
-        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Finely sliced red onion" },
-        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Chives" },
-        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Fresh chilli" },
-        { "group": "Optional garnishes", "qty": null, "unit": "", "item": "Radish, thinly sliced" }
+        {
+          "qty": 300,
+          "unit": "g",
+          "item": "sea bass fillets, skinned and pin-boned"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tbsp",
+          "item": "lemon juice, freshly squeezed"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Flaky sea salt and black pepper"
+        },
+        {
+          "group": "Optional garnishes",
+          "qty": null,
+          "unit": "",
+          "item": "Finely sliced red onion"
+        },
+        {
+          "group": "Optional garnishes",
+          "qty": null,
+          "unit": "",
+          "item": "Chives"
+        },
+        {
+          "group": "Optional garnishes",
+          "qty": null,
+          "unit": "",
+          "item": "Fresh chilli"
+        },
+        {
+          "group": "Optional garnishes",
+          "qty": null,
+          "unit": "",
+          "item": "Radish, thinly sliced"
+        }
       ],
       "method": [
         "Place the fish and your serving plates in the freezer for 10 minutes beforehand — cold fish slices more cleanly and stays fresher longer on the plate.",
@@ -357,7 +733,9 @@
         "Crack over black pepper and add any optional garnishes.",
         "Serve immediately."
       ],
-      "notes": ["Ask your fishmonger to skin and pin-bone the sea bass for you. Quality of fish is everything here — buy the freshest you can find."]
+      "notes": [
+        "Ask your fishmonger to skin and pin-bone the sea bass for you. Quality of fish is everything here — buy the freshest you can find."
+      ]
     },
     {
       "id": "perfect-pan-fried-chicken-breasts",
@@ -367,23 +745,59 @@
       "time": "20 mins + 30 mins dry-brining",
       "timeMins": 50,
       "serves": 2,
-      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/perfect-pan-fried-chicken-breasts/" },
-      "tags": ["chicken", "technique"],
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/perfect-pan-fried-chicken-breasts/"
+      },
+      "tags": [
+        "chicken",
+        "technique"
+      ],
       "ingredients": [
-        { "qty": 2, "unit": "", "item": "free-range chicken breasts" },
-        { "qty": 1, "unit": "tbsp", "item": "coarse sea salt" },
-        { "qty": null, "unit": "", "item": "Drizzle olive oil" },
-        { "qty": 20, "unit": "g", "item": "unsalted butter" },
-        { "qty": 1, "unit": "", "item": "anchovy fillet, drained (or 1/2 tsp chopped capers)" },
-        { "qty": 1, "unit": "tsp", "item": "white wine vinegar" },
-        { "qty": null, "unit": "", "item": "Small handful parsley or chives, chopped" }
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "free-range chicken breasts"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "coarse sea salt"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Drizzle olive oil"
+        },
+        {
+          "qty": 20,
+          "unit": "g",
+          "item": "unsalted butter"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "anchovy fillet, drained (or 1/2 tsp chopped capers)"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "white wine vinegar"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small handful parsley or chives, chopped"
+        }
       ],
       "method": [
         "Put the chicken breasts in a large food bag and bash the thicker parts with a rolling pin until an even 1.5-1.7cm thick. Add the salt and massage into the chicken. Leave at room temperature to dry-brine for 30 minutes (no more).",
         "Remove from the bag and brush off excess salt. Heat a large frying pan over medium-high heat, add the oil. Once simmering, add the chicken. Cook 5-6 minutes each side without moving it, for a strong caramelised sear. In the final minute, add the butter and baste the chicken once it's foaming. Rest the chicken 5 minutes.",
         "While resting, add the anchovy to the butter in the pan, stirring until dissolved. Add the vinegar, swirl and cook 1 minute. Slice the chicken against the grain, plate up, add resting juices to the sauce with the chopped herbs, and pour over the chicken."
       ],
-      "notes": ["The original recipe suggests roast new potatoes and seasonal veg as sides — swap in boiled new potatoes or a simple summer salad to keep it fully oven-free in hot weather."]
+      "notes": [
+        "The original recipe suggests roast new potatoes and seasonal veg as sides — swap in boiled new potatoes or a simple summer salad to keep it fully oven-free in hot weather."
+      ]
     },
     {
       "id": "greek-salad-horiatiki",
@@ -393,20 +807,67 @@
       "time": "10 mins",
       "timeMins": 10,
       "serves": 4,
-      "source": { "name": "The Mediterranean Dish / My Greek Dish / The Greek Foodie", "url": "" },
+      "source": {
+        "name": "The Mediterranean Dish / My Greek Dish / The Greek Foodie",
+        "url": ""
+      },
       "note": "Traditional village salad — no lettuce, no fuss.",
-      "tags": ["vegetarian", "salad", "no cook"],
+      "tags": [
+        "vegetarian",
+        "salad",
+        "no cook"
+      ],
       "ingredients": [
-        { "qty": 4, "unit": "", "item": "large ripe tomatoes, cut into chunky wedges" },
-        { "qty": 1, "unit": "", "item": "cucumber, cut into thick half-moons" },
-        { "qty": 1, "unit": "", "item": "green bell pepper, sliced into rings" },
-        { "qty": 1, "unit": "", "item": "small red onion, thinly sliced" },
-        { "qty": null, "unit": "", "item": "A generous handful of Kalamata olives" },
-        { "qty": 200, "unit": "g", "item": "block of feta cheese (placed whole on top — do not crumble)" },
-        { "qty": null, "unit": "", "item": "Extra virgin olive oil (good quality — this is the dressing)" },
-        { "qty": null, "unit": "", "item": "Splash of red wine vinegar (optional)" },
-        { "qty": null, "unit": "", "item": "Pinch of dried oregano" },
-        { "qty": null, "unit": "", "item": "Salt and black pepper" }
+        {
+          "qty": 4,
+          "unit": "",
+          "item": "large ripe tomatoes, cut into chunky wedges"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "cucumber, cut into thick half-moons"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "green bell pepper, sliced into rings"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "small red onion, thinly sliced"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A generous handful of Kalamata olives"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "block of feta cheese (placed whole on top — do not crumble)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Extra virgin olive oil (good quality — this is the dressing)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Splash of red wine vinegar (optional)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Pinch of dried oregano"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and black pepper"
+        }
       ],
       "method": [
         "Combine the tomatoes, cucumber, green pepper, and red onion in a wide bowl or on a platter. Season lightly with salt.",
@@ -432,19 +893,65 @@
       "time": "20 mins plus resting",
       "timeMins": 20,
       "serves": 4,
-      "source": { "name": "Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/lamb/best-lamb-cutlets-with-special-basil-sauce/" },
-      "tags": ["lamb", "griddle"],
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/lamb/best-lamb-cutlets-with-special-basil-sauce/"
+      },
+      "tags": [
+        "lamb",
+        "griddle"
+      ],
       "ingredients": [
-        { "qty": 12, "unit": "", "item": "lamb cutlets" },
-        { "qty": null, "unit": "", "item": "Small handful fresh thyme, leaves picked" },
-        { "qty": null, "unit": "", "item": "Extra virgin olive oil" },
-        { "qty": 400, "unit": "g", "item": "mushrooms, brushed clean and torn (wild, or chestnut/oyster)" },
-        { "qty": null, "unit": "", "item": "Small handful fresh flat-leaf parsley" },
-        { "qty": 1, "unit": "", "item": "lemon" },
-        { "qty": 2, "unit": "handfuls", "item": "pine nuts" },
-        { "qty": 2, "unit": "large handfuls", "item": "fresh basil" },
-        { "qty": 4, "unit": "tbsp", "item": "balsamic vinegar (3-5 tbsp to taste)" },
-        { "qty": null, "unit": "", "item": "Watercress, to serve" }
+        {
+          "qty": 12,
+          "unit": "",
+          "item": "lamb cutlets"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small handful fresh thyme, leaves picked"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Extra virgin olive oil"
+        },
+        {
+          "qty": 400,
+          "unit": "g",
+          "item": "mushrooms, brushed clean and torn (wild, or chestnut/oyster)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small handful fresh flat-leaf parsley"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon"
+        },
+        {
+          "qty": 2,
+          "unit": "handfuls",
+          "item": "pine nuts"
+        },
+        {
+          "qty": 2,
+          "unit": "large handfuls",
+          "item": "fresh basil"
+        },
+        {
+          "qty": 4,
+          "unit": "tbsp",
+          "item": "balsamic vinegar (3-5 tbsp to taste)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Watercress, to serve"
+        }
       ],
       "method": [
         "Best cooked on a hot barbecue, or use a preheated ridged griddle/frying pan. Flatten the cutlets slightly. Bash the thyme with a little olive oil in a pestle and mortar, rub over the cutlets, and season both sides.",
@@ -462,18 +969,60 @@
       "time": "25-30 mins on the barbecue + 1-24 hrs marinating",
       "timeMins": 35,
       "serves": 6,
-      "source": { "name": "delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/lemon-thyme-and-fennel-butterflied-leg-of-lamb/" },
-      "tags": ["lamb", "barbecue"],
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/lemon-thyme-and-fennel-butterflied-leg-of-lamb/"
+      },
+      "tags": [
+        "lamb",
+        "barbecue"
+      ],
       "ingredients": [
-        { "qty": 2.5, "unit": "kg", "item": "good-quality leg of lamb, butterflied (ask your butcher), trimmed of fat" },
-        { "qty": 6, "unit": "tbsp", "item": "olive oil" },
-        { "qty": 2, "unit": "", "item": "large garlic cloves, crushed" },
-        { "qty": 1, "unit": "tbsp", "item": "fennel seeds, lightly crushed" },
-        { "qty": 6, "unit": "sprigs", "item": "lemon thyme, leaves picked" },
-        { "qty": 1, "unit": "", "item": "lemon, pared zest and juice" },
-        { "qty": 1, "unit": "tsp", "item": "Maldon sea salt flakes" },
-        { "qty": 0.5, "unit": "tsp", "item": "coarsely crushed black peppercorns" },
-        { "qty": null, "unit": "", "item": "Chunky chips (or a summer salad), to serve" }
+        {
+          "qty": 2.5,
+          "unit": "kg",
+          "item": "good-quality leg of lamb, butterflied (ask your butcher), trimmed of fat"
+        },
+        {
+          "qty": 6,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "large garlic cloves, crushed"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "fennel seeds, lightly crushed"
+        },
+        {
+          "qty": 6,
+          "unit": "sprigs",
+          "item": "lemon thyme, leaves picked"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon, pared zest and juice"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "Maldon sea salt flakes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "coarsely crushed black peppercorns"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Chunky chips (or a summer salad), to serve"
+        }
       ],
       "method": [
         "Cut and open up any thicker areas of meat so it's all about 4-5cm thick. Mix all the other ingredients (apart from the chips) together in a large shallow dish, add the lamb and coat well. Cover and marinate at room temperature for 1 hour, or chill and marinate for up to 24 hours.",
@@ -490,22 +1039,90 @@
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
-      "source": { "name": "Eating Thai Food (Mark Wiens)", "url": "https://www.eatingthaifood.com/thai-basil-chicken-recipe-pad-kra-pao-gai/" },
+      "source": {
+        "name": "Eating Thai Food (Mark Wiens)",
+        "url": "https://www.eatingthaifood.com/thai-basil-chicken-recipe-pad-kra-pao-gai/"
+      },
       "note": "Hob only — no oven. Recipe as written serves 1; doubled here for 2. Andy prefers milder heat than the traditional version — start with 2-3 chillies rather than the 8 below, or deseed them.",
-      "tags": ["chicken", "thai", "stir-fry", "hob only", "spicy"],
+      "tags": [
+        "chicken",
+        "thai",
+        "stir-fry",
+        "hob only",
+        "spicy"
+      ],
       "ingredients": [
-        { "group": "For the fried eggs", "qty": 2, "unit": "", "item": "eggs" },
-        { "group": "For the fried eggs", "qty": 4, "unit": "tbsp", "item": "oil, for frying" },
-        { "group": "For the basil chicken", "qty": 2, "unit": "", "item": "chicken breasts, cut into small bite-sized pieces (about 400g)" },
-        { "group": "For the basil chicken", "qty": 10, "unit": "cloves", "item": "garlic" },
-        { "group": "For the basil chicken", "qty": 8, "unit": "", "item": "Thai chillies — start with 2-3 for less heat (see note)" },
-        { "group": "For the basil chicken", "qty": 2, "unit": "tbsp", "item": "oil, for frying" },
-        { "group": "For the basil chicken", "qty": 2, "unit": "tsp", "item": "oyster sauce" },
-        { "group": "For the basil chicken", "qty": 1, "unit": "tsp", "item": "light soy sauce" },
-        { "group": "For the basil chicken", "qty": 2, "unit": "splashes", "item": "dark soy sauce" },
-        { "group": "For the basil chicken", "qty": 1, "unit": "tsp", "item": "sugar" },
-        { "group": "For the basil chicken", "qty": 2, "unit": "handfuls", "item": "Thai holy basil leaves (Thai sweet basil as a substitute)" },
-        { "qty": null, "unit": "", "item": "Jasmine rice, to serve" }
+        {
+          "group": "For the fried eggs",
+          "qty": 2,
+          "unit": "",
+          "item": "eggs"
+        },
+        {
+          "group": "For the fried eggs",
+          "qty": 4,
+          "unit": "tbsp",
+          "item": "oil, for frying"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 2,
+          "unit": "",
+          "item": "chicken breasts, cut into small bite-sized pieces (about 400g)"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 10,
+          "unit": "cloves",
+          "item": "garlic"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 8,
+          "unit": "",
+          "item": "Thai chillies — start with 2-3 for less heat (see note)"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "oil, for frying"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "oyster sauce"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "light soy sauce"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 2,
+          "unit": "splashes",
+          "item": "dark soy sauce"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "sugar"
+        },
+        {
+          "group": "For the basil chicken",
+          "qty": 2,
+          "unit": "handfuls",
+          "item": "Thai holy basil leaves (Thai sweet basil as a substitute)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Jasmine rice, to serve"
+        }
       ],
       "method": [
         "Get a pot of jasmine rice on so it's ready when the chicken is.",
@@ -520,6 +1137,324 @@
       "notes": [
         "Holy basil (bai kra prao) has a peppery flavour and is the authentic choice. Thai sweet basil works as a substitute but loses that peppery note.",
         "Pairs well with an off-dry Riesling — the fruit and acidity balance the chilli heat and salty sauce."
+      ]
+    },
+    {
+      "id": "roast-turbot-leeks-tarragon-riesling",
+      "title": "Roast Turbot with Leeks, Tarragon and Riesling",
+      "collection": "weekend",
+      "added": "2026-08-20",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/roast-turbot-with-leeks-tarragon-and-riesling/"
+      },
+      "note": "Recipe as written serves 3-4 off a 1.2-1.5kg turbot; halved here for 2 — pairs with Rockfish's Whole Turbot for Two (600g). Leeks and lemon don't halve perfectly cleanly — rounded up to 2 leeks and half a lemon's juice.",
+      "tags": [
+        "fish",
+        "turbot",
+        "roast"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "bunch",
+          "item": "spring onions"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "fennel bulb"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "leeks, outer leaves removed and washed"
+        },
+        {
+          "qty": 60,
+          "unit": "g",
+          "item": "unsalted butter"
+        },
+        {
+          "qty": 60,
+          "unit": "ml",
+          "item": "Riesling"
+        },
+        {
+          "qty": 600,
+          "unit": "g",
+          "item": "whole turbot"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small handful tarragon leaves, picked"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, juiced"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Heat the oven to 180°C fan/gas 6. Finely slice the spring onions and fennel, then cut the leeks into 3cm chunks. Melt the butter in a large flameproof roasting dish over medium heat, add the veg, season well with salt and pepper, and cook, stirring occasionally, until softened (8-10 minutes).",
+        "Pour in the Riesling, stir through, then turn off the heat. Lay the turbot on top of the vegetables, white skin side down, and make 2 slashes across its back. Season with a pinch of salt and roast for 15-18 minutes — it's ready when a milky liquid appears in the slashes.",
+        "Scatter over the tarragon leaves and squeeze over the lemon juice. Bring the dish to the table and carve — there are 4 fillets on a turbot: lift the first 2 off the top, then flip and remove the 2 underneath."
+      ],
+      "notes": [
+        "Wine pairing: an oaked white Rioja or a mature white Burgundy — enough depth and structure for the rich, buttery sauce. (Matching Food & Wine)"
+      ]
+    },
+    {
+      "id": "beef-broccoli-stir-fry",
+      "title": "Beef & Broccoli Stir-Fry",
+      "collection": "this-week",
+      "added": "2026-08-21",
+      "night": "Monday 24 August",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/beef-recipes/beef-and-broccoli-stir-fry/"
+      },
+      "note": "Recipe as written serves 4; halved here. Ginger, chilli and lime don't halve perfectly cleanly — use a smaller piece of ginger, half a chilli, and half a lime to taste.",
+      "tags": [
+        "beef",
+        "stir-fry",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "purple sprouting broccoli"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "red onion"
+        },
+        {
+          "qty": 1,
+          "unit": "clove",
+          "item": "garlic"
+        },
+        {
+          "qty": 2.5,
+          "unit": "cm",
+          "item": "piece fresh ginger"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "fresh red chilli"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lime, cut into wedges"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "coriander seeds"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "x 300g quality sirloin steak"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Olive oil"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tbsp",
+          "item": "soy sauce"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Sesame oil"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Sea salt and black pepper"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Egg noodles or steamed rice, to serve"
+        }
+      ],
+      "method": [
+        "Blanch the broccoli in boiling salted water for 10 minutes; drain.",
+        "Finely slice the onion and garlic, chop the ginger, slice the chilli, and cut the lime into wedges.",
+        "Pound the coriander seeds with salt and pepper using a pestle and mortar.",
+        "Slice the steak into finger-sized strips and coat with the spice mixture.",
+        "Heat a wok on high heat; add a little olive oil, then cook the onion, garlic and ginger for 2 minutes.",
+        "Add the beef and fry for 2 minutes. Add the broccoli and fry for a further 2 minutes, stirring constantly.",
+        "Pour in the soy sauce and sesame oil; toss to coat.",
+        "Serve with egg noodles or steamed rice, topped with the remaining chilli and a squeeze of lime juice."
+      ]
+    },
+    {
+      "id": "mushroom-stroganoff",
+      "title": "Mushroom Stroganoff",
+      "collection": "this-week",
+      "added": "2026-08-21",
+      "night": "Tuesday 25 August",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": {
+        "name": "Waitrose & Partners",
+        "url": "https://www.waitrose.com/ecom/recipe/mushroom-stroganoff"
+      },
+      "tags": [
+        "vegetarian",
+        "mushroom",
+        "one-pot"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil (or rapeseed oil)"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "small onion, finely chopped"
+        },
+        {
+          "qty": 4,
+          "unit": "cloves",
+          "item": "garlic, crushed"
+        },
+        {
+          "qty": 450,
+          "unit": "g",
+          "item": "mixed mushrooms (e.g. portabellini and woodland), sliced/torn"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "brandy (optional)"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "smoked paprika"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "white miso"
+        },
+        {
+          "qty": 125,
+          "unit": "ml",
+          "item": "vegetable stock"
+        },
+        {
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "soured cream"
+        },
+        {
+          "qty": 12,
+          "unit": "g",
+          "item": "curly parsley, finely chopped (half a 25g pack)"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "item": "cooked long grain rice, to serve"
+        }
+      ],
+      "method": [
+        "Heat the oil in a large frying pan over low-medium heat. Add the onion and garlic and cook for 5-7 minutes until softened.",
+        "Add the mushrooms, increase the heat to medium-high, and stir-fry for 5 minutes until they release their moisture. Add the brandy, if using, and cook until evaporated.",
+        "Stir in the paprika and miso, pour in the stock, and simmer for 2 minutes to reduce. Remove from the heat and stir in the soured cream and most of the parsley.",
+        "Cook the rice according to pack instructions. Serve the stroganoff over the rice, garnished with the reserved parsley and a pinch of paprika."
+      ]
+    },
+    {
+      "id": "cod-prawn-lemon-butter",
+      "title": "Pan-Fried Cod with Prawn & Lemon Butter",
+      "collection": "this-week",
+      "added": "2026-08-21",
+      "night": "Wednesday 26 August",
+      "time": "15 mins",
+      "timeMins": 15,
+      "serves": 2,
+      "source": {
+        "name": "GoodTo",
+        "url": "https://www.goodto.com/recipes/pan-fried-cod-with-prawn-and-lemon-butter"
+      },
+      "note": "Recipe as written serves 4; halved here.",
+      "tags": [
+        "fish",
+        "cod",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "x 150g thick pieces cod fillet"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "seasoned flour"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "sunflower oil"
+        },
+        {
+          "qty": 32,
+          "unit": "g",
+          "item": "butter"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "item": "small cooked, peeled prawns"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, finely grated rind and juice"
+        },
+        {
+          "qty": 225,
+          "unit": "g",
+          "item": "spinach leaves, lightly steamed, to serve"
+        }
+      ],
+      "method": [
+        "Coat the cod with the seasoned flour. Heat the oil and half the butter in a large frying pan until foaming. Add the cod and fry for 4 minutes per side until cooked through. Remove and set aside.",
+        "Wipe the pan clean. Add the remaining butter and heat until melted. Add the prawns and lemon rind, warming gently for 20-30 seconds, then stir in the lemon juice.",
+        "Serve the cod with the steamed spinach and pour over the lemon-prawn butter. Season with freshly ground black pepper."
+      ],
+      "notes": [
+        "Can be made with another white fish, such as haddock, if you prefer."
       ]
     }
   ]
