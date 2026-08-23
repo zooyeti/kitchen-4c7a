@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-23",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -482,6 +482,7 @@
       },
       "note": "Mostly hands-off. In by 2pm, on the table at 7pm with almost no intervention.",
       "tags": [
+        "keto",
         "lamb",
         "roast",
         "slow"
@@ -591,6 +592,7 @@
         "url": "https://www.plattertalk.com/fennel-rubbed-pork-tenderloin-fennel-wedges/"
       },
       "tags": [
+        "keto",
         "pork",
         "roast"
       ],
@@ -676,6 +678,7 @@
       },
       "note": "Serves 2 as a starter. No cooking required.",
       "tags": [
+        "keto",
         "fish",
         "starter",
         "no cook"
@@ -750,6 +753,7 @@
         "url": "https://www.deliciousmagazine.co.uk/recipes/perfect-pan-fried-chicken-breasts/"
       },
       "tags": [
+        "keto",
         "chicken",
         "technique"
       ],
@@ -813,6 +817,7 @@
       },
       "note": "Traditional village salad — no lettuce, no fuss.",
       "tags": [
+        "keto",
         "vegetarian",
         "salad",
         "no cook"
@@ -898,6 +903,7 @@
         "url": "https://www.jamieoliver.com/recipes/lamb/best-lamb-cutlets-with-special-basil-sauce/"
       },
       "tags": [
+        "keto",
         "lamb",
         "griddle"
       ],
@@ -974,6 +980,7 @@
         "url": "https://www.deliciousmagazine.co.uk/recipes/lemon-thyme-and-fennel-butterflied-leg-of-lamb/"
       },
       "tags": [
+        "keto",
         "lamb",
         "barbecue"
       ],
