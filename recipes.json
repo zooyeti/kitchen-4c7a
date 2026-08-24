@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -1462,6 +1462,99 @@
       ],
       "notes": [
         "Can be made with another white fish, such as haddock, if you prefer."
+      ]
+    },
+    {
+      "id": "chicken-orzo-feta-tarragon",
+      "title": "Creamy Lemon-Tarragon Chicken Orzo with Feta & Mint",
+      "collection": "weekday",
+      "added": "2026-08-24",
+      "time": "30 mins",
+      "timeMins": 30,
+      "serves": 2,
+      "note": "Not a sourced recipe — a one-off built from what was in the fridge/pantry that day. Not keto (orzo).",
+      "tags": [
+        "chicken",
+        "orzo",
+        "pasta",
+        "one-pan"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "chicken breasts, cut into bite-size pieces"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "shallot, finely diced"
+        },
+        {
+          "qty": 2,
+          "unit": "cloves",
+          "item": "garlic, crushed"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "carrot, diced"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "orzo"
+        },
+        {
+          "qty": 500,
+          "unit": "ml",
+          "item": "chicken stock (or water)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "small bunch tarragon, chopped"
+        },
+        {
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "Greek yogurt"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "feta, crumbled"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "small bunch mint, chopped"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, juice and zest (optional)"
+        }
+      ],
+      "method": [
+        "Season the chicken. Heat the olive oil in a large pan over medium-high heat and sear the chicken until golden and just cooked through. Set aside.",
+        "In the same pan, soften the shallot, garlic and carrot for a few minutes.",
+        "Stir in the orzo and toast for a minute, then add the stock. Simmer, stirring occasionally, until the orzo is al dente and most of the liquid is absorbed.",
+        "Return the chicken to the pan with the chopped tarragon. Take off the heat and stir through the Greek yogurt (off the heat so it doesn't split).",
+        "Finish with crumbled feta, chopped mint, black pepper, and lemon juice/zest if using."
+      ],
+      "notes": [
+        "Swap the yogurt finish for an egg-lemon (avgolemono) enrichment for a more traditionally Greek technique — whisk eggs with lemon juice, temper with hot cooking liquid, then stir through off the heat instead of the yogurt."
       ]
     }
   ]
