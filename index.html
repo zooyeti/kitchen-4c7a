@@ -253,7 +253,7 @@ function renderList(rs, prefixHtml){
       <button class="card" data-id="${r.id}">
         ${r.night && !q ? `<p class="daylabel">${esc(r.night)}</p>` : ''}
         <h2>${esc(r.title)}</h2>
-        <p class="meta">${esc(r.time)} · serves ${r.serves}${r.source.name ? ' · ' + esc(r.source.name) : ''}</p>
+        <p class="meta">${esc(r.time)} · serves ${r.serves}${r.source && r.source.name ? ' · ' + esc(r.source.name) : ''}</p>
         ${(r.tags||[]).length ? `<div class="chips">${r.tags.map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>` : ''}
       </button>`).join('')
     : `<p class="empty">${q ? 'Nothing matches “'+esc(S.q)+'”.' : (S.tagFilter ? 'Nothing tagged “'+esc(S.tagFilter)+'” here.' : 'Nothing here yet.')}</p>`;
@@ -283,8 +283,8 @@ function detail(r){
     <h1 class="title">${esc(r.title)}</h1>
     ${r.night ? `<p class="subline">${esc(r.night)}</p>` : ''}
     <p class="subline">${esc(r.time)} · serves ${base} as written</p>
-    ${r.source.url ? `<p class="srcline"><a href="${esc(r.source.url)}" target="_blank" rel="noopener">View original on ${esc(r.source.name)} ›</a></p>`
-      : (r.source.name ? `<p class="srcline subline">Source: ${esc(r.source.name)}</p>` : '')}
+    ${r.source && r.source.url ? `<p class="srcline"><a href="${esc(r.source.url)}" target="_blank" rel="noopener">View original on ${esc(r.source.name)} ›</a></p>`
+      : (r.source && r.source.name ? `<p class="srcline subline">Source: ${esc(r.source.name)}</p>` : '')}
     ${r.note ? `<p class="note">${esc(r.note)}</p>` : ''}
 
     <div class="section">

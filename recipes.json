@@ -1472,6 +1472,7 @@
       "time": "30 mins",
       "timeMins": 30,
       "serves": 2,
+      "source": { "name": "", "url": "" },
       "note": "Not a sourced recipe — a one-off built from what was in the fridge/pantry that day. Not keto (orzo).",
       "tags": [
         "chicken",
