@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-09-13",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -1223,9 +1223,8 @@
     {
       "id": "beef-broccoli-stir-fry",
       "title": "Beef & Broccoli Stir-Fry",
-      "collection": "this-week",
-      "added": "2026-08-21",
-      "night": "Monday 24 August",
+      "collection": "weekday",
+      "added": "2026-09-13",
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
@@ -1320,9 +1319,8 @@
     {
       "id": "mushroom-stroganoff",
       "title": "Mushroom Stroganoff",
-      "collection": "this-week",
-      "added": "2026-08-21",
-      "night": "Tuesday 25 August",
+      "collection": "weekday",
+      "added": "2026-09-13",
       "time": "25 mins",
       "timeMins": 25,
       "serves": 2,
@@ -1402,9 +1400,8 @@
     {
       "id": "cod-prawn-lemon-butter",
       "title": "Pan-Fried Cod with Prawn & Lemon Butter",
-      "collection": "this-week",
-      "added": "2026-08-21",
-      "night": "Wednesday 26 August",
+      "collection": "weekday",
+      "added": "2026-09-13",
       "time": "15 mins",
       "timeMins": 15,
       "serves": 2,
@@ -1472,7 +1469,10 @@
       "time": "30 mins",
       "timeMins": 30,
       "serves": 2,
-      "source": { "name": "", "url": "" },
+      "source": {
+        "name": "",
+        "url": ""
+      },
       "note": "Not a sourced recipe — a one-off built from what was in the fridge/pantry that day. Not keto (orzo).",
       "tags": [
         "chicken",
@@ -1557,6 +1557,254 @@
       "notes": [
         "Swap the yogurt finish for an egg-lemon (avgolemono) enrichment for a more traditionally Greek technique — whisk eggs with lemon juice, temper with hot cooking liquid, then stir through off the heat instead of the yogurt."
       ]
+    },
+    {
+      "id": "steak-garlic-mushroom-cream-winter-greens",
+      "title": "Steak with Garlic Mushroom Cream and Winter Greens",
+      "collection": "this-week",
+      "added": "2026-09-13",
+      "night": "Monday 14 September",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/steak-with-garlic-mushroom-cream-and-winter-greens/"
+      },
+      "tags": [
+        "beef",
+        "steak",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Olive oil, for frying"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "small shallots, sliced"
+        },
+        {
+          "qty": 1,
+          "unit": "clove",
+          "item": "garlic, crushed"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "chestnut mushrooms, finely sliced"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "Dijon mustard"
+        },
+        {
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "crème fraîche (2-3 tbsp)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A splash chicken stock"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "flat-leaf parsley, chopped"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "rump steaks (about 200g each)"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "spinach (or chard/cavolo nero)"
+        }
+      ],
+      "method": [
+        "Heat 1 tbsp olive oil in a frying pan. Cook the shallot until soft, add the garlic for a minute, then the mushrooms until golden (about 10 minutes). Stir in the mustard, crème fraîche and stock, bubble together, then stir through the parsley.",
+        "Brush the steaks with oil, season with sea salt and pepper. Heat a griddle pan to high and cook the steaks for 2 minutes per side. Rest for 3-4 minutes while wilting the greens. Plate the steaks and top with the mushroom sauce."
+      ],
+      "nutrition": {
+        "Energy": "521kcal",
+        "Fat": "34.3g",
+        "Saturated Fat": "13.6g",
+        "Carbohydrates": "4.9g",
+        "Fibre": "1.9g",
+        "Protein": "47.1g",
+        "Salt": "1.1g"
+      }
+    },
+    {
+      "id": "chicken-supreme",
+      "title": "Chicken Supreme",
+      "collection": "this-week",
+      "added": "2026-09-13",
+      "night": "Tuesday 15 September",
+      "time": "25 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/chicken-supreme/"
+      },
+      "tags": [
+        "chicken",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "chicken breasts"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "item": "smoked bacon lardons"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "long shallots, finely chopped"
+        },
+        {
+          "qty": 2,
+          "unit": "clove",
+          "item": "garlic, finely chopped"
+        },
+        {
+          "qty": 150,
+          "unit": "ml",
+          "item": "white wine"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "item": "double cream"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "Dijon mustard"
+        }
+      ],
+      "method": [
+        "Preheat the oven to 200C/fan 180C/gas 6. Season the chicken and cook skin-side down in a hot, heavy-bottomed non-stick pan for 5-6 minutes until crisp and golden. Transfer to a baking tray, skin-side down, and roast for 10 minutes until cooked through. Rest on a plate, loosely covered, for 5-10 minutes.",
+        "Add oil to the same pan with the lardons and cook for 5 minutes until browning. Add the shallots with a pinch of salt, reduce heat to medium and cook for 5 minutes until softened. Stir in the garlic, cook for 1 minute, then pour in the wine and reduce by half.",
+        "Pour in the cream and mustard, then bubble until thick and saucy. Season to taste, add any resting juices from the chicken, and serve the sauce alongside the breasts."
+      ],
+      "nutrition": {
+        "Energy": "658kcal",
+        "Carbohydrates": "5.2g",
+        "Protein": "41.8g",
+        "Fat": "46.7g",
+        "Saturated Fat": "20.8g",
+        "Fibre": "1g",
+        "Sugar": "4.6g",
+        "Salt": "1.1g"
+      }
+    },
+    {
+      "id": "salmon-green-beans-peas",
+      "title": "Salmon, Green Beans and Peas",
+      "collection": "this-week",
+      "added": "2026-09-13",
+      "night": "Wednesday 16 September",
+      "time": "30 mins",
+      "timeMins": 30,
+      "serves": 2,
+      "source": {
+        "name": "Tesco Real Food",
+        "url": "https://realfood.tesco.com/recipes/salmon-green-beans-and-peas.html"
+      },
+      "note": "Dressing simplified from the original to skip the pinch of sugar and keep it strictly keto — won't be missed.",
+      "tags": [
+        "fish",
+        "salmon",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "large limes (1 juiced, 1 cut into wedges)"
+        },
+        {
+          "qty": 10,
+          "unit": "g",
+          "item": "fresh mint leaves, finely chopped, plus extra to garnish"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "small red chilli, deseeded and finely chopped"
+        },
+        {
+          "qty": 260,
+          "unit": "g",
+          "item": "boneless salmon fillets"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "sesame seeds"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "edamame soya beans"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "fine green beans, trimmed and halved"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "frozen peas"
+        },
+        {
+          "qty": 75,
+          "unit": "g",
+          "item": "mangetout, halved lengthways"
+        }
+      ],
+      "method": [
+        "Whisk together the oil, lime juice, mint and chilli; season and set aside.",
+        "Spread the sesame seeds on a plate. Season the salmon with pepper, then coat in the seeds.",
+        "Heat the remaining oil in a nonstick pan over medium-high heat. Fry the salmon for 1.5-2 minutes per side until golden, then lower the heat and cook for 2 minutes more until done. Rest on a warm plate.",
+        "Steam the green beans, peas and mangetout for 5-6 minutes until tender. Toss with two-thirds of the dressing.",
+        "Plate the vegetables, top with the salmon, and drizzle over the remaining dressing. Serve with lime wedges and mint."
+      ],
+      "nutrition": {
+        "Energy": "575kcal",
+        "Fat": "38g",
+        "Saturated Fat": "6g",
+        "Salt": "1.2g",
+        "Sugars": "7g",
+        "Carbohydrates": "13.2g",
+        "Protein": "43.4g",
+        "Fibre": "8.9g"
+      }
     }
   ]
 }
