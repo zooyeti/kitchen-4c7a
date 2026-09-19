@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-19",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -1805,6 +1805,118 @@
         "Protein": "43.4g",
         "Fibre": "8.9g"
       }
+    },
+    {
+      "id": "scallop-fennel-mascarpone-risotto",
+      "title": "Fennel & Mascarpone Risotto with Scallops and Prosciutto",
+      "collection": "weekend",
+      "added": "2026-09-19",
+      "time": "40 mins",
+      "timeMins": 40,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/fennel-and-mascarpone-risotto-with-scallops-and-prosciutto/"
+      },
+      "note": "Weekend risotto, chosen to go with a full-bodied, mineral white (white Burgundy). Not keto.",
+      "tags": [
+        "seafood",
+        "scallops",
+        "risotto"
+      ],
+      "ingredients": [
+        {
+          "group": "Risotto",
+          "qty": 25,
+          "unit": "g",
+          "item": "butter"
+        },
+        {
+          "group": "Risotto",
+          "qty": 0.5,
+          "unit": "",
+          "item": "small onion, finely chopped"
+        },
+        {
+          "group": "Risotto",
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, finely chopped"
+        },
+        {
+          "group": "Risotto",
+          "qty": 1,
+          "unit": "",
+          "item": "fennel bulb, head finely sliced"
+        },
+        {
+          "group": "Risotto",
+          "qty": 150,
+          "unit": "g",
+          "item": "risotto rice (such as carnaroli)"
+        },
+        {
+          "group": "Risotto",
+          "qty": 150,
+          "unit": "ml",
+          "item": "dry white wine"
+        },
+        {
+          "group": "Risotto",
+          "qty": 600,
+          "unit": "ml",
+          "item": "vegetable stock, hot"
+        },
+        {
+          "group": "Risotto",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "mascarpone"
+        },
+        {
+          "group": "Risotto",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "item": "chopped fresh flatleaf parsley"
+        },
+        {
+          "group": "To finish",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "To finish",
+          "qty": 40,
+          "unit": "g",
+          "item": "prosciutto, cut into thin strips"
+        },
+        {
+          "group": "To finish",
+          "qty": 6,
+          "unit": "",
+          "item": "fresh scallops (diver-caught if possible), corals detached"
+        },
+        {
+          "group": "To finish",
+          "qty": null,
+          "unit": "",
+          "item": "Black pepper"
+        }
+      ],
+      "method": [
+        "Soften the base — Melt the butter in a large, deep frying pan over a medium-low heat. Add the onion and cook gently for 8 minutes until softened. Add the garlic and fennel and cook for 5 minutes more.",
+        "Toast the rice — Stir in the rice until coated, pour in the wine and let it bubble for 2–3 minutes.",
+        "Add the stock — Add the hot stock a few ladlefuls at a time, stirring until each addition is absorbed. Keep going for about 20 minutes at a gentle simmer, until the rice is al dente but creamy. Season, cover and rest for 2–3 minutes.",
+        "Prosciutto and scallops — Heat the oil in a heavy-based frying pan. Fry the prosciutto for 1 minute until crisp and lift out with tongs. When the pan is hot, season the white parts of the scallops and cook for 1 minute on each side until lightly golden. Add the corals and cook for 30 seconds, then take off the heat.",
+        "Finish — Stir the parsley and mascarpone into the risotto. Divide between 2 bowls and top with the crispy prosciutto, scallops and corals. Season with black pepper."
+      ],
+      "notes": [
+        "Recipe as written serves 4 — halved here for 2. Half a small onion is what the maths gives; use a whole small one if you'd rather not have half an onion left over. The oil is kept at 1 tbsp so the pan is properly coated.",
+        "Chef's tip from the source: cook the meaty white parts first, then just 'show' the corals to the pan — scallops need very little cooking.",
+        "Not keto: roughly 60g of carbs a serving from the rice alone (my estimate). The source's nutrition panel lists 2.7g carbs, which can't be right for a risotto (its other figures don't add up either), so it has been left out.",
+        "Wine: a full-bodied mineral white such as a Meursault or a Chablis Premier Cru. Sources say the richer the dish, the fuller the wine it can take, and white Burgundy is safe ground with cream and butter. The scallop match is inference from that, not a sourced pairing of this exact dish."
+      ]
     }
   ]
 }
