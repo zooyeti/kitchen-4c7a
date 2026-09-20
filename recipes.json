@@ -1570,7 +1570,7 @@
         "name": "Tesco Real Food",
         "url": "https://realfood.tesco.com/recipes/salmon-green-beans-and-peas.html"
       },
-      "note": "Dressing simplified from the original to skip the pinch of sugar and keep it strictly keto — won't be missed.",
+      "note": "Adapted: no sugar in the dressing, and the peas swapped for extra green beans to keep it strictly keto.",
       "tags": [
         "fish",
         "salmon",
@@ -1613,14 +1613,9 @@
           "item": "edamame soya beans"
         },
         {
-          "qty": 100,
+          "qty": 200,
           "unit": "g",
           "item": "fine green beans, trimmed and halved"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "frozen peas"
         },
         {
           "qty": 75,
@@ -1632,19 +1627,15 @@
         "Whisk together the oil, lime juice, mint and chilli; season and set aside.",
         "Spread the sesame seeds on a plate. Season the salmon with pepper, then coat in the seeds.",
         "Heat the remaining oil in a nonstick pan over medium-high heat. Fry the salmon for 1.5-2 minutes per side until golden, then lower the heat and cook for 2 minutes more until done. Rest on a warm plate.",
-        "Steam the green beans, peas and mangetout for 5-6 minutes until tender. Toss with two-thirds of the dressing.",
+        "Steam the green beans and mangetout for 5-6 minutes until tender. Toss with two-thirds of the dressing.",
         "Plate the vegetables, top with the salmon, and drizzle over the remaining dressing. Serve with lime wedges and mint."
       ],
       "nutrition": {
-        "Energy": "575kcal",
-        "Fat": "38g",
-        "Saturated Fat": "6g",
-        "Salt": "1.2g",
-        "Sugars": "7g",
-        "Carbohydrates": "13.2g",
-        "Protein": "43.4g",
-        "Fibre": "8.9g"
-      }
+        "Net carbs": "~11g"
+      },
+      "notes": [
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~14g with the original peas). Mangetout and lime juice figures are unverified estimates. The source page's own nutrition panel was removed — it described the version with peas."
+      ]
     },
     {
       "id": "scallop-fennel-mascarpone-risotto",
