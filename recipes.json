@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -1559,170 +1559,10 @@
       ]
     },
     {
-      "id": "steak-garlic-mushroom-cream-winter-greens",
-      "title": "Steak with Garlic Mushroom Cream and Winter Greens",
-      "collection": "this-week",
-      "added": "2026-09-13",
-      "night": "Monday 14 September",
-      "time": "25 mins",
-      "timeMins": 25,
-      "serves": 2,
-      "source": {
-        "name": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/steak-with-garlic-mushroom-cream-and-winter-greens/"
-      },
-      "tags": [
-        "beef",
-        "steak",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Olive oil, for frying"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "small shallots, sliced"
-        },
-        {
-          "qty": 1,
-          "unit": "clove",
-          "item": "garlic, crushed"
-        },
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "chestnut mushrooms, finely sliced"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "Dijon mustard"
-        },
-        {
-          "qty": 3,
-          "unit": "tbsp",
-          "item": "crème fraîche (2-3 tbsp)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "A splash chicken stock"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "flat-leaf parsley, chopped"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "rump steaks (about 200g each)"
-        },
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "spinach (or chard/cavolo nero)"
-        }
-      ],
-      "method": [
-        "Heat 1 tbsp olive oil in a frying pan. Cook the shallot until soft, add the garlic for a minute, then the mushrooms until golden (about 10 minutes). Stir in the mustard, crème fraîche and stock, bubble together, then stir through the parsley.",
-        "Brush the steaks with oil, season with sea salt and pepper. Heat a griddle pan to high and cook the steaks for 2 minutes per side. Rest for 3-4 minutes while wilting the greens. Plate the steaks and top with the mushroom sauce."
-      ],
-      "nutrition": {
-        "Energy": "521kcal",
-        "Fat": "34.3g",
-        "Saturated Fat": "13.6g",
-        "Carbohydrates": "4.9g",
-        "Fibre": "1.9g",
-        "Protein": "47.1g",
-        "Salt": "1.1g"
-      }
-    },
-    {
-      "id": "chicken-supreme",
-      "title": "Chicken Supreme",
-      "collection": "this-week",
-      "added": "2026-09-13",
-      "night": "Tuesday 15 September",
-      "time": "25 mins",
-      "timeMins": 25,
-      "serves": 2,
-      "source": {
-        "name": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/chicken-supreme/"
-      },
-      "tags": [
-        "chicken",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "chicken breasts"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 50,
-          "unit": "g",
-          "item": "smoked bacon lardons"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "long shallots, finely chopped"
-        },
-        {
-          "qty": 2,
-          "unit": "clove",
-          "item": "garlic, finely chopped"
-        },
-        {
-          "qty": 150,
-          "unit": "ml",
-          "item": "white wine"
-        },
-        {
-          "qty": 100,
-          "unit": "ml",
-          "item": "double cream"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "Dijon mustard"
-        }
-      ],
-      "method": [
-        "Preheat the oven to 200C/fan 180C/gas 6. Season the chicken and cook skin-side down in a hot, heavy-bottomed non-stick pan for 5-6 minutes until crisp and golden. Transfer to a baking tray, skin-side down, and roast for 10 minutes until cooked through. Rest on a plate, loosely covered, for 5-10 minutes.",
-        "Add oil to the same pan with the lardons and cook for 5 minutes until browning. Add the shallots with a pinch of salt, reduce heat to medium and cook for 5 minutes until softened. Stir in the garlic, cook for 1 minute, then pour in the wine and reduce by half.",
-        "Pour in the cream and mustard, then bubble until thick and saucy. Season to taste, add any resting juices from the chicken, and serve the sauce alongside the breasts."
-      ],
-      "nutrition": {
-        "Energy": "658kcal",
-        "Carbohydrates": "5.2g",
-        "Protein": "41.8g",
-        "Fat": "46.7g",
-        "Saturated Fat": "20.8g",
-        "Fibre": "1g",
-        "Sugar": "4.6g",
-        "Salt": "1.1g"
-      }
-    },
-    {
       "id": "salmon-green-beans-peas",
       "title": "Salmon, Green Beans and Peas",
-      "collection": "this-week",
-      "added": "2026-09-13",
-      "night": "Wednesday 16 September",
+      "collection": "weekday",
+      "added": "2026-09-20",
       "time": "30 mins",
       "timeMins": 30,
       "serves": 2,
@@ -1917,6 +1757,227 @@
         "Not keto: roughly 60g of carbs a serving from the rice alone (my estimate). The source's nutrition panel lists 2.7g carbs, which can't be right for a risotto (its other figures don't add up either), so it has been left out.",
         "Wine: a full-bodied mineral white such as a Meursault or a Chablis Premier Cru. Sources say the richer the dish, the fuller the wine it can take, and white Burgundy is safe ground with cream and butter. The scallop match is inference from that, not a sourced pairing of this exact dish."
       ]
+    },
+    {
+      "id": "garlic-prawn-courgette-lemon-pan-fry",
+      "title": "Garlic Prawn, Courgette and Lemon Pan Fry",
+      "collection": "this-week",
+      "added": "2026-09-20",
+      "night": "Monday 21 September",
+      "time": "15 mins",
+      "timeMins": 15,
+      "serves": 2,
+      "source": {
+        "name": "Tesco Real Food",
+        "url": "https://realfood.tesco.com/recipes/garlic-prawn-courgette-and-lemon-pan-fry.html"
+      },
+      "note": "Adapted: no rice, and the frozen peas swapped for more spinach to keep the carbs down.",
+      "tags": [
+        "seafood",
+        "prawns",
+        "quick",
+        "hob only",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "courgettes"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 15,
+          "unit": "g",
+          "item": "butter"
+        },
+        {
+          "qty": 2,
+          "unit": "clove",
+          "item": "garlic, thinly sliced"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "raw prawns, shelled"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "baby spinach"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon, finely grated rind only"
+        }
+      ],
+      "method": [
+        "Trim the ends off the courgettes, then cut them into slices the thickness of a pound coin.",
+        "Heat the oil and butter in a frying pan and fry the courgettes, garlic and prawns together until the prawns are pink and the courgettes are just tender, about 3-4 minutes.",
+        "Add the spinach and cook for 1 minute until wilted, then stir in the lemon rind and serve immediately."
+      ],
+      "notes": [
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~10g with the original peas). The source page's own nutrition panel was removed — it described the version with peas and rice."
+      ],
+      "nutrition": {
+        "Net carbs": "~6g"
+      }
+    },
+    {
+      "id": "sumac-chicken-green-bean-salad",
+      "title": "Sumac Chicken and Green Bean Salad",
+      "collection": "this-week",
+      "added": "2026-09-20",
+      "night": "Tuesday 22 September",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/healthy/sumac-chicken-and-green-bean-salad/"
+      },
+      "note": "Adapted: no carrot or pomegranate molasses; extra lemon and a little rocket instead.",
+      "tags": [
+        "chicken",
+        "salad",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "skinless chicken breasts"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil (1 tsp for the chicken, the rest for the dressing)"
+        },
+        {
+          "qty": 2,
+          "unit": "tsp",
+          "item": "sumac, plus a pinch to serve"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "ground cumin"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "item": "green beans, trimmed"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "red onion, finely sliced"
+        },
+        {
+          "qty": 30,
+          "unit": "g",
+          "item": "rocket"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon, juiced"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "small bunch dill, chopped"
+        }
+      ],
+      "method": [
+        "Heat the oven to 220C/fan 200C/gas 7. Coat the chicken breasts with 1 tsp of the oil and season. Mix the sumac and cumin and rub it over the chicken. Put on a baking sheet and roast for 15-20 minutes until cooked through.",
+        "Whisk the lemon juice with the remaining oil and season to make the dressing. Blanch the green beans in salted boiling water for 2 minutes, then add the red onion for 5 seconds. Cool both in iced water, drain and dry with kitchen paper.",
+        "Toss the beans and onion with most of the dressing. Divide between plates with the rocket. Slice the chicken, lay it on top, drizzle with the rest of the dressing and finish with the dill and a pinch of sumac."
+      ],
+      "notes": [
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (roughly 4-5g more with the original carrot). The source page's own nutrition panel was removed — it described the version with carrot and molasses, and its fibre figure didn't add up."
+      ],
+      "nutrition": {
+        "Net carbs": "~9g"
+      }
+    },
+    {
+      "id": "lamb-steaks-feta-tomato-rosemary",
+      "title": "Lamb Steaks with Feta, Tomato and Rosemary",
+      "collection": "this-week",
+      "added": "2026-09-20",
+      "night": "Wednesday 23 September",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/lamb-steaks-with-feta-tomato-and-rosemary/"
+      },
+      "note": "Adapted: no couscous or stock — served on dressed spinach instead.",
+      "tags": [
+        "lamb",
+        "quick",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "lamb leg steaks (about 350g in total), trimmed"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "feta, crumbled"
+        },
+        {
+          "qty": 10,
+          "unit": "",
+          "item": "cherry tomatoes, halved"
+        },
+        {
+          "qty": 1,
+          "unit": "sprig",
+          "item": "rosemary, needles chopped"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A handful of flat-leaf parsley, chopped"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "baby spinach"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        }
+      ],
+      "method": [
+        "Heat the grill to high. Season the lamb, put it on a baking sheet and grill for 3 minutes each side.",
+        "Scatter the feta, tomatoes and rosemary over the lamb and grill for a few minutes more until sizzling.",
+        "Toss the spinach with the olive oil, parsley and a squeeze of lemon juice. Serve the lamb on top."
+      ],
+      "notes": [
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20. The source page's own nutrition panel was removed — it included the couscous."
+      ],
+      "nutrition": {
+        "Net carbs": "~6g"
+      }
     }
   ]
 }
