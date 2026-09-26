@@ -300,7 +300,7 @@ function detail(r){
 
     ${r.notes && r.notes.length ? `<div class="section"><h3>Notes</h3><ul class="notes">${r.notes.map(n => `<li>${esc(n)}</li>`).join('')}</ul></div>` : ''}
 
-    ${r.nutrition ? `<div class="section"><h3>Nutrition (per serving, as written)</h3><div class="nutri">${
+    ${r.nutrition ? `<div class="section"><h3>Nutrition (${esc(r.nutritionNote || 'per serving, as written')})</h3><div class="nutri">${
       Object.entries(r.nutrition).map(([k,v]) => `<div><b>${esc(k)}</b><span>${esc(v)}</span></div>`).join('')}</div></div>` : ''}
 
     <button class="cookbtn" id="startcook">Start cooking</button>`;

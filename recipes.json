@@ -1631,11 +1631,17 @@
         "Plate the vegetables, top with the salmon, and drizzle over the remaining dressing. Serve with lime wedges and mint."
       ],
       "nutrition": {
+        "Energy": "~570kcal",
+        "Protein": "~39g",
+        "Fat": "~39g",
+        "Saturated Fat": "~7g",
         "Net carbs": "~11g"
       },
       "notes": [
-        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~14g with the original peas). Mangetout and lime juice figures are unverified estimates. The source page's own nutrition panel was removed — it described the version with peas."
-      ]
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~14g with the original peas). Mangetout and lime juice figures are unverified estimates. The source page's own nutrition panel was replaced with figures worked out from the adapted ingredients — it described the version with peas.",
+        "Energy, protein and fat estimated from per-ingredient USDA data on 2026-09-26. Herbs, spices and citrus juice not counted (under ~15 kcal a serving). Weights assumed where the recipe gives none (chicken breasts ~150g each, courgettes ~200g each)."
+      ],
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
     },
     {
       "id": "scallop-fennel-mascarpone-risotto",
@@ -1813,11 +1819,17 @@
         "Add the spinach and cook for 1 minute until wilted, then stir in the lemon rind and serve immediately."
       ],
       "notes": [
-        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~10g with the original peas). The source page's own nutrition panel was removed — it described the version with peas and rice."
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~10g with the original peas). The source page's own nutrition panel was replaced with figures worked out from the adapted ingredients — it described the version with peas and rice.",
+        "Energy, protein and fat estimated from per-ingredient USDA data on 2026-09-26. Herbs, spices and citrus juice not counted (under ~15 kcal a serving). Weights assumed where the recipe gives none (chicken breasts ~150g each, courgettes ~200g each)."
       ],
       "nutrition": {
+        "Energy": "~240kcal",
+        "Protein": "~18g",
+        "Fat": "~15g",
+        "Saturated Fat": "~5g",
         "Net carbs": "~6g"
-      }
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
     },
     {
       "id": "sumac-chicken-green-bean-salad",
@@ -1891,11 +1903,17 @@
         "Toss the beans and onion with most of the dressing. Divide between plates with the rocket. Slice the chicken, lay it on top, drizzle with the rest of the dressing and finish with the dill and a pinch of sumac."
       ],
       "notes": [
-        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (roughly 4-5g more with the original carrot). The source page's own nutrition panel was removed — it described the version with carrot and molasses, and its fibre figure didn't add up."
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (roughly 4-5g more with the original carrot). The source page's own nutrition panel was replaced with figures worked out from the adapted ingredients — it described the version with carrot and molasses, and its fibre figure didn't add up.",
+        "Energy, protein and fat estimated from per-ingredient USDA data on 2026-09-26. Herbs, spices and citrus juice not counted (under ~15 kcal a serving). Weights assumed where the recipe gives none (chicken breasts ~150g each, courgettes ~200g each)."
       ],
       "nutrition": {
+        "Energy": "~360kcal",
+        "Protein": "~37g",
+        "Fat": "~19g",
+        "Saturated Fat": "~3g",
         "Net carbs": "~9g"
-      }
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
     },
     {
       "id": "lamb-steaks-feta-tomato-rosemary",
@@ -1964,11 +1982,17 @@
         "Toss the spinach with the olive oil, parsley and a squeeze of lemon juice. Serve the lamb on top."
       ],
       "notes": [
-        "Net carbs worked out from per-ingredient USDA data on 2026-09-20. The source page's own nutrition panel was removed — it included the couscous."
+        "Net carbs worked out from per-ingredient USDA data on 2026-09-20. The source page's own nutrition panel was replaced with figures worked out from the adapted ingredients — it included the couscous.",
+        "Energy, protein and fat estimated from per-ingredient USDA data on 2026-09-26. Herbs, spices and citrus juice not counted (under ~15 kcal a serving). Weights assumed where the recipe gives none (chicken breasts ~150g each, courgettes ~200g each)."
       ],
       "nutrition": {
+        "Energy": "~450kcal",
+        "Protein": "~46g",
+        "Fat": "~26g",
+        "Saturated Fat": "~11g",
         "Net carbs": "~6g"
-      }
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
     },
     {
       "id": "rack-of-lamb-pistachio-crust",
