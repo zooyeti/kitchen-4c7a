@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-26",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -1969,6 +1969,139 @@
       "nutrition": {
         "Net carbs": "~6g"
       }
+    },
+    {
+      "id": "rack-of-lamb-pistachio-crust",
+      "title": "Rack of Lamb with Pistachio & Parsley Crust",
+      "collection": "weekend",
+      "added": "2026-09-26",
+      "time": "50 mins + 10 rest",
+      "timeMins": 60,
+      "serves": 2,
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/lamb/rack-of-lamb/"
+      },
+      "note": "Halved from the original (serves 4). Crust made by hand, no food processor. Chosen for Gesellmann Bela Rex 2022 (Cabernet/Merlot).",
+      "tags": [
+        "lamb",
+        "roast",
+        "rack"
+      ],
+      "ingredients": [
+        {
+          "group": "Lamb",
+          "qty": 1,
+          "unit": "",
+          "item": "French-trimmed 7-bone rack of lamb, caps, fat and sinews removed"
+        },
+        {
+          "group": "Lamb",
+          "qty": null,
+          "unit": "",
+          "item": "Olive oil"
+        },
+        {
+          "group": "Lamb",
+          "qty": null,
+          "unit": "",
+          "item": "Unsalted butter, for searing"
+        },
+        {
+          "group": "Lamb",
+          "qty": null,
+          "unit": "",
+          "item": "Dijon mustard, for brushing (plus ½ tsp for the dressing)"
+        },
+        {
+          "group": "Lamb",
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        },
+        {
+          "group": "Herb crust",
+          "qty": 50,
+          "unit": "g",
+          "item": "shelled pistachios"
+        },
+        {
+          "group": "Herb crust",
+          "qty": 15,
+          "unit": "g",
+          "item": "fresh flat-leaf parsley (about ½ a bunch)"
+        },
+        {
+          "group": "Herb crust",
+          "qty": 40,
+          "unit": "g",
+          "item": "bread, slightly stale"
+        },
+        {
+          "group": "Herb crust",
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, peeled and finely chopped"
+        },
+        {
+          "group": "Herb crust",
+          "qty": 0.25,
+          "unit": "",
+          "item": "nutmeg, freshly grated"
+        },
+        {
+          "group": "Green beans",
+          "qty": 175,
+          "unit": "g",
+          "item": "fine green beans"
+        },
+        {
+          "group": "Green beans",
+          "qty": 1.5,
+          "unit": "tsp",
+          "item": "white wine vinegar"
+        },
+        {
+          "group": "Green beans",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "extra virgin olive oil"
+        },
+        {
+          "group": "Green beans",
+          "qty": 0.5,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "group": "Green beans",
+          "qty": 0.25,
+          "unit": "",
+          "item": "lemon, juice only"
+        },
+        {
+          "group": "Green beans",
+          "qty": 2,
+          "unit": "sprigs",
+          "item": "fresh tarragon, leaves finely chopped"
+        }
+      ],
+      "method": [
+        "Take the lamb out of the fridge to come to room temperature. Heat the oven to 180°C / gas 4.",
+        "Drizzle the rack with olive oil and season generously with salt and pepper.",
+        "Sear in a hot frying pan with a little oil and butter for 2–3 minutes, turning until golden all over. Move to a roasting tray and leave to cool.",
+        "Make the crust by hand: bash the pistachios in a freezer bag or under a tea towel with a rolling pin, then finish with a knife into small, uneven crumbs. Grate the bread on the coarse side of a grater (or tear and rub it into rough crumbs). Finely chop the parsley, dry it well, and chop the garlic. Mix everything together with the grated nutmeg and a pinch of salt.",
+        "Brush the rack generously with mustard, then press the crumb over the top and sides.",
+        "Roast for 25 minutes until the crust is crisp. Rest for 10 minutes.",
+        "Meanwhile, trim the beans and boil in salted water for 6–7 minutes.",
+        "Whisk the crushed garlic, ½ tsp mustard, vinegar, extra virgin olive oil and lemon juice. Season to taste and stir in the tarragon.",
+        "Drain the beans and toss with the dressing. Carve the lamb into cutlets and serve with the beans."
+      ],
+      "notes": [
+        "Original recipe blitzes the crust in a food processor. By hand it comes out a bit coarser, but sticks and crisps fine.",
+        "Pairs with Gesellmann Bela Rex 2022 (Burgenland, Cabernet Sauvignon/Merlot) — a fuller red suits rack of lamb (Decanter).",
+        "Quantities halved from the original (2 racks, serves 4). Nutmeg, garlic and tarragon are rounded to practical amounts."
+      ]
     }
   ]
 }
