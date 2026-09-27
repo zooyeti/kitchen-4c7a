@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2125,6 +2125,195 @@
         "Original recipe blitzes the crust in a food processor. By hand it comes out a bit coarser, but sticks and crisps fine.",
         "Pairs with Gesellmann Bela Rex 2022 (Burgenland, Cabernet Sauvignon/Merlot) — a fuller red suits rack of lamb (Decanter).",
         "Quantities halved from the original (2 racks, serves 4). Nutmeg, garlic and tarragon are rounded to practical amounts."
+      ]
+    },
+    {
+      "id": "sunday-roast-beef-dinner",
+      "title": "Sunday Roast Beef Dinner",
+      "collection": "weekend",
+      "added": "2026-09-27",
+      "time": "About 2 hrs (incl. resting)",
+      "timeMins": 120,
+      "serves": 2,
+      "note": "Combined from four separate sources (beef, gravy, carrots, Yorkshires) — see notes below for each. Not source-checked for keto.",
+      "tags": [
+        "beef",
+        "roast",
+        "sunday roast",
+        "yorkshire pudding"
+      ],
+      "ingredients": [
+        {
+          "group": "Beef",
+          "qty": 500,
+          "unit": "g",
+          "item": "topside of beef"
+        },
+        {
+          "group": "Beef",
+          "qty": 1,
+          "unit": "",
+          "item": "medium onion, roughly chopped"
+        },
+        {
+          "group": "Beef",
+          "qty": 1,
+          "unit": "",
+          "item": "carrot, roughly chopped"
+        },
+        {
+          "group": "Beef",
+          "qty": 1,
+          "unit": "",
+          "item": "celery stick, roughly chopped"
+        },
+        {
+          "group": "Beef",
+          "qty": 0.5,
+          "unit": "bulb",
+          "item": "garlic, cloves separated (unpeeled)"
+        },
+        {
+          "group": "Beef",
+          "qty": null,
+          "unit": "",
+          "item": "small handful mixed fresh herbs (thyme, rosemary, bay, sage)"
+        },
+        {
+          "group": "Beef",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "Beef",
+          "qty": 0.33,
+          "unit": "tsp",
+          "item": "sea salt"
+        },
+        {
+          "group": "Beef",
+          "qty": 0.33,
+          "unit": "tsp",
+          "item": "black pepper"
+        },
+        {
+          "group": "Gravy",
+          "qty": null,
+          "unit": "",
+          "item": "fat and juices from the beef's roasting tin"
+        },
+        {
+          "group": "Gravy",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "plain flour"
+        },
+        {
+          "group": "Gravy",
+          "qty": null,
+          "unit": "",
+          "item": "sprig fresh rosemary and/or a bay leaf"
+        },
+        {
+          "group": "Gravy",
+          "qty": 150,
+          "unit": "ml",
+          "item": "beef stock"
+        },
+        {
+          "group": "Carrots",
+          "qty": 250,
+          "unit": "g",
+          "item": "carrots, cut into even chunks"
+        },
+        {
+          "group": "Carrots",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "vegetable oil"
+        },
+        {
+          "group": "Carrots",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "crushed cumin seeds"
+        },
+        {
+          "group": "Carrots",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "Dijon mustard"
+        },
+        {
+          "group": "Carrots",
+          "qty": 0.75,
+          "unit": "tsp",
+          "item": "maple syrup"
+        },
+        {
+          "group": "Carrots",
+          "qty": null,
+          "unit": "",
+          "item": "small sprig fresh thyme, leaves picked"
+        },
+        {
+          "group": "Carrots",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "item": "za'atar spice mix (optional)"
+        },
+        {
+          "group": "Yorkshire puddings",
+          "qty": 1,
+          "unit": "",
+          "item": "large free-range egg"
+        },
+        {
+          "group": "Yorkshire puddings",
+          "qty": 50,
+          "unit": "g",
+          "item": "plain flour"
+        },
+        {
+          "group": "Yorkshire puddings",
+          "qty": 50,
+          "unit": "ml",
+          "item": "milk"
+        },
+        {
+          "group": "Yorkshire puddings",
+          "qty": null,
+          "unit": "",
+          "item": "pinch of salt and pepper"
+        },
+        {
+          "group": "Yorkshire puddings",
+          "qty": 6,
+          "unit": "tsp",
+          "item": "vegetable oil (for the tin)"
+        }
+      ],
+      "method": [
+        "Take the beef out of the fridge 30 minutes before cooking to bring it to room temperature.",
+        "Preheat the oven to 240°C / 220°C fan / Gas 9.",
+        "Roughly chop the onion, carrot and celery (skins on) and separate the garlic into unpeeled cloves. Scatter them with the mixed herbs in a roasting tray and drizzle with half the olive oil.",
+        "Rub the beef with the remaining oil, season with the salt and pepper, and sit it on top of the vegetable bed.",
+        "Put the beef in the oven and immediately turn the heat down to 200°C / 180°C fan / Gas 6. For a ~500g joint, roast for about 30 minutes for medium-rare or 35-40 minutes for medium — check with a meat thermometer (50-52°C for medium-rare, 57-60°C for medium; it rises a few degrees more while resting).",
+        "Meanwhile, toss the carrots in a separate tin with the vegetable oil, cumin, mustard and maple syrup. Cover with foil and roast (lower shelf, alongside the beef, or just before/after) for 20 minutes, then uncover and roast a further 10-15 minutes until glazed. Scatter with thyme (and za'atar, if using) before serving.",
+        "When the beef is done, transfer it to a board, cover loosely with foil, and rest for 20-25 minutes — a bit longer than the strict minimum, since that's the window the Yorkshires and gravy need.",
+        "Turn the oven up to 225°C / 425°F / Gas 9. Pour the vegetable oil into 6 compartments of a muffin tin (about 1cm deep in each) and heat in the oven for 10-15 minutes until sizzling hot.",
+        "While the oil heats, whisk the egg, flour, milk and a pinch of salt and pepper into a smooth, light batter.",
+        "Carefully pour the batter into the hot oil, filling each compartment a third to halfway. Bake for 12-15 minutes until risen and golden — don't open the oven door while they cook, or they'll deflate.",
+        "While the Yorkshires bake, make the gravy: set the beef's roasting tin over medium heat on the hob, spoon off most of the fat, then stir in the flour and rosemary/bay to make a smooth paste. Gradually whisk in the beef stock and simmer for 3-4 minutes until thickened. Season to taste, strain through a sieve, and stir in any juices from the resting beef.",
+        "Carve the beef thinly against the grain and serve with the gravy, roast carrots and Yorkshire puddings."
+      ],
+      "notes": [
+        "Beef: Jamie Oliver, \"Perfect Roast Beef\" (jamieoliver.com/recipes/beef-recipes/perfect-roast-beef). As written serves 6 (1.5kg joint) — scaled to 2 (500g). Cooking time doesn't scale linearly with weight — the estimate above is approximate; verify with a meat thermometer.",
+        "Gravy: delicious. magazine, \"Classic Beef Gravy\" (deliciousmagazine.co.uk/recipes/classic-beef-gravy). As written serves 6 — scaled to 2 (roughly a third).",
+        "Carrots: delicious. magazine, \"Honey and Cumin Roast Carrots\" (deliciousmagazine.co.uk/recipes/honey-and-cumin-roast-carrots). As written serves 8 — scaled to 2 (a quarter). Cooks at 180°C, slightly cooler than the beef.",
+        "Yorkshire puddings: Jamie Oliver, \"Amazing Yorkies\" (jamieoliver.com/recipes/eggs/amazing-yorkies). As written makes 12 — halved to make about 6 (2 eggs to 1). Needs the hottest oven of the four (225°C) — best baked while the beef rests.",
+        "Not checked against the usual keto constraint — Andy confirmed keto doesn't apply to this meal."
       ]
     }
   ]
