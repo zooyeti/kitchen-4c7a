@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -323,149 +323,6 @@
         "Blanch the broad beans in boiling water for 2 minutes. Drain, refresh in cold water, drain again and slip from their skins. Tear the ciabatta into pieces and grill for 5 minutes until golden.",
         "Heat a griddle over high heat. Cook chicken 2-3 minutes each side until charred, sticky and cooked through.",
         "Toss the lettuce, broad beans, ciabatta, chickpeas, tomatoes, cucumber, parsley and remaining mint in a large bowl. Whisk the remaining oil, 1 tbsp lemon juice and mustard into a dressing. Season, pour over, add the warm chicken and toss."
-      ]
-    },
-    {
-      "id": "mediterranean-halloumi-salad",
-      "title": "Mediterranean Halloumi Salad",
-      "collection": "weekday",
-      "added": "2026-07-27",
-      "time": "30 mins",
-      "timeMins": 30,
-      "serves": 4,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/mediterranean-halloumi-salad/"
-      },
-      "tags": [
-        "vegetarian",
-        "salad"
-      ],
-      "ingredients": [
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "small red onion, finely sliced"
-        },
-        {
-          "qty": 7,
-          "unit": "",
-          "item": "medium vine tomatoes, sliced"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "roasted red and yellow peppers in oil, drained and sliced"
-        },
-        {
-          "qty": 18,
-          "unit": "",
-          "item": "caperberries"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Handful small black olives"
-        },
-        {
-          "qty": 3,
-          "unit": "tbsp",
-          "item": "extra-virgin olive oil"
-        },
-        {
-          "qty": 450,
-          "unit": "g",
-          "item": "halloumi (2 x 225g packs)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Handful fresh basil leaves"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Crusty bread, to serve"
-        }
-      ],
-      "method": [
-        "Place the onion in a small bowl, cover with freshly boiled water, leave a minute, then drain and rinse in cold water. Lay the sliced tomatoes on a platter, scatter over the blanched onion, roasted peppers, caperberries and olives. Drizzle with 2 tbsp of the olive oil, season well, and set aside.",
-        "Thickly slice the halloumi. Heat a frying pan over high heat and cook the cheese in batches for a minute on each side until golden. Add to the platter, drizzle with the remaining olive oil, scatter over basil leaves, and serve with crusty bread."
-      ]
-    },
-    {
-      "id": "creamy-garlic-prawn-pasta",
-      "title": "Creamy Garlic Prawn Pasta",
-      "collection": "weekday",
-      "added": "2026-07-27",
-      "time": "20 mins",
-      "timeMins": 20,
-      "serves": 3,
-      "source": {
-        "name": "olive magazine",
-        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/creamy-garlic-prawn-pasta/"
-      },
-      "tags": [
-        "seafood",
-        "pasta",
-        "quick"
-      ],
-      "ingredients": [
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "linguine"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "butter"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "garlic clove, crushed"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Pinch of dried chilli flakes (optional)"
-        },
-        {
-          "qty": 125,
-          "unit": "ml",
-          "item": "white wine"
-        },
-        {
-          "qty": 3,
-          "unit": "tbsp",
-          "item": "mascarpone, crème fraîche or double cream"
-        },
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "raw king prawns, defrosted if frozen"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "chopped soft herbs (chives, parsley or tarragon, or a mix)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Squeeze of lemon juice"
-        }
-      ],
-      "method": [
-        "Cook the linguine following pack instructions.",
-        "Meanwhile, heat the butter and oil in a large frying pan over low heat and cook the garlic and chilli flakes (if using) for 2 minutes until fragrant.",
-        "Pour in the wine and simmer a few minutes until reduced by half, then stir in the mascarpone and season well. Add the prawns and cook until pink and cooked through. Stir in the herbs, then tip in the drained linguine and toss with a splash of the cooking water until saucy and slippery. Finish with a squeeze of lemon juice and serve."
       ]
     },
     {
@@ -1756,87 +1613,10 @@
       ]
     },
     {
-      "id": "garlic-prawn-courgette-lemon-pan-fry",
-      "title": "Garlic Prawn, Courgette and Lemon Pan Fry",
-      "collection": "this-week",
-      "added": "2026-09-20",
-      "night": "Monday 21 September",
-      "time": "15 mins",
-      "timeMins": 15,
-      "serves": 2,
-      "source": {
-        "name": "Tesco Real Food",
-        "url": "https://realfood.tesco.com/recipes/garlic-prawn-courgette-and-lemon-pan-fry.html"
-      },
-      "note": "Adapted: no rice, and the frozen peas swapped for more spinach to keep the carbs down.",
-      "tags": [
-        "seafood",
-        "prawns",
-        "quick",
-        "hob only",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "courgettes"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 15,
-          "unit": "g",
-          "item": "butter"
-        },
-        {
-          "qty": 2,
-          "unit": "clove",
-          "item": "garlic, thinly sliced"
-        },
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "raw prawns, shelled"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "baby spinach"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "lemon, finely grated rind only"
-        }
-      ],
-      "method": [
-        "Trim the ends off the courgettes, then cut them into slices the thickness of a pound coin.",
-        "Heat the oil and butter in a frying pan and fry the courgettes, garlic and prawns together until the prawns are pink and the courgettes are just tender, about 3-4 minutes.",
-        "Add the spinach and cook for 1 minute until wilted, then stir in the lemon rind and serve immediately."
-      ],
-      "notes": [
-        "Net carbs worked out from per-ingredient USDA data on 2026-09-20 (~10g with the original peas). The source page's own nutrition panel was replaced with figures worked out from the adapted ingredients — it described the version with peas and rice.",
-        "Energy, protein and fat estimated from per-ingredient USDA data on 2026-09-26. Herbs, spices and citrus juice not counted (under ~15 kcal a serving). Weights assumed where the recipe gives none (chicken breasts ~150g each, courgettes ~200g each)."
-      ],
-      "nutrition": {
-        "Energy": "~240kcal",
-        "Protein": "~18g",
-        "Fat": "~15g",
-        "Saturated Fat": "~5g",
-        "Net carbs": "~6g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as adapted"
-    },
-    {
       "id": "sumac-chicken-green-bean-salad",
       "title": "Sumac Chicken and Green Bean Salad",
-      "collection": "this-week",
-      "added": "2026-09-20",
-      "night": "Tuesday 22 September",
+      "collection": "weekday",
+      "added": "2026-09-28",
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
@@ -1918,9 +1698,8 @@
     {
       "id": "lamb-steaks-feta-tomato-rosemary",
       "title": "Lamb Steaks with Feta, Tomato and Rosemary",
-      "collection": "this-week",
-      "added": "2026-09-20",
-      "night": "Wednesday 23 September",
+      "collection": "weekday",
+      "added": "2026-09-28",
       "time": "20 mins",
       "timeMins": 20,
       "serves": 2,
@@ -2315,6 +2094,290 @@
         "Yorkshire puddings: Jamie Oliver, \"Amazing Yorkies\" (jamieoliver.com/recipes/eggs/amazing-yorkies). As written makes 12 — halved to make about 6 (2 eggs to 1). Needs the hottest oven of the four (225°C) — best baked while the beef rests.",
         "Not checked against the usual keto constraint — Andy confirmed keto doesn't apply to this meal."
       ]
+    },
+    {
+      "id": "lemon-chicken-traybake",
+      "title": "Quick Lemon Chicken Traybake",
+      "collection": "this-week",
+      "added": "2026-09-28",
+      "night": "Tuesday 29 September",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-lemon-chicken-traybake/"
+      },
+      "note": "Not keto this week (potatoes). Serves 2 as written.",
+      "tags": [
+        "chicken",
+        "traybake"
+      ],
+      "ingredients": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "item": "new potatoes, thinly sliced"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "free-range chicken legs"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "runny honey"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon (half juiced, half sliced)"
+        },
+        {
+          "qty": 1,
+          "unit": "clove",
+          "item": "garlic, thinly sliced"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "tomatoes, roughly chopped"
+        },
+        {
+          "qty": 70,
+          "unit": "ml",
+          "item": "white wine"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "frozen mixed grilled vegetables"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Handful fresh parsley, chopped"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Oil and seasoning, to taste"
+        }
+      ],
+      "method": [
+        "Heat oven to 200°C/fan 180°C/gas 6. Toss potatoes with oil and seasoning, spread on a roasting tray. Season the chicken legs, coat with honey and lemon juice, and place on the potatoes. Roast for 15 minutes.",
+        "Add garlic, lemon slices and tomatoes to the tray. Turn the chicken and pour the wine over everything. Return to the oven for 15 minutes, adding the frozen vegetables and parsley for the final 10 minutes.",
+        "Check the chicken is cooked through and the vegetables are tender, then serve."
+      ],
+      "notes": [
+        "The source suggests serving with lemony couscous — left out of the ingredients/shopping list and nutrition below; add it back in if you want a side.",
+        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28, not the source's own panel. Chicken leg weight assumed (~250g edible meat and skin each) — the biggest source of uncertainty here."
+      ],
+      "nutrition": {
+        "Energy": "~860kcal",
+        "Protein": "~46g",
+        "Fat": "~47g",
+        "Carbs": "~53g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients"
+    },
+    {
+      "id": "honey-soy-salmon-rice-broccoli",
+      "title": "Sticky Honey & Soy Salmon",
+      "collection": "this-week",
+      "added": "2026-09-28",
+      "night": "Wednesday 30 September",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/salmon/sticky-honey-soy-salmon/"
+      },
+      "note": "Not keto this week (rice). Serves 2 as written.",
+      "tags": [
+        "fish",
+        "salmon",
+        "rice"
+      ],
+      "ingredients": [
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "brown rice"
+        },
+        {
+          "qty": 160,
+          "unit": "g",
+          "item": "tenderstem broccoli"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "cucumber"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "reduced-salt soy sauce"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "limes"
+        },
+        {
+          "qty": 2,
+          "unit": "tsp",
+          "item": "sesame seeds"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "x 120g salmon fillets, skin on"
+        },
+        {
+          "qty": 3,
+          "unit": "cm",
+          "item": "piece fresh ginger"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "spring onions"
+        },
+        {
+          "qty": 2,
+          "unit": "tsp",
+          "item": "runny honey"
+        }
+      ],
+      "method": [
+        "Boil the rice in salted water for 25 minutes until tender.",
+        "Chop the broccoli into 3cm chunks and steam over the rice pan for the final 8 minutes.",
+        "Halve the cucumber lengthways, scoop out the seeds and slice into half-moons. Toss with ½ tbsp soy sauce and the juice of half a lime; set aside to pickle.",
+        "Toast the sesame seeds in a dry frying pan over medium heat for 2 minutes until golden; set aside.",
+        "Heat 1 tbsp oil in the pan over medium-low heat, add the salmon skin-side down, cover and cook 5 minutes.",
+        "Grate the ginger and finely slice the spring onions. Mix the spring onion whites, most of the ginger, remaining soy sauce, honey and the juice of 1 lime into a glaze.",
+        "Pour the glaze over the salmon, turning to coat, and cook uncovered 2-3 minutes until glazed and cooked through.",
+        "Drain the rice, return to the pan with the broccoli and remaining ginger, squeeze over the remaining lime juice and season.",
+        "Plate the rice and salmon, spoon over any extra glaze, add the pickled cucumber, and scatter with sesame seeds and remaining spring onion."
+      ],
+      "notes": [
+        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28, not the source's own panel."
+      ],
+      "nutrition": {
+        "Energy": "~705kcal",
+        "Protein": "~36g",
+        "Fat": "~28g",
+        "Carbs": "~76g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients"
+    },
+    {
+      "id": "five-spice-pork-stir-fry",
+      "title": "Five-Spice Pork Stir-Fry",
+      "collection": "this-week",
+      "added": "2026-09-28",
+      "night": "Thursday 1 October",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": {
+        "name": "Tesco Real Food",
+        "url": "https://www.tesco.com/recipes/en-GB/recipe/five-spice-pork-stir-fry"
+      },
+      "note": "Not keto this week (noodles). Serves 2 as written.",
+      "tags": [
+        "pork",
+        "stir-fry",
+        "noodles"
+      ],
+      "ingredients": [
+        {
+          "qty": 225,
+          "unit": "g",
+          "item": "pork fillet"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "Chinese five-spice"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "plain flour"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tbsp",
+          "item": "vegetable oil"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "item": "spring onions, sliced"
+        },
+        {
+          "qty": 3,
+          "unit": "cm",
+          "item": "piece ginger, grated"
+        },
+        {
+          "qty": 2,
+          "unit": "clove",
+          "item": "garlic, grated"
+        },
+        {
+          "qty": 210,
+          "unit": "g",
+          "item": "fine beans and tenderstem broccoli"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "red pepper, cut into strips"
+        },
+        {
+          "qty": 300,
+          "unit": "g",
+          "item": "cooked egg noodles"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "soy sauce"
+        },
+        {
+          "qty": 15,
+          "unit": "g",
+          "item": "coriander, chopped"
+        }
+      ],
+      "method": [
+        "Flatten the pork fillet by cutting it lengthways, covering with clingfilm and bashing to about 8mm thick, then slice into strips.",
+        "Combine the five-spice and flour and coat the pork strips.",
+        "Heat a wok over high heat, add half the oil and stir-fry the pork for 3 minutes until cooked and golden. Remove to a plate.",
+        "Add the remaining oil, then the spring onions, ginger, garlic, beans, broccoli and red pepper. Stir-fry 3 minutes, adding 4 tbsp water halfway through.",
+        "Add the noodles and pork back to the wok and heat through. Season with soy sauce, stir in half the coriander, and serve topped with the rest."
+      ],
+      "notes": [
+        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28. Cross-checks closely with the source's own stated 549kcal per serving."
+      ],
+      "nutrition": {
+        "Energy": "~560kcal",
+        "Protein": "~36g",
+        "Fat": "~19g",
+        "Carbs": "~56g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients"
     }
   ]
 }
