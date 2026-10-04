@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-04",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2378,6 +2378,103 @@
         "Carbs": "~56g"
       },
       "nutritionNote": "per serving, estimated from the ingredients"
+    },
+    {
+      "id": "lamb-red-wine-stew",
+      "title": "Lamb & Red Wine Stew",
+      "collection": "weekend",
+      "added": "2026-10-04",
+      "time": "2 hrs 40 mins",
+      "timeMins": 160,
+      "serves": 4,
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/lamb/lamb-and-red-wine-stew/"
+      },
+      "note": "Uses 500ml of red wine, a good way to finish an open bottle. Oven-baked, hands-off.",
+      "tags": [
+        "lamb",
+        "stew",
+        "red wine"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "sticks of celery"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "onions"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "carrots"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "bay leaf"
+        },
+        {
+          "qty": 3,
+          "unit": "sprigs",
+          "item": "fresh rosemary"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "item": "stewing lamb, diced into 2cm cubes"
+        },
+        {
+          "qty": 1,
+          "unit": "heaped tbsp",
+          "item": "plain flour"
+        },
+        {
+          "qty": 500,
+          "unit": "ml",
+          "item": "red wine"
+        },
+        {
+          "qty": 400,
+          "unit": "g",
+          "item": "tin of chopped tomatoes"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Sea salt and black pepper"
+        }
+      ],
+      "method": [
+        "Heat the oven to 180°C / gas 4.",
+        "Trim the celery and roughly chop. Peel and roughly chop the onions. Peel the carrots, slice lengthways and roughly chop.",
+        "Heat a casserole pan on a medium heat. Add the vegetables, bay leaf, rosemary and olive oil and fry for 10 minutes.",
+        "Add the lamb and flour.",
+        "Pour in the wine and tomatoes, stir well and season with salt and pepper.",
+        "Bring to the boil, cover with the lid and cook in the oven for 2 hours 30 minutes until the lamb is tender. Take the lid off for the last 30 minutes, adding a splash of water if it looks dry.",
+        "Remove the bay leaf and rosemary stalks, taste and season, then serve."
+      ],
+      "notes": [
+        "Jamie's page also gives optional dumplings (250g self-raising flour, 125g cold butter, added for the last 30 minutes) or a mashed potato topping to turn it into a shepherd's pie. Not included here.",
+        "Halve everything for 2 (250ml wine). Use a smaller casserole so it doesn't reduce away.",
+        "Leftover wine freezes well in ice cube trays for later sauces."
+      ],
+      "nutrition": {
+        "Energy": "~450kcal",
+        "Protein": "~24g",
+        "Fat": "~27g",
+        "Carbs": "~18g"
+      },
+      "nutritionNote": "per serving, rough estimate from standard ingredient values (not looked up one by one), without sides"
     }
   ]
 }
