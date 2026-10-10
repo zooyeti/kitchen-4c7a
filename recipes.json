@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-10",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -658,93 +658,6 @@
       ],
       "notes": [
         "The original recipe suggests roast new potatoes and seasonal veg as sides — swap in boiled new potatoes or a simple summer salad to keep it fully oven-free in hot weather."
-      ]
-    },
-    {
-      "id": "greek-salad-horiatiki",
-      "title": "Authentic Greek Salad (Horiatiki)",
-      "collection": "weekend",
-      "added": "2026-08-11",
-      "time": "10 mins",
-      "timeMins": 10,
-      "serves": 4,
-      "source": {
-        "name": "The Mediterranean Dish / My Greek Dish / The Greek Foodie",
-        "url": ""
-      },
-      "note": "Traditional village salad — no lettuce, no fuss.",
-      "tags": [
-        "keto",
-        "vegetarian",
-        "salad",
-        "no cook"
-      ],
-      "ingredients": [
-        {
-          "qty": 4,
-          "unit": "",
-          "item": "large ripe tomatoes, cut into chunky wedges"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "cucumber, cut into thick half-moons"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "green bell pepper, sliced into rings"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "small red onion, thinly sliced"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "A generous handful of Kalamata olives"
-        },
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "block of feta cheese (placed whole on top — do not crumble)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Extra virgin olive oil (good quality — this is the dressing)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Splash of red wine vinegar (optional)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Pinch of dried oregano"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Salt and black pepper"
-        }
-      ],
-      "method": [
-        "Combine the tomatoes, cucumber, green pepper, and red onion in a wide bowl or on a platter. Season lightly with salt.",
-        "Scatter over the olives.",
-        "Place the block of feta on top — do not crumble it.",
-        "Drizzle generously with extra virgin olive oil. Add a splash of red wine vinegar if using.",
-        "Finish with a pinch of dried oregano over the feta and a crack of black pepper.",
-        "Serve immediately, or let it sit for a few minutes so the tomato juices start to mingle with the oil."
-      ],
-      "notes": [
-        "No lettuce. Ever. That's the westernised version.",
-        "No lemon juice — it doesn't belong in horiatiki.",
-        "The feta goes on as a whole block, not crumbled.",
-        "Cut everything chunky — this is a rustic village salad, not a finely chopped one.",
-        "The quality of your tomatoes and olive oil makes or breaks this dish. Use the ripest tomatoes you can find."
       ]
     },
     {
@@ -2475,6 +2388,137 @@
         "Carbs": "~18g"
       },
       "nutritionNote": "per serving, rough estimate from standard ingredient values (not looked up one by one), without sides"
+    },
+    {
+      "id": "parmesan-cauliflower-florets",
+      "title": "Parmesan Cauliflower Florets",
+      "collection": "weekend",
+      "added": "2026-10-10",
+      "time": "40 mins",
+      "timeMins": 40,
+      "serves": 8,
+      "source": {
+        "name": "Low Carb Spark",
+        "url": "https://www.lowcarbspark.com/wprm_print/parmesan-roasted-cauliflower-recipe"
+      },
+      "note": "Party finger food for cocktails — about 8 nibble portions from one head. Oven-baked, mild, no heat. Garlic aioli is my own addition, replacing the source's jarred marinara.",
+      "tags": [
+        "party",
+        "cauliflower",
+        "finger food"
+      ],
+      "ingredients": [
+        {
+          "group": "Florets",
+          "qty": 1,
+          "unit": "",
+          "item": "medium cauliflower, cut into bite-sized florets"
+        },
+        {
+          "group": "Florets",
+          "qty": 3,
+          "unit": "",
+          "item": "large eggs, beaten"
+        },
+        {
+          "group": "Florets",
+          "qty": 100,
+          "unit": "g",
+          "item": "ground almonds (or finely crushed pork rinds)"
+        },
+        {
+          "group": "Florets",
+          "qty": 50,
+          "unit": "g",
+          "item": "Parmesan, finely grated"
+        },
+        {
+          "group": "Florets",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "dried oregano"
+        },
+        {
+          "group": "Florets",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "dried basil"
+        },
+        {
+          "group": "Florets",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "dried rosemary"
+        },
+        {
+          "group": "Florets",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "fine sea salt"
+        },
+        {
+          "group": "Florets",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "black pepper"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": 1,
+          "unit": "",
+          "item": "egg yolk"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, grated"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, juice only"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "Dijon mustard"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": 120,
+          "unit": "ml",
+          "item": "olive oil"
+        },
+        {
+          "group": "Garlic aioli",
+          "qty": null,
+          "unit": "",
+          "item": "Pinch of salt"
+        }
+      ],
+      "method": [
+        "Heat the oven to 200°C (180°C fan). Line a baking tray with parchment.",
+        "Pat the florets completely dry, or the coating won't stick.",
+        "Put the beaten eggs in one bowl. Mix the ground almonds, Parmesan, herbs, salt and pepper in another.",
+        "Dip each floret in the egg, let the excess drip off, then press it into the crumb.",
+        "Space the florets out on the tray in a single layer so they roast rather than steam.",
+        "Bake for 20–25 minutes, until golden and tender inside. Cool briefly.",
+        "For the aioli: whisk the egg yolk, garlic, lemon juice, Dijon and salt. Slowly whisk in the olive oil, a thin trickle at first, until thick.",
+        "Serve the florets hot with the aioli."
+      ],
+      "notes": [
+        "Makes about 8 nibble portions. Roughly 1 head per 6–8 guests.",
+        "Best hot: bake in two trays and hold the second batch back until the first is gone.",
+        "The aioli can be made up to a day ahead. Aioli is not in the source recipe.",
+        "Quantities converted from cups: 1 cup almond flour ≈ 100g, ½ cup Parmesan ≈ 50g."
+      ],
+      "nutrition": {
+        "Net carbs": "~4g"
+      },
+      "nutritionNote": "per serving, from the source's panel (not independently checked; aioli not included)"
     }
   ]
 }
