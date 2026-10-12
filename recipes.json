@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-12",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2009,290 +2009,6 @@
       ]
     },
     {
-      "id": "lemon-chicken-traybake",
-      "title": "Quick Lemon Chicken Traybake",
-      "collection": "this-week",
-      "added": "2026-09-28",
-      "night": "Tuesday 29 September",
-      "time": "35 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-lemon-chicken-traybake/"
-      },
-      "note": "Not keto this week (potatoes). Serves 2 as written.",
-      "tags": [
-        "chicken",
-        "traybake"
-      ],
-      "ingredients": [
-        {
-          "qty": 300,
-          "unit": "g",
-          "item": "new potatoes, thinly sliced"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "free-range chicken legs"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "runny honey"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "lemon (half juiced, half sliced)"
-        },
-        {
-          "qty": 1,
-          "unit": "clove",
-          "item": "garlic, thinly sliced"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "tomatoes, roughly chopped"
-        },
-        {
-          "qty": 70,
-          "unit": "ml",
-          "item": "white wine"
-        },
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "frozen mixed grilled vegetables"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Handful fresh parsley, chopped"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Oil and seasoning, to taste"
-        }
-      ],
-      "method": [
-        "Heat oven to 200°C/fan 180°C/gas 6. Toss potatoes with oil and seasoning, spread on a roasting tray. Season the chicken legs, coat with honey and lemon juice, and place on the potatoes. Roast for 15 minutes.",
-        "Add garlic, lemon slices and tomatoes to the tray. Turn the chicken and pour the wine over everything. Return to the oven for 15 minutes, adding the frozen vegetables and parsley for the final 10 minutes.",
-        "Check the chicken is cooked through and the vegetables are tender, then serve."
-      ],
-      "notes": [
-        "The source suggests serving with lemony couscous — left out of the ingredients/shopping list and nutrition below; add it back in if you want a side.",
-        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28, not the source's own panel. Chicken leg weight assumed (~250g edible meat and skin each) — the biggest source of uncertainty here."
-      ],
-      "nutrition": {
-        "Energy": "~860kcal",
-        "Protein": "~46g",
-        "Fat": "~47g",
-        "Carbs": "~53g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients"
-    },
-    {
-      "id": "honey-soy-salmon-rice-broccoli",
-      "title": "Sticky Honey & Soy Salmon",
-      "collection": "this-week",
-      "added": "2026-09-28",
-      "night": "Wednesday 30 September",
-      "time": "35 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": {
-        "name": "Jamie Oliver",
-        "url": "https://www.jamieoliver.com/recipes/salmon/sticky-honey-soy-salmon/"
-      },
-      "note": "Not keto this week (rice). Serves 2 as written.",
-      "tags": [
-        "fish",
-        "salmon",
-        "rice"
-      ],
-      "ingredients": [
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "brown rice"
-        },
-        {
-          "qty": 160,
-          "unit": "g",
-          "item": "tenderstem broccoli"
-        },
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "cucumber"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "reduced-salt soy sauce"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "limes"
-        },
-        {
-          "qty": 2,
-          "unit": "tsp",
-          "item": "sesame seeds"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "x 120g salmon fillets, skin on"
-        },
-        {
-          "qty": 3,
-          "unit": "cm",
-          "item": "piece fresh ginger"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "spring onions"
-        },
-        {
-          "qty": 2,
-          "unit": "tsp",
-          "item": "runny honey"
-        }
-      ],
-      "method": [
-        "Boil the rice in salted water for 25 minutes until tender.",
-        "Chop the broccoli into 3cm chunks and steam over the rice pan for the final 8 minutes.",
-        "Halve the cucumber lengthways, scoop out the seeds and slice into half-moons. Toss with ½ tbsp soy sauce and the juice of half a lime; set aside to pickle.",
-        "Toast the sesame seeds in a dry frying pan over medium heat for 2 minutes until golden; set aside.",
-        "Heat 1 tbsp oil in the pan over medium-low heat, add the salmon skin-side down, cover and cook 5 minutes.",
-        "Grate the ginger and finely slice the spring onions. Mix the spring onion whites, most of the ginger, remaining soy sauce, honey and the juice of 1 lime into a glaze.",
-        "Pour the glaze over the salmon, turning to coat, and cook uncovered 2-3 minutes until glazed and cooked through.",
-        "Drain the rice, return to the pan with the broccoli and remaining ginger, squeeze over the remaining lime juice and season.",
-        "Plate the rice and salmon, spoon over any extra glaze, add the pickled cucumber, and scatter with sesame seeds and remaining spring onion."
-      ],
-      "notes": [
-        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28, not the source's own panel."
-      ],
-      "nutrition": {
-        "Energy": "~705kcal",
-        "Protein": "~36g",
-        "Fat": "~28g",
-        "Carbs": "~76g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients"
-    },
-    {
-      "id": "five-spice-pork-stir-fry",
-      "title": "Five-Spice Pork Stir-Fry",
-      "collection": "this-week",
-      "added": "2026-09-28",
-      "night": "Thursday 1 October",
-      "time": "20 mins",
-      "timeMins": 20,
-      "serves": 2,
-      "source": {
-        "name": "Tesco Real Food",
-        "url": "https://www.tesco.com/recipes/en-GB/recipe/five-spice-pork-stir-fry"
-      },
-      "note": "Not keto this week (noodles). Serves 2 as written.",
-      "tags": [
-        "pork",
-        "stir-fry",
-        "noodles"
-      ],
-      "ingredients": [
-        {
-          "qty": 225,
-          "unit": "g",
-          "item": "pork fillet"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "Chinese five-spice"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "plain flour"
-        },
-        {
-          "qty": 1.5,
-          "unit": "tbsp",
-          "item": "vegetable oil"
-        },
-        {
-          "qty": 4,
-          "unit": "",
-          "item": "spring onions, sliced"
-        },
-        {
-          "qty": 3,
-          "unit": "cm",
-          "item": "piece ginger, grated"
-        },
-        {
-          "qty": 2,
-          "unit": "clove",
-          "item": "garlic, grated"
-        },
-        {
-          "qty": 210,
-          "unit": "g",
-          "item": "fine beans and tenderstem broccoli"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "red pepper, cut into strips"
-        },
-        {
-          "qty": 300,
-          "unit": "g",
-          "item": "cooked egg noodles"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "soy sauce"
-        },
-        {
-          "qty": 15,
-          "unit": "g",
-          "item": "coriander, chopped"
-        }
-      ],
-      "method": [
-        "Flatten the pork fillet by cutting it lengthways, covering with clingfilm and bashing to about 8mm thick, then slice into strips.",
-        "Combine the five-spice and flour and coat the pork strips.",
-        "Heat a wok over high heat, add half the oil and stir-fry the pork for 3 minutes until cooked and golden. Remove to a plate.",
-        "Add the remaining oil, then the spring onions, ginger, garlic, beans, broccoli and red pepper. Stir-fry 3 minutes, adding 4 tbsp water halfway through.",
-        "Add the noodles and pork back to the wok and heat through. Season with soy sauce, stir in half the coriander, and serve topped with the rest."
-      ],
-      "notes": [
-        "Energy, protein, fat and carbs estimated from the ingredient list on 2026-09-28. Cross-checks closely with the source's own stated 549kcal per serving."
-      ],
-      "nutrition": {
-        "Energy": "~560kcal",
-        "Protein": "~36g",
-        "Fat": "~19g",
-        "Carbs": "~56g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients"
-    },
-    {
       "id": "lamb-red-wine-stew",
       "title": "Lamb & Red Wine Stew",
       "collection": "weekend",
@@ -2519,6 +2235,313 @@
         "Net carbs": "~4g"
       },
       "nutritionNote": "per serving, from the source's panel (not independently checked; aioli not included)"
+    },
+    {
+      "id": "paleo-chicken-piccata",
+      "title": "Paleo Chicken Piccata",
+      "collection": "this-week",
+      "added": "2026-10-12",
+      "time": "20 mins",
+      "timeMins": 20,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/healthy/paleo-chicken-piccata/"
+      },
+      "note": "Adapted: butter stirred into the sauce for fat; served with cauliflower rice and a rocket salad.",
+      "tags": [
+        "chicken",
+        "quick",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "skinless chicken breasts (about 150g each)"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "olive oil, for frying"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "capers, rinsed"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "lemon: half zested and juiced, half sliced"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "item": "chicken stock"
+        },
+        {
+          "qty": 30,
+          "unit": "g",
+          "item": "butter, cold, cubed"
+        },
+        {
+          "qty": 0.5,
+          "unit": "bunch",
+          "item": "flat-leaf parsley, chopped"
+        },
+        {
+          "group": "To serve",
+          "qty": 200,
+          "unit": "g",
+          "item": "cauliflower, grated into rice"
+        },
+        {
+          "group": "To serve",
+          "qty": 80,
+          "unit": "g",
+          "item": "rocket"
+        },
+        {
+          "group": "To serve",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "olive oil, to dress the rocket"
+        }
+      ],
+      "method": [
+        "Slice each chicken breast through the middle lengthways, open it like a book and flatten to about 1cm thick between sheets of clingfilm.",
+        "Heat the oil in a frying pan and fry the chicken for about 4 minutes each side until golden and cooked through. Season, then rest under foil.",
+        "In the same pan fry the capers and garlic for a minute. Add the lemon juice, zest and stock and simmer until slightly thickened. Take off the heat and swirl in the butter.",
+        "Return the chicken to the pan with the lemon slices and parsley and spoon the sauce over. Fry the grated cauliflower in a dry pan for 3-4 minutes. Serve with the rocket dressed in the oil."
+      ],
+      "notes": [
+        "Not in the source: the butter, the rocket and the cauliflower rice quantities (the source says 'green salad and cauliflower rice, to serve'). The butter is there because the source recipe is very lean for keto (about 3g fat a serving).",
+        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. Lemon is counted using whole lemon as a proxy and stock as ~1g net, both estimated. Parsley not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
+      ],
+      "nutrition": {
+        "Energy": "~390kcal",
+        "Protein": "~37g",
+        "Fat": "~24g",
+        "Saturated Fat": "~10g",
+        "Net carbs": "~7g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
+    },
+    {
+      "id": "cod-tomato-olive-tray-roast",
+      "title": "Cod, Cherry Tomato and Green Olive Tray Roast",
+      "collection": "this-week",
+      "added": "2026-10-12",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/cod-cherry-tomato-and-green-olive-tray-roast/"
+      },
+      "note": "Adapted: no bread or orzo; served on dressed rocket. Source serves 6, scaled to 2.",
+      "tags": [
+        "fish",
+        "cod",
+        "traybake",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "small red onion, cut into thin wedges"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "item": "cherry tomatoes"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil, plus 1 tsp"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "pieces cod loin (about 125g each)"
+        },
+        {
+          "qty": 2,
+          "unit": "slices",
+          "item": "Parma ham"
+        },
+        {
+          "qty": 6,
+          "unit": "",
+          "item": "green olives (Nocellara if you can)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Flat-leaf parsley, chopped, to serve"
+        },
+        {
+          "group": "To serve",
+          "qty": 100,
+          "unit": "g",
+          "item": "rocket"
+        },
+        {
+          "group": "To serve",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "olive oil, to dress the rocket"
+        }
+      ],
+      "method": [
+        "Heat the oven to 220°C (200°C fan, gas 7).",
+        "Put the onion and tomatoes in a small roasting tin, season, add the olive oil, toss and roast for 15 minutes.",
+        "Wrap each piece of cod in a slice of Parma ham. Add the olives to the tin, set the cod on top of the tomatoes and roast for another 12-15 minutes until the cod is cooked through and the ham is crisp.",
+        "Scatter with parsley and serve on the rocket dressed with the oil."
+      ],
+      "notes": [
+        "Source page says 40 minutes for 6; scaled down to 2 the roasting time stays the same, so allow about 35 minutes in all. Check the cod at 12 minutes.",
+        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. Estimated: ripe canned olives stand in for green olives and lean cured ham for Parma ham (Parma is fattier, so energy is probably a little higher). Parsley not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
+      ],
+      "nutrition": {
+        "Energy": "~310kcal",
+        "Protein": "~28g",
+        "Fat": "~18g",
+        "Saturated Fat": "~3g",
+        "Net carbs": "~6g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
+    },
+    {
+      "id": "greek-stuffed-chicken-salad",
+      "title": "Greek-Style Stuffed Chicken and Salad",
+      "collection": "this-week",
+      "added": "2026-10-12",
+      "time": "35 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "GoodTo",
+        "url": "https://www.goodto.com/recipes/greek-style-stuffed-chicken-and-salad"
+      },
+      "note": "Source serves 4, halved to 2. Roast a fresh red pepper rather than using a jar.",
+      "tags": [
+        "chicken",
+        "feta",
+        "keto"
+      ],
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "qty": 2,
+          "unit": "blocks",
+          "item": "frozen spinach, defrosted and squeezed dry"
+        },
+        {
+          "group": "Chicken",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "finely chopped shallot"
+        },
+        {
+          "group": "Chicken",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "Chicken",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "dried mint"
+        },
+        {
+          "group": "Chicken",
+          "qty": 50,
+          "unit": "g",
+          "item": "feta, crumbled"
+        },
+        {
+          "group": "Chicken",
+          "qty": 2,
+          "unit": "",
+          "item": "skinless chicken breasts"
+        },
+        {
+          "group": "Chicken",
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon"
+        },
+        {
+          "group": "Chicken",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "white wine"
+        },
+        {
+          "group": "Salad",
+          "qty": 0.25,
+          "unit": "",
+          "item": "cucumber, chopped"
+        },
+        {
+          "group": "Salad",
+          "qty": 200,
+          "unit": "g",
+          "item": "tomatoes, cut into chunks"
+        },
+        {
+          "group": "Salad",
+          "qty": 0.5,
+          "unit": "",
+          "item": "large red pepper, roasted and cut into strips"
+        },
+        {
+          "group": "Salad",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "dried oregano"
+        },
+        {
+          "group": "Salad",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "sherry vinegar"
+        },
+        {
+          "group": "Salad",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "extra virgin olive oil"
+        }
+      ],
+      "method": [
+        "Heat the oven to 200°C (180°C fan). Cook the shallot in 1 tsp of the olive oil with the mint, stir in the spinach, season, then take off the heat and stir in the feta.",
+        "Cut a deep pocket into the side of each chicken breast, stuff with the filling and close with cocktail sticks.",
+        "Put the chicken in a roasting tin, brush with the remaining oil, squeeze over the lemon, add the wine and a splash of water, and roast for 25 minutes until cooked through.",
+        "Toss the salad ingredients with the vinegar and extra virgin olive oil. Serve with the chicken and the pan juices."
+      ],
+      "notes": [
+        "The source gives no oven temperature; 200°C (180°C fan) is my assumption. The source page also lists 342 kcal in its table and 313 in its description.",
+        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. One block of frozen spinach assumed to be about 100g raw-equivalent, which is deliberately on the high side (blocks are often smaller). Wine, vinegar, herbs and lemon not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
+      ],
+      "nutrition": {
+        "Energy": "~390kcal",
+        "Protein": "~42g",
+        "Fat": "~20g",
+        "Saturated Fat": "~6g",
+        "Net carbs": "~8g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
     }
   ]
 }
