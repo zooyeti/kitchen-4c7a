@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-17",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2542,6 +2542,177 @@
         "Net carbs": "~8g"
       },
       "nutritionNote": "per serving, estimated from the ingredients as adapted"
+    },
+    {
+      "id": "creamy-mashed-potato-nutmeg",
+      "title": "Creamy Mashed Potato with Nutmeg",
+      "collection": "weekend",
+      "added": "2026-10-17",
+      "time": "50 mins",
+      "timeMins": 50,
+      "serves": 4,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://deliciousmagazine.co.uk/recipes/creamy-mashed-potato-with-nutmeg/"
+      },
+      "note": "Side for the lamb stew. Scaled from 1kg potatoes (serves 4-6) to 800g for 4.",
+      "tags": [
+        "side",
+        "potato",
+        "mash"
+      ],
+      "ingredients": [
+        {
+          "qty": 800,
+          "unit": "g",
+          "item": "floury potatoes (Maris Piper), peeled and cut into even chunks"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "item": "whole milk"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "unsalted butter"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "nutmeg, freshly grated"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "bay leaf"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "double cream"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt"
+        }
+      ],
+      "method": [
+        "Put the potatoes in a large pan with a pinch of salt and cover with cold water. Bring to the boil, then simmer for about 25 minutes until tender.",
+        "Drain and return to the pan. Lay a clean tea towel over the top and put the lid on, so the steam is absorbed and the potatoes stay hot and dry.",
+        "Meanwhile, warm the milk, nutmeg, bay leaf and butter in a small pan until the butter has melted.",
+        "Mash the potatoes, then strain the warm milk mixture into them and beat with a wooden spoon until fluffy. Stir in the cream and serve."
+      ],
+      "notes": [
+        "Peel and chop up to a few hours ahead: keep the pieces fully covered in cold water and cook them in the same water. Salt only when you're ready to boil.",
+        "Make-ahead: keeps covered in the fridge for up to 48 hours. Reheat covered in the microwave on medium for about 3 minutes, then rest for 1 minute."
+      ],
+      "nutrition": {
+        "Energy": "333kcal",
+        "Protein": "4.2g",
+        "Fat": "20g",
+        "Saturated Fat": "12.7g",
+        "Carbs": "32.3g",
+        "Fibre": "3.7g"
+      },
+      "nutritionNote": "per serving, from the source (1kg potatoes for 4-6); about the same per portion at 800g for 4"
+    },
+    {
+      "id": "griddled-little-gem-almond-herb-salad",
+      "title": "Griddled Little Gem, Almond & Herb Salad",
+      "collection": "weekend",
+      "added": "2026-10-17",
+      "time": "15 mins",
+      "timeMins": 15,
+      "serves": 6,
+      "source": {
+        "name": "Waitrose",
+        "url": "https://www.waitrose.com/ecom/recipe/griddled-little-gem-almond-and-herb-salad"
+      },
+      "note": "Side for the lamb stew. Lemon used instead of the white wine vinegar.",
+      "tags": [
+        "side",
+        "salad",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "qty": 3,
+          "unit": "",
+          "item": "little gem lettuces"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil, for brushing"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 50,
+          "unit": "g",
+          "item": "blanched almonds, lightly toasted"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 25,
+          "unit": "g",
+          "item": "flat-leaf parsley, leaves chopped"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 20,
+          "unit": "g",
+          "item": "dill, leaves chopped (keep a few fronds back)"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 6,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 0.5,
+          "unit": "",
+          "item": "lemon, zest and juice (instead of 1 tbsp white wine vinegar)"
+        },
+        {
+          "group": "For the dressing",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "sugar"
+        },
+        {
+          "group": "For the dressing",
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Chop the almonds and mix them in a bowl with the garlic, parsley, most of the dill, 6 tbsp olive oil, the lemon zest and juice, the sugar and plenty of salt and pepper.",
+        "Quarter each lettuce lengthways and brush the cut sides with the remaining 1 tbsp oil.",
+        "Heat a griddle or frying pan until hot. Cook the wedges cut-side down until well coloured but still crisp in the middle.",
+        "Arrange on a platter, spoon over the dressing and scatter with the reserved dill fronds."
+      ],
+      "notes": [
+        "On a barbecue: sear the wedges briefly, turning from one cut side to the other."
+      ],
+      "nutrition": {
+        "Energy": "208kcal",
+        "Protein": "3.2g",
+        "Fat": "21g",
+        "Saturated Fat": "2.6g",
+        "Carbs": "1.8g",
+        "Fibre": "1.7g"
+      }
     }
   ]
 }
