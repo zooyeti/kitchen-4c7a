@@ -907,8 +907,8 @@
     {
       "id": "mushroom-stroganoff",
       "title": "Mushroom Stroganoff",
-      "collection": "weekday",
-      "added": "2026-09-13",
+      "collection": "this-week",
+      "added": "2026-10-20",
       "time": "25 mins",
       "timeMins": 25,
       "serves": 2,
@@ -983,6 +983,17 @@
         "Add the mushrooms, increase the heat to medium-high, and stir-fry for 5 minutes until they release their moisture. Add the brandy, if using, and cook until evaporated.",
         "Stir in the paprika and miso, pour in the stock, and simmer for 2 minutes to reduce. Remove from the heat and stir in the soured cream and most of the parsley.",
         "Cook the rice according to pack instructions. Serve the stroganoff over the rice, garnished with the reserved parsley and a pinch of paprika."
+      ],
+      "nutrition": {
+        "Energy": "~330kcal",
+        "Protein": "~11g",
+        "Fat": "~11g",
+        "Saturated Fat": "~3g",
+        "Carbs": "~49g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients",
+      "notes": [
+        "Nutrition worked out from per-ingredient data on 2026-10-20, including 125g cooked rice each. Brandy, miso, paprika, stock and parsley are not counted."
       ]
     },
     {
@@ -2055,313 +2066,6 @@
       "nutritionNote": "per serving, from the source's panel (not independently checked; aioli not included)"
     },
     {
-      "id": "paleo-chicken-piccata",
-      "title": "Paleo Chicken Piccata",
-      "collection": "this-week",
-      "added": "2026-10-12",
-      "time": "20 mins",
-      "timeMins": 20,
-      "serves": 2,
-      "source": {
-        "name": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/recipes/healthy/paleo-chicken-piccata/"
-      },
-      "note": "Adapted: butter stirred into the sauce for fat; served with cauliflower rice and a rocket salad.",
-      "tags": [
-        "chicken",
-        "quick",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "skinless chicken breasts (about 150g each)"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "olive oil, for frying"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "capers, rinsed"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "garlic clove, crushed"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "lemon: half zested and juiced, half sliced"
-        },
-        {
-          "qty": 200,
-          "unit": "ml",
-          "item": "chicken stock"
-        },
-        {
-          "qty": 30,
-          "unit": "g",
-          "item": "butter, cold, cubed"
-        },
-        {
-          "qty": 0.5,
-          "unit": "bunch",
-          "item": "flat-leaf parsley, chopped"
-        },
-        {
-          "group": "To serve",
-          "qty": 200,
-          "unit": "g",
-          "item": "cauliflower, grated into rice"
-        },
-        {
-          "group": "To serve",
-          "qty": 80,
-          "unit": "g",
-          "item": "rocket"
-        },
-        {
-          "group": "To serve",
-          "qty": 2,
-          "unit": "tsp",
-          "item": "olive oil, to dress the rocket"
-        }
-      ],
-      "method": [
-        "Slice each chicken breast through the middle lengthways, open it like a book and flatten to about 1cm thick between sheets of clingfilm.",
-        "Heat the oil in a frying pan and fry the chicken for about 4 minutes each side until golden and cooked through. Season, then rest under foil.",
-        "In the same pan fry the capers and garlic for a minute. Add the lemon juice, zest and stock and simmer until slightly thickened. Take off the heat and swirl in the butter.",
-        "Return the chicken to the pan with the lemon slices and parsley and spoon the sauce over. Fry the grated cauliflower in a dry pan for 3-4 minutes. Serve with the rocket dressed in the oil."
-      ],
-      "notes": [
-        "Not in the source: the butter, the rocket and the cauliflower rice quantities (the source says 'green salad and cauliflower rice, to serve'). The butter is there because the source recipe is very lean for keto (about 3g fat a serving).",
-        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. Lemon is counted using whole lemon as a proxy and stock as ~1g net, both estimated. Parsley not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
-      ],
-      "nutrition": {
-        "Energy": "~390kcal",
-        "Protein": "~37g",
-        "Fat": "~24g",
-        "Saturated Fat": "~10g",
-        "Net carbs": "~7g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as adapted"
-    },
-    {
-      "id": "cod-tomato-olive-tray-roast",
-      "title": "Cod, Cherry Tomato and Green Olive Tray Roast",
-      "collection": "this-week",
-      "added": "2026-10-12",
-      "time": "35 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": {
-        "name": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/cod-cherry-tomato-and-green-olive-tray-roast/"
-      },
-      "note": "Adapted: no bread or orzo; served on dressed rocket. Source serves 6, scaled to 2.",
-      "tags": [
-        "fish",
-        "cod",
-        "traybake",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "small red onion, cut into thin wedges"
-        },
-        {
-          "qty": 250,
-          "unit": "g",
-          "item": "cherry tomatoes"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil, plus 1 tsp"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "pieces cod loin (about 125g each)"
-        },
-        {
-          "qty": 2,
-          "unit": "slices",
-          "item": "Parma ham"
-        },
-        {
-          "qty": 6,
-          "unit": "",
-          "item": "green olives (Nocellara if you can)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Flat-leaf parsley, chopped, to serve"
-        },
-        {
-          "group": "To serve",
-          "qty": 100,
-          "unit": "g",
-          "item": "rocket"
-        },
-        {
-          "group": "To serve",
-          "qty": 2,
-          "unit": "tsp",
-          "item": "olive oil, to dress the rocket"
-        }
-      ],
-      "method": [
-        "Heat the oven to 220°C (200°C fan, gas 7).",
-        "Put the onion and tomatoes in a small roasting tin, season, add the olive oil, toss and roast for 15 minutes.",
-        "Wrap each piece of cod in a slice of Parma ham. Add the olives to the tin, set the cod on top of the tomatoes and roast for another 12-15 minutes until the cod is cooked through and the ham is crisp.",
-        "Scatter with parsley and serve on the rocket dressed with the oil."
-      ],
-      "notes": [
-        "Source page says 40 minutes for 6; scaled down to 2 the roasting time stays the same, so allow about 35 minutes in all. Check the cod at 12 minutes.",
-        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. Estimated: ripe canned olives stand in for green olives and lean cured ham for Parma ham (Parma is fattier, so energy is probably a little higher). Parsley not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
-      ],
-      "nutrition": {
-        "Energy": "~310kcal",
-        "Protein": "~28g",
-        "Fat": "~18g",
-        "Saturated Fat": "~3g",
-        "Net carbs": "~6g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as adapted"
-    },
-    {
-      "id": "greek-stuffed-chicken-salad",
-      "title": "Greek-Style Stuffed Chicken and Salad",
-      "collection": "this-week",
-      "added": "2026-10-12",
-      "time": "35 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": {
-        "name": "GoodTo",
-        "url": "https://www.goodto.com/recipes/greek-style-stuffed-chicken-and-salad"
-      },
-      "note": "Source serves 4, halved to 2. Roast a fresh red pepper rather than using a jar.",
-      "tags": [
-        "chicken",
-        "feta",
-        "keto"
-      ],
-      "ingredients": [
-        {
-          "group": "Chicken",
-          "qty": 2,
-          "unit": "blocks",
-          "item": "frozen spinach, defrosted and squeezed dry"
-        },
-        {
-          "group": "Chicken",
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "finely chopped shallot"
-        },
-        {
-          "group": "Chicken",
-          "qty": 2,
-          "unit": "tsp",
-          "item": "olive oil"
-        },
-        {
-          "group": "Chicken",
-          "qty": 0.5,
-          "unit": "tsp",
-          "item": "dried mint"
-        },
-        {
-          "group": "Chicken",
-          "qty": 50,
-          "unit": "g",
-          "item": "feta, crumbled"
-        },
-        {
-          "group": "Chicken",
-          "qty": 2,
-          "unit": "",
-          "item": "skinless chicken breasts"
-        },
-        {
-          "group": "Chicken",
-          "qty": 0.5,
-          "unit": "",
-          "item": "lemon"
-        },
-        {
-          "group": "Chicken",
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "white wine"
-        },
-        {
-          "group": "Salad",
-          "qty": 0.25,
-          "unit": "",
-          "item": "cucumber, chopped"
-        },
-        {
-          "group": "Salad",
-          "qty": 200,
-          "unit": "g",
-          "item": "tomatoes, cut into chunks"
-        },
-        {
-          "group": "Salad",
-          "qty": 0.5,
-          "unit": "",
-          "item": "large red pepper, roasted and cut into strips"
-        },
-        {
-          "group": "Salad",
-          "qty": 0.5,
-          "unit": "tsp",
-          "item": "dried oregano"
-        },
-        {
-          "group": "Salad",
-          "qty": 1,
-          "unit": "tsp",
-          "item": "sherry vinegar"
-        },
-        {
-          "group": "Salad",
-          "qty": 2,
-          "unit": "tsp",
-          "item": "extra virgin olive oil"
-        }
-      ],
-      "method": [
-        "Heat the oven to 200°C (180°C fan). Cook the shallot in 1 tsp of the olive oil with the mint, stir in the spinach, season, then take off the heat and stir in the feta.",
-        "Cut a deep pocket into the side of each chicken breast, stuff with the filling and close with cocktail sticks.",
-        "Put the chicken in a roasting tin, brush with the remaining oil, squeeze over the lemon, add the wine and a splash of water, and roast for 25 minutes until cooked through.",
-        "Toss the salad ingredients with the vinegar and extra virgin olive oil. Serve with the chicken and the pan juices."
-      ],
-      "notes": [
-        "The source gives no oven temperature; 200°C (180°C fan) is my assumption. The source page also lists 342 kcal in its table and 313 in its description.",
-        "Energy, protein, fat and net carbs worked out from per-ingredient USDA data on 2026-10-12. One block of frozen spinach assumed to be about 100g raw-equivalent, which is deliberately on the high side (blocks are often smaller). Wine, vinegar, herbs and lemon not counted. Net carbs checked against per-ingredient USDA data on 2026-10-12."
-      ],
-      "nutrition": {
-        "Energy": "~390kcal",
-        "Protein": "~42g",
-        "Fat": "~20g",
-        "Saturated Fat": "~6g",
-        "Net carbs": "~8g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as adapted"
-    },
-    {
       "id": "creamy-mashed-potato-nutmeg",
       "title": "Creamy Mashed Potato with Nutmeg",
       "collection": "weekend",
@@ -2531,6 +2235,195 @@
         "Carbs": "1.8g",
         "Fibre": "1.7g"
       }
+    },
+    {
+      "id": "slow-cooked-beef-shin-in-ale",
+      "title": "Slow-Cooked Beef Shin in Ale",
+      "collection": "this-week",
+      "added": "2026-10-20",
+      "time": "25 mins prep + 3-4 hrs in the oven",
+      "timeMins": 25,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/slow-cooked-beef-shin-in-ale/"
+      },
+      "note": "Prep-ahead oven night: brown and assemble earlier in the day, then leave it in a low oven. Serve with the Creamy Mashed Potato (half quantity).",
+      "tags": [
+        "beef",
+        "slow cook",
+        "prep ahead",
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 600,
+          "unit": "g",
+          "item": "boneless beef shin, in large pieces (or about 800g bone-in)"
+        },
+        {
+          "qty": 330,
+          "unit": "ml",
+          "item": "best bitter"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "item": "chicken or vegetable stock, roughly (enough to come three-quarters up the meat)"
+        },
+        {
+          "qty": 70,
+          "unit": "g",
+          "item": "shallots (about 2), coarsely chopped"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "celery stick, coarsely chopped"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "parsnip, coarsely chopped"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "carrot, coarsely chopped"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "bay leaf"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "rosemary sprig"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "thyme sprig, plus extra leaves to finish"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Cornflour (optional, to thicken)"
+        }
+      ],
+      "method": [
+        "Earlier in the day: heat the oven to 160°C (140°C fan, gas 3). Heat the oil in a small flameproof casserole with a tight-fitting lid over a medium heat. Season the beef and brown it on all sides.",
+        "Add the ale and enough stock to come about three-quarters of the way up the meat. Bring to the boil, then add the shallots, celery, parsnip, carrot, bay, rosemary and thyme. Season.",
+        "Cover and cook in the oven for 3-4 hours (4-5 if using bone-in), until the beef is falling apart. Check it after 3 hours if you're around; if it isn't tender, give it another 30 minutes.",
+        "At dinnertime: lift out the herb sprigs and rest the beef on a plate. Boil the liquid hard on the hob for a few minutes to reduce it, or thicken with a little cornflour mixed with some of the liquid, taking care not to break up the veg. Scatter with thyme leaves and serve with mash."
+      ],
+      "notes": [
+        "Scaled from the source (2kg bone-in shin, 750ml ale, 250ml stock, serves 4-6) to 600g boneless for 2. The source says boneless shin needs 3-4 hours rather than 4-5.",
+        "Can be cooked up to 48 hours ahead: cool, chill, then reheat covered at 160°C (140°C fan) for 30-40 minutes until piping hot.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-10-20, excluding the mash. Beef uses the lean-only shin entry, so real fat is probably a bit higher. The ale counts only its carbs and protein, because most of the alcohol cooks off. Stock and herbs are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~550kcal",
+        "Protein": "~68g",
+        "Fat": "~19g",
+        "Saturated Fat": "~5g",
+        "Carbs": "~25g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as scaled, without mash"
+    },
+    {
+      "id": "cider-pork-with-apples",
+      "title": "Cider Pork with Apples",
+      "collection": "this-week",
+      "added": "2026-10-20",
+      "time": "Under 30 mins",
+      "timeMins": 25,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/cider-pork-with-apples/"
+      },
+      "note": "Serve with the Creamy Mashed Potato (half quantity). Start the potatoes first.",
+      "tags": [
+        "pork",
+        "quick",
+        "one-pan"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "vegetable oil (a splash)"
+        },
+        {
+          "qty": 10,
+          "unit": "g",
+          "item": "butter (a knob)"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "pork chops (about 175g each)"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "small apples, peeled, cored and cut into wedges"
+        },
+        {
+          "qty": 150,
+          "unit": "ml",
+          "item": "dry cider"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "wholegrain mustard"
+        },
+        {
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "crème fraîche"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A small handful of thyme leaves, chopped (keep some to garnish)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Heat the oil and butter in a frying pan. Season the chops and brown them for 3 minutes. Turn them over, add the apple wedges and cook until the apples are golden.",
+        "Pour in the cider and let it bubble for 8-10 minutes until the pork is cooked through. Move the pork and apples to a warm dish.",
+        "Stir the mustard, crème fraîche and most of the thyme into the pan. Bubble for about 2 minutes until it thickens, then spoon over the pork.",
+        "Scatter with the rest of the thyme and serve with mash."
+      ],
+      "notes": [
+        "Nutrition worked out from per-ingredient data on 2026-10-20, excluding the mash. Assumes about 175g of chop each. The cider counts only its carbs. Mustard and thyme are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~450kcal",
+        "Protein": "~39g",
+        "Fat": "~23g",
+        "Saturated Fat": "~10g",
+        "Carbs": "~21g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients, without mash"
     }
   ]
 }
