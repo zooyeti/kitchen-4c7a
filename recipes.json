@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-11-03",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -97,88 +97,6 @@
         "Tip the veg into a bowl, halve and add the tomatoes, destone and add the olives along with half the basil leaves. Add a little olive oil, toss and tip into a roasting tray.",
         "Toss the salmon fillets with a little olive oil and a squeeze of lemon juice, season lightly. Lay on top of the vegetables skin-side up, top with a couple of lemon slices, and roast for 10 minutes until cooked through.",
         "For the yoghurt: bash the remaining basil with a pinch of salt, add the garlic and bash again. Mix in the mustard, Greek yoghurt and remaining lemon juice, plus a drizzle of extra virgin olive oil. Season to taste and serve with the salmon traybake."
-      ]
-    },
-    {
-      "id": "summer-lamb-orzo-salad",
-      "title": "Summer Lamb and Orzo Salad",
-      "collection": "weekday",
-      "added": "2026-08-09",
-      "time": "25 mins",
-      "timeMins": 25,
-      "serves": 2,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/summer-lamb-orzo-salad/"
-      },
-      "note": "Recipe as written serves 4; halved here.",
-      "tags": [
-        "lamb",
-        "salad",
-        "griddle"
-      ],
-      "ingredients": [
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "orzo"
-        },
-        {
-          "qty": 50,
-          "unit": "g",
-          "item": "frozen peas"
-        },
-        {
-          "qty": 30,
-          "unit": "g",
-          "item": "feta, crumbled"
-        },
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "courgette, peeled into ribbons"
-        },
-        {
-          "qty": 0.25,
-          "unit": "",
-          "item": "red chilli, deseeded and finely chopped (optional — mild background warmth only)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Handful finely chopped fresh mint, plus extra to garnish"
-        },
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "preserved lemon, deseeded and finely chopped"
-        },
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "lemon, juiced"
-        },
-        {
-          "qty": 2,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 4,
-          "unit": "",
-          "item": "Welsh lamb cutlets (approx 100g each)"
-        },
-        {
-          "qty": 5,
-          "unit": "g",
-          "item": "pine nuts, toasted in a dry pan for 2 minutes"
-        }
-      ],
-      "method": [
-        "Cook the orzo in boiling water for 8-10 minutes until just tender, adding the peas for the last 2-3 minutes. Drain, refresh under cold water and drain again. Tip into a bowl and mix in the feta, courgette ribbons, chilli and chopped mint.",
-        "Whisk the preserved lemon, lemon juice, 1 tbsp of the olive oil and a pinch of salt and pepper. Pour over the orzo, stir and transfer to a serving dish.",
-        "Heat a griddle to high. Rub the remaining olive oil over the lamb, season both sides. Cook 2-3 minutes per side until charred and tender.",
-        "Arrange lamb over the orzo. Scatter over the pine nuts and extra mint. Serve immediately."
       ]
     },
     {
@@ -902,98 +820,6 @@
         "Add the beef and fry for 2 minutes. Add the broccoli and fry for a further 2 minutes, stirring constantly.",
         "Pour in the soy sauce and sesame oil; toss to coat.",
         "Serve with egg noodles or steamed rice, topped with the remaining chilli and a squeeze of lime juice."
-      ]
-    },
-    {
-      "id": "mushroom-stroganoff",
-      "title": "Mushroom Stroganoff",
-      "collection": "this-week",
-      "added": "2026-10-20",
-      "time": "25 mins",
-      "timeMins": 25,
-      "serves": 2,
-      "source": {
-        "name": "Waitrose & Partners",
-        "url": "https://www.waitrose.com/ecom/recipe/mushroom-stroganoff"
-      },
-      "tags": [
-        "vegetarian",
-        "mushroom",
-        "one-pot"
-      ],
-      "ingredients": [
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil (or rapeseed oil)"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "small onion, finely chopped"
-        },
-        {
-          "qty": 4,
-          "unit": "cloves",
-          "item": "garlic, crushed"
-        },
-        {
-          "qty": 450,
-          "unit": "g",
-          "item": "mixed mushrooms (e.g. portabellini and woodland), sliced/torn"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "brandy (optional)"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "smoked paprika"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "white miso"
-        },
-        {
-          "qty": 125,
-          "unit": "ml",
-          "item": "vegetable stock"
-        },
-        {
-          "qty": 3,
-          "unit": "tbsp",
-          "item": "soured cream"
-        },
-        {
-          "qty": 12,
-          "unit": "g",
-          "item": "curly parsley, finely chopped (half a 25g pack)"
-        },
-        {
-          "qty": 250,
-          "unit": "g",
-          "item": "cooked long grain rice, to serve"
-        }
-      ],
-      "method": [
-        "Heat the oil in a large frying pan over low-medium heat. Add the onion and garlic and cook for 5-7 minutes until softened.",
-        "Add the mushrooms, increase the heat to medium-high, and stir-fry for 5 minutes until they release their moisture. Add the brandy, if using, and cook until evaporated.",
-        "Stir in the paprika and miso, pour in the stock, and simmer for 2 minutes to reduce. Remove from the heat and stir in the soured cream and most of the parsley.",
-        "Cook the rice according to pack instructions. Serve the stroganoff over the rice, garnished with the reserved parsley and a pinch of paprika."
-      ],
-      "nutrition": {
-        "Energy": "~330kcal",
-        "Protein": "~11g",
-        "Fat": "~11g",
-        "Saturated Fat": "~3g",
-        "Carbs": "~49g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients",
-      "notes": [
-        "Nutrition worked out from per-ingredient data on 2026-10-20, including 125g cooked rice each. Brandy, miso, paprika, stock and parsley are not counted."
       ]
     },
     {
@@ -2239,8 +2065,8 @@
     {
       "id": "slow-cooked-beef-shin-in-ale",
       "title": "Slow-Cooked Beef Shin in Ale",
-      "collection": "this-week",
-      "added": "2026-10-20",
+      "collection": "weekday",
+      "added": "2026-11-03",
       "time": "25 mins prep + 3-4 hrs in the oven",
       "timeMins": 25,
       "serves": 2,
@@ -2345,8 +2171,8 @@
     {
       "id": "cider-pork-with-apples",
       "title": "Cider Pork with Apples",
-      "collection": "this-week",
-      "added": "2026-10-20",
+      "collection": "weekday",
+      "added": "2026-11-03",
       "time": "Under 30 mins",
       "timeMins": 25,
       "serves": 2,
@@ -2424,6 +2250,323 @@
         "Carbs": "~21g"
       },
       "nutritionNote": "per serving, estimated from the ingredients, without mash"
+    },
+    {
+      "id": "ale-barley-lamb-shanks",
+      "title": "Ale and Barley Lamb Shanks",
+      "collection": "this-week",
+      "added": "2026-11-03",
+      "time": "8 mins prep + 2 hrs 30 in the oven",
+      "timeMins": 158,
+      "serves": 2,
+      "source": {
+        "name": "Jamie Oliver",
+        "url": "https://www.jamieoliver.com/recipes/lamb/ale-barley-lamb-shanks/"
+      },
+      "note": "Prep-ahead oven night: 8 mins hands-on, then it cooks itself. Umami paste swapped for tomato purée and white miso.",
+      "tags": [
+        "lamb",
+        "slow cook",
+        "prep ahead",
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "lamb shanks (about 400g each)"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "large leek, halved, washed and roughly chopped"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "pearl barley"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "tomato purée"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "white miso"
+        },
+        {
+          "qty": 250,
+          "unit": "ml",
+          "item": "ale of your choice"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tsp",
+          "item": "red wine vinegar"
+        },
+        {
+          "qty": 600,
+          "unit": "ml",
+          "item": "water"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Heat the oven to 170°C (150°C fan, gas 3).",
+        "Brown the lamb shanks all over in the olive oil in a large casserole over a high heat. While they brown, halve, wash and roughly chop the leek.",
+        "Add the leek, pearl barley, tomato purée, miso, salt and pepper to the casserole and stir.",
+        "Pour in the ale, vinegar and water, enough to just cover everything. Bring to a simmer, put the lid on and cook in the oven for 2 hours 30 minutes, until the lamb is falling off the bone and the barley is tender."
+      ],
+      "notes": [
+        "Recipe as written serves 4 (4 shanks, 2 leeks, 200g barley, 500ml ale, 1.2 litres water); halved here for 2.",
+        "The source uses 1 heaped tbsp umami paste, a bottled paste. The tomato purée and miso swap is my own adaptation, not from the source, and the amounts are a first guess. Taste the broth before serving.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-03, with the barley, leek and ale counted in full. It assumes about half the bone-in weight is edible meat (about 200g a person) and uses the whole-leg lean-and-fat entry for lamb, so it's a rough guide. The ale counts only its carbs and protein, because most of the alcohol cooks off. The source gives only percentage reference intakes, so there's no panel to compare."
+      ],
+      "nutrition": {
+        "Energy": "~700kcal",
+        "Protein": "~43g",
+        "Fat": "~33g",
+        "Saturated Fat": "~13g",
+        "Carbs": "~56g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as adapted"
+    },
+    {
+      "id": "sausage-butter-bean-bake",
+      "title": "Sausage and Butter Bean Bake",
+      "collection": "this-week",
+      "added": "2026-11-03",
+      "time": "Just over 30 mins",
+      "timeMins": 35,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/sausage-butter-bean-bake/"
+      },
+      "note": "One-pot with a herby Parmesan crumb. You need a hob-safe casserole that can go under the grill.",
+      "tags": [
+        "sausage",
+        "one-pot",
+        "bake"
+      ],
+      "ingredients": [
+        {
+          "group": "For the bake",
+          "qty": 4,
+          "unit": "",
+          "item": "good-quality pork sausages"
+        },
+        {
+          "group": "For the bake",
+          "qty": 1,
+          "unit": "",
+          "item": "red onion, sliced"
+        },
+        {
+          "group": "For the bake",
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "group": "For the bake",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "red wine vinegar"
+        },
+        {
+          "group": "For the bake",
+          "qty": 200,
+          "unit": "g",
+          "item": "chopped tomatoes with herbs and garlic (half a 400g tin)"
+        },
+        {
+          "group": "For the bake",
+          "qty": 120,
+          "unit": "g",
+          "item": "butter beans, drained (half a 400g tin)"
+        },
+        {
+          "group": "For the bake",
+          "qty": 50,
+          "unit": "g",
+          "item": "cherry tomatoes, optional"
+        },
+        {
+          "group": "For the bake",
+          "qty": 100,
+          "unit": "ml",
+          "item": "water"
+        },
+        {
+          "group": "For the bake",
+          "qty": null,
+          "unit": "",
+          "item": "A pinch of sugar, optional"
+        },
+        {
+          "group": "For the bake",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil, half for the sausages and half for the onion"
+        },
+        {
+          "group": "For the crumb",
+          "qty": 25,
+          "unit": "g",
+          "item": "fresh breadcrumbs"
+        },
+        {
+          "group": "For the crumb",
+          "qty": 10,
+          "unit": "g",
+          "item": "mixed fresh herbs (rosemary, thyme, sage), chopped"
+        },
+        {
+          "group": "For the crumb",
+          "qty": 10,
+          "unit": "g",
+          "item": "Parmesan, finely grated"
+        },
+        {
+          "group": "For the crumb",
+          "qty": 0.5,
+          "unit": "",
+          "item": "garlic clove, crushed"
+        },
+        {
+          "group": "For the crumb",
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "For the crumb",
+          "qty": null,
+          "unit": "",
+          "item": "A pinch of salt"
+        }
+      ],
+      "method": [
+        "Brown the sausages in half the oil in a large casserole over a medium heat, then set aside.",
+        "Soften the onion in the other half of the oil, covered, over a low heat for 5 minutes. Add the garlic and cook for a few minutes more.",
+        "Add the vinegar, tomatoes, water and sugar, if using. Simmer for about 5 minutes to reduce, then stir in the butter beans, cherry tomatoes and sausages. Cook for 10-15 minutes until the sausages are cooked through.",
+        "Heat the grill to medium. Mix the breadcrumbs, herbs, Parmesan, oil, remaining garlic and salt. Scatter over the casserole and grill for about 5 minutes until golden. Or toast the crumb in a frying pan and spoon it over."
+      ],
+      "notes": [
+        "Recipe as written serves 4 (8 sausages, 2 red onions, a full tin each of tomatoes and butter beans); halved here for 2. Half a tin of each is left over; keep it covered in the fridge for a day or two.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-03. Sausages are assumed at 70g each and use the Italian pork sausage entry, which is fattier than most UK sausages, so treat the calories and fat as an upper bound: the real figure is probably nearer the source's 572 kcal. Butter beans use the cooked lima bean entry. Herbs, vinegar and water are not counted. The source panel (572 kcal, 36.5g carbs, 40g fat a serving) was not used."
+      ],
+      "nutrition": {
+        "Energy": "~790kcal",
+        "Protein": "~30g",
+        "Fat": "~60g",
+        "Saturated Fat": "~18g",
+        "Carbs": "~35g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as scaled"
+    },
+    {
+      "id": "baked-bream-potatoes-tomatoes",
+      "title": "Baked Bream with Potatoes and Tomatoes",
+      "collection": "this-week",
+      "added": "2026-11-03",
+      "time": "10 mins prep + 45 mins cook",
+      "timeMins": 55,
+      "serves": 2,
+      "source": {
+        "name": "Tesco Real Food",
+        "url": "https://realfood.tesco.com/recipes/baked-bream-with-potatoes-and-tomatoes.html"
+      },
+      "note": "Sea bream fillets from the freezer: defrost them in the fridge the night before. Serve with green beans or tenderstem.",
+      "tags": [
+        "fish",
+        "bream",
+        "traybake"
+      ],
+      "ingredients": [
+        {
+          "qty": 250,
+          "unit": "g",
+          "item": "baby new potatoes, halved if large"
+        },
+        {
+          "qty": 1.5,
+          "unit": "tsp",
+          "item": "extra virgin olive oil"
+        },
+        {
+          "qty": 300,
+          "unit": "g",
+          "item": "sea bream fillets, skin on (2-3 fillets)"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "unwaxed lemon, finely grated zest"
+        },
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "finely chopped thyme leaves"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "spring onions, trimmed and finely sliced"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "item": "cherry tomatoes, halved"
+        },
+        {
+          "qty": 2,
+          "unit": "tsp",
+          "item": "lemon juice"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Flaked sea salt and black pepper"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "green beans or tenderstem broccoli, to serve"
+        }
+      ],
+      "method": [
+        "Heat the oven to 220°C (200°C fan, gas 7). Boil the potatoes for 10 minutes and drain well.",
+        "Spread the potatoes on a baking sheet, lightly crush them, season and drizzle with 1 tsp of the oil. Bake for 20 minutes until crisp at the edges.",
+        "Meanwhile, score the fish skin three times. Mix the lemon zest with the thyme, rub it into both sides of the fillets and season lightly.",
+        "Scatter the spring onions and tomatoes over the potatoes and toss. Make gaps and place the fish skin-side up. Drizzle with the remaining oil and return to the oven for 10-15 minutes, until the fish is cooked and the tomatoes have softened.",
+        "Finish with the lemon juice and serve with boiled green beans or tenderstem."
+      ],
+      "notes": [
+        "Recipe as written serves 4 (500g potatoes, 600g fillets); halved here for 2. The source suggests cod or sea bass fillets if you have those instead.",
+        "The source serves it with runner beans; green beans or tenderstem are the in-season swap and aren't on the panel.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-03. Sea bream isn't in the USDA table, so raw striped sea bass stands in. Herbs and lemon are not counted. The source panel (276 kcal, 21.5g carbs) agrees closely."
+      ],
+      "nutrition": {
+        "Energy": "~280kcal",
+        "Protein": "~30g",
+        "Fat": "~7g",
+        "Saturated Fat": "~1g",
+        "Carbs": "~23g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients as scaled, without the beans"
     }
   ]
 }
