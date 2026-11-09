@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-09",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2479,7 +2479,7 @@
     },
     {
       "id": "baked-bream-potatoes-tomatoes",
-      "title": "Baked Bream with Potatoes and Tomatoes",
+      "title": "Baked Cod with Potatoes and Tomatoes",
       "collection": "this-week",
       "added": "2026-11-03",
       "time": "10 mins prep + 45 mins cook",
@@ -2489,10 +2489,10 @@
         "name": "Tesco Real Food",
         "url": "https://realfood.tesco.com/recipes/baked-bream-with-potatoes-and-tomatoes.html"
       },
-      "note": "Sea bream fillets from the freezer: defrost them in the fridge the night before. Serve with green beans or tenderstem.",
+      "note": "Cod fillets or loin, skin on, from the fishmonger or fish counter (the sea bream from the freezer is gone). Fish is thicker than bream, so check it's opaque right through. Serve with green beans or tenderstem.",
       "tags": [
         "fish",
-        "bream",
+        "cod",
         "traybake"
       ],
       "ingredients": [
@@ -2509,7 +2509,7 @@
         {
           "qty": 300,
           "unit": "g",
-          "item": "sea bream fillets, skin on (2-3 fillets)"
+          "item": "cod loin or thick fillets, skin on (2 pieces)"
         },
         {
           "qty": 0.5,
@@ -2550,20 +2550,20 @@
       "method": [
         "Heat the oven to 220°C (200°C fan, gas 7). Boil the potatoes for 10 minutes and drain well.",
         "Spread the potatoes on a baking sheet, lightly crush them, season and drizzle with 1 tsp of the oil. Bake for 20 minutes until crisp at the edges.",
-        "Meanwhile, score the fish skin three times. Mix the lemon zest with the thyme, rub it into both sides of the fillets and season lightly.",
-        "Scatter the spring onions and tomatoes over the potatoes and toss. Make gaps and place the fish skin-side up. Drizzle with the remaining oil and return to the oven for 10-15 minutes, until the fish is cooked and the tomatoes have softened.",
+        "Meanwhile, score the fish skin three times if it has skin. Mix the lemon zest with the thyme, rub it into both sides of the fish and season lightly.",
+        "Scatter the spring onions and tomatoes over the potatoes and toss. Make gaps and place the fish skin-side up. Drizzle with the remaining oil and return to the oven for 12-15 minutes (thick cod loin may need the full 15), until the fish is cooked and the tomatoes have softened.",
         "Finish with the lemon juice and serve with boiled green beans or tenderstem."
       ],
       "notes": [
-        "Recipe as written serves 4 (500g potatoes, 600g fillets); halved here for 2. The source suggests cod or sea bass fillets if you have those instead.",
+        "Recipe as written serves 4 (500g potatoes, 600g fillets) and uses sea bream; halved here for 2. Swapped to cod on 2026-11-09 because the bream was no longer available — the source itself suggests cod or sea bass.",
         "The source serves it with runner beans; green beans or tenderstem are the in-season swap and aren't on the panel.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-03. Sea bream isn't in the USDA table, so raw striped sea bass stands in. Herbs and lemon are not counted. The source panel (276 kcal, 21.5g carbs) agrees closely."
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-03 using raw striped sea bass as a stand-in for bream, then adjusted on 2026-11-09 for raw Atlantic cod (cod values from memory, not re-looked-up, so treat as ~). Herbs and lemon are not counted."
       ],
       "nutrition": {
-        "Energy": "~280kcal",
+        "Energy": "~255kcal",
         "Protein": "~30g",
-        "Fat": "~7g",
-        "Saturated Fat": "~1g",
+        "Fat": "~5g",
+        "Saturated Fat": "~0.5g",
         "Carbs": "~23g"
       },
       "nutritionNote": "per serving, estimated from the ingredients as scaled, without the beans"
