@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -149,98 +149,6 @@
         "Heat 1 tbsp olive oil in a large non-stick frying pan over medium-high heat. Add the courgettes and cook for 4 minutes, tossing regularly. Finely slice the mint leaves and stir in.",
         "Toss the drained pasta into the pan with a splash of reserved cooking water. Finely grate in most of the Parmesan and a little lemon zest, squeeze in all the juice. Toss well, taste and season.",
         "Dish up, grate over the remaining Parmesan and drizzle with 1 tsp extra virgin olive oil."
-      ]
-    },
-    {
-      "id": "quick-sticky-chicken-salad",
-      "title": "Quick Sticky Chicken Salad",
-      "collection": "weekday",
-      "added": "2026-08-09",
-      "time": "25 mins",
-      "timeMins": 25,
-      "serves": 2,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-sticky-chicken-salad/"
-      },
-      "note": "Recipe as written serves 4; halved here.",
-      "tags": [
-        "chicken",
-        "salad",
-        "griddle"
-      ],
-      "ingredients": [
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Zest of 1/2 lemon and juice of 3/4 lemon"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "runny honey"
-        },
-        {
-          "qty": 1.75,
-          "unit": "tbsp",
-          "item": "extra-virgin olive oil"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Small bunch fresh mint, half chopped, half kept whole"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "skinless chicken breasts, each sliced into 3 pieces"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "podded broad beans"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "garlic ciabatta, sliced in half lengthways"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Large handful lamb's lettuce"
-        },
-        {
-          "qty": 200,
-          "unit": "g",
-          "item": "tinned chickpeas, drained and rinsed (half a 400g tin)"
-        },
-        {
-          "qty": 75,
-          "unit": "g",
-          "item": "cherry tomatoes, chopped"
-        },
-        {
-          "qty": 0.25,
-          "unit": "",
-          "item": "cucumber, deseeded and diced"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Small handful fresh parsley, chopped"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "grainy mustard"
-        }
-      ],
-      "method": [
-        "Mix together the lemon zest and juice (keeping about 1 tbsp juice back for the dressing), honey, 1 tbsp of the oil and the chopped mint. Season and add the chicken, stir to coat, leave 10 minutes.",
-        "Blanch the broad beans in boiling water for 2 minutes. Drain, refresh in cold water, drain again and slip from their skins. Tear the ciabatta into pieces and grill for 5 minutes until golden.",
-        "Heat a griddle over high heat. Cook chicken 2-3 minutes each side until charred, sticky and cooked through.",
-        "Toss the lettuce, broad beans, ciabatta, chickpeas, tomatoes, cucumber, parsley and remaining mint in a large bowl. Whisk the remaining oil, 1 tbsp lemon juice and mustard into a dressing. Season, pour over, add the warm chicken and toss."
       ]
     },
     {
@@ -2567,6 +2475,113 @@
         "Carbs": "~23g"
       },
       "nutritionNote": "per serving, estimated from the ingredients as scaled, without the beans"
+    },
+    {
+      "id": "sausages-mustard-cider-gravy",
+      "title": "Sausages with Mustard and Cider Gravy",
+      "collection": "weekday",
+      "added": "2026-11-11",
+      "time": "1 hr",
+      "timeMins": 60,
+      "serves": 2,
+      "source": {
+        "name": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/recipes/meat-and-poultry/sausages-with-mustard-and-cider-gravy/"
+      },
+      "note": "Serves 2 as written. Sausages and mash in a cider and mustard onion gravy.",
+      "tags": [
+        "pork",
+        "sausages",
+        "mash",
+        "cider"
+      ],
+      "ingredients": [
+        {
+          "group": "For the mash",
+          "qty": 400,
+          "unit": "g",
+          "item": "potatoes, peeled and chunked"
+        },
+        {
+          "group": "For the mash",
+          "qty": 25,
+          "unit": "g",
+          "item": "butter"
+        },
+        {
+          "group": "For the mash",
+          "qty": null,
+          "unit": "",
+          "item": "A generous splash of whole milk"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 2,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 6,
+          "unit": "",
+          "item": "pork sausages"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 1,
+          "unit": "",
+          "item": "large onion, halved and thinly sliced"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "plain flour"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 300,
+          "unit": "ml",
+          "item": "dry cider"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 100,
+          "unit": "ml",
+          "item": "chicken stock"
+        },
+        {
+          "group": "For the sausages and gravy",
+          "qty": 2,
+          "unit": "tsp",
+          "item": "wholegrain mustard"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Simmer the potatoes in cold salted water until tender. Drain, cover and leave to steam-dry for a few minutes, then mash with the butter and milk and season. Keep warm.",
+        "Fry the sausages in the olive oil, turning, until golden and cooked through, then remove. Add the onion and a generous pinch of salt to the pan and cook for 10-15 minutes until golden and caramelised. Stir in the flour and cook for a couple of minutes.",
+        "Gradually stir in the cider, then the chicken stock. Simmer for 3-4 minutes, return the sausages and cook for 5 minutes. Stir in the mustard and simmer for 2 minutes. Serve with the mash."
+      ],
+      "notes": [
+        "Use homemade chicken stock or a good stock cube rather than a bottled one.",
+        "The nutrition panel is the source's figure. Worked from the ingredients it comes out higher (roughly 1,050 kcal a serving), mostly because the US sausage figure used for the check runs fattier than a UK pork sausage, so treat the panel as approximate."
+      ],
+      "nutrition": {
+        "Energy": "852kcal",
+        "Protein": "21.2g",
+        "Fat": "52.7g",
+        "Saturated Fat": "19.4g",
+        "Carbs": "58.4g",
+        "Sugars": "16g",
+        "Fibre": "9.8g",
+        "Salt": "2.3g"
+      },
+      "nutritionNote": "per serving, from the source"
     }
   ]
 }
