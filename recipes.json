@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-20",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -2160,323 +2160,6 @@
       "nutritionNote": "per serving, estimated from the ingredients, without mash"
     },
     {
-      "id": "ale-barley-lamb-shanks",
-      "title": "Ale and Barley Lamb Shanks",
-      "collection": "this-week",
-      "added": "2026-11-03",
-      "time": "8 mins prep + 2 hrs 30 in the oven",
-      "timeMins": 158,
-      "serves": 2,
-      "source": {
-        "name": "Jamie Oliver",
-        "url": "https://www.jamieoliver.com/recipes/lamb/ale-barley-lamb-shanks/"
-      },
-      "note": "Prep-ahead oven night: 8 mins hands-on, then it cooks itself. Umami paste swapped for tomato purée and white miso.",
-      "tags": [
-        "lamb",
-        "slow cook",
-        "prep ahead",
-        "stew"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "lamb shanks (about 400g each)"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "large leek, halved, washed and roughly chopped"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "pearl barley"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "tomato purée"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "white miso"
-        },
-        {
-          "qty": 250,
-          "unit": "ml",
-          "item": "ale of your choice"
-        },
-        {
-          "qty": 1.5,
-          "unit": "tsp",
-          "item": "olive oil"
-        },
-        {
-          "qty": 1.5,
-          "unit": "tsp",
-          "item": "red wine vinegar"
-        },
-        {
-          "qty": 600,
-          "unit": "ml",
-          "item": "water"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Salt and pepper"
-        }
-      ],
-      "method": [
-        "Heat the oven to 170°C (150°C fan, gas 3).",
-        "Brown the lamb shanks all over in the olive oil in a large casserole over a high heat. While they brown, halve, wash and roughly chop the leek.",
-        "Add the leek, pearl barley, tomato purée, miso, salt and pepper to the casserole and stir.",
-        "Pour in the ale, vinegar and water, enough to just cover everything. Bring to a simmer, put the lid on and cook in the oven for 2 hours 30 minutes, until the lamb is falling off the bone and the barley is tender."
-      ],
-      "notes": [
-        "Recipe as written serves 4 (4 shanks, 2 leeks, 200g barley, 500ml ale, 1.2 litres water); halved here for 2.",
-        "The source uses 1 heaped tbsp umami paste, a bottled paste. The tomato purée and miso swap is my own adaptation, not from the source, and the amounts are a first guess. Taste the broth before serving.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-03, with the barley, leek and ale counted in full. It assumes about half the bone-in weight is edible meat (about 200g a person) and uses the whole-leg lean-and-fat entry for lamb, so it's a rough guide. The ale counts only its carbs and protein, because most of the alcohol cooks off. The source gives only percentage reference intakes, so there's no panel to compare."
-      ],
-      "nutrition": {
-        "Energy": "~700kcal",
-        "Protein": "~43g",
-        "Fat": "~33g",
-        "Saturated Fat": "~13g",
-        "Carbs": "~56g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as adapted"
-    },
-    {
-      "id": "sausage-butter-bean-bake",
-      "title": "Sausage and Butter Bean Bake",
-      "collection": "this-week",
-      "added": "2026-11-03",
-      "time": "Just over 30 mins",
-      "timeMins": 35,
-      "serves": 2,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/sausage-butter-bean-bake/"
-      },
-      "note": "One-pot with a herby Parmesan crumb. You need a hob-safe casserole that can go under the grill.",
-      "tags": [
-        "sausage",
-        "one-pot",
-        "bake"
-      ],
-      "ingredients": [
-        {
-          "group": "For the bake",
-          "qty": 4,
-          "unit": "",
-          "item": "good-quality pork sausages"
-        },
-        {
-          "group": "For the bake",
-          "qty": 1,
-          "unit": "",
-          "item": "red onion, sliced"
-        },
-        {
-          "group": "For the bake",
-          "qty": 1,
-          "unit": "",
-          "item": "garlic clove, crushed"
-        },
-        {
-          "group": "For the bake",
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "red wine vinegar"
-        },
-        {
-          "group": "For the bake",
-          "qty": 200,
-          "unit": "g",
-          "item": "chopped tomatoes with herbs and garlic (half a 400g tin)"
-        },
-        {
-          "group": "For the bake",
-          "qty": 120,
-          "unit": "g",
-          "item": "butter beans, drained (half a 400g tin)"
-        },
-        {
-          "group": "For the bake",
-          "qty": 50,
-          "unit": "g",
-          "item": "cherry tomatoes, optional"
-        },
-        {
-          "group": "For the bake",
-          "qty": 100,
-          "unit": "ml",
-          "item": "water"
-        },
-        {
-          "group": "For the bake",
-          "qty": null,
-          "unit": "",
-          "item": "A pinch of sugar, optional"
-        },
-        {
-          "group": "For the bake",
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil, half for the sausages and half for the onion"
-        },
-        {
-          "group": "For the crumb",
-          "qty": 25,
-          "unit": "g",
-          "item": "fresh breadcrumbs"
-        },
-        {
-          "group": "For the crumb",
-          "qty": 10,
-          "unit": "g",
-          "item": "mixed fresh herbs (rosemary, thyme, sage), chopped"
-        },
-        {
-          "group": "For the crumb",
-          "qty": 10,
-          "unit": "g",
-          "item": "Parmesan, finely grated"
-        },
-        {
-          "group": "For the crumb",
-          "qty": 0.5,
-          "unit": "",
-          "item": "garlic clove, crushed"
-        },
-        {
-          "group": "For the crumb",
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "olive oil"
-        },
-        {
-          "group": "For the crumb",
-          "qty": null,
-          "unit": "",
-          "item": "A pinch of salt"
-        }
-      ],
-      "method": [
-        "Brown the sausages in half the oil in a large casserole over a medium heat, then set aside.",
-        "Soften the onion in the other half of the oil, covered, over a low heat for 5 minutes. Add the garlic and cook for a few minutes more.",
-        "Add the vinegar, tomatoes, water and sugar, if using. Simmer for about 5 minutes to reduce, then stir in the butter beans, cherry tomatoes and sausages. Cook for 10-15 minutes until the sausages are cooked through.",
-        "Heat the grill to medium. Mix the breadcrumbs, herbs, Parmesan, oil, remaining garlic and salt. Scatter over the casserole and grill for about 5 minutes until golden. Or toast the crumb in a frying pan and spoon it over."
-      ],
-      "notes": [
-        "Recipe as written serves 4 (8 sausages, 2 red onions, a full tin each of tomatoes and butter beans); halved here for 2. Half a tin of each is left over; keep it covered in the fridge for a day or two.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-03. Sausages are assumed at 70g each and use the Italian pork sausage entry, which is fattier than most UK sausages, so treat the calories and fat as an upper bound: the real figure is probably nearer the source's 572 kcal. Butter beans use the cooked lima bean entry. Herbs, vinegar and water are not counted. The source panel (572 kcal, 36.5g carbs, 40g fat a serving) was not used."
-      ],
-      "nutrition": {
-        "Energy": "~790kcal",
-        "Protein": "~30g",
-        "Fat": "~60g",
-        "Saturated Fat": "~18g",
-        "Carbs": "~35g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as scaled"
-    },
-    {
-      "id": "baked-bream-potatoes-tomatoes",
-      "title": "Baked Cod with Potatoes and Tomatoes",
-      "collection": "this-week",
-      "added": "2026-11-03",
-      "time": "10 mins prep + 45 mins cook",
-      "timeMins": 55,
-      "serves": 2,
-      "source": {
-        "name": "Tesco Real Food",
-        "url": "https://realfood.tesco.com/recipes/baked-bream-with-potatoes-and-tomatoes.html"
-      },
-      "note": "Cod fillets or loin, skin on, from the fishmonger or fish counter (the sea bream from the freezer is gone). Fish is thicker than bream, so check it's opaque right through. Serve with green beans or tenderstem.",
-      "tags": [
-        "fish",
-        "cod",
-        "traybake"
-      ],
-      "ingredients": [
-        {
-          "qty": 250,
-          "unit": "g",
-          "item": "baby new potatoes, halved if large"
-        },
-        {
-          "qty": 1.5,
-          "unit": "tsp",
-          "item": "extra virgin olive oil"
-        },
-        {
-          "qty": 300,
-          "unit": "g",
-          "item": "cod loin or thick fillets, skin on (2 pieces)"
-        },
-        {
-          "qty": 0.5,
-          "unit": "",
-          "item": "unwaxed lemon, finely grated zest"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "finely chopped thyme leaves"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "spring onions, trimmed and finely sliced"
-        },
-        {
-          "qty": 100,
-          "unit": "g",
-          "item": "cherry tomatoes, halved"
-        },
-        {
-          "qty": 2,
-          "unit": "tsp",
-          "item": "lemon juice"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Flaked sea salt and black pepper"
-        },
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "green beans or tenderstem broccoli, to serve"
-        }
-      ],
-      "method": [
-        "Heat the oven to 220°C (200°C fan, gas 7). Boil the potatoes for 10 minutes and drain well.",
-        "Spread the potatoes on a baking sheet, lightly crush them, season and drizzle with 1 tsp of the oil. Bake for 20 minutes until crisp at the edges.",
-        "Meanwhile, score the fish skin three times if it has skin. Mix the lemon zest with the thyme, rub it into both sides of the fish and season lightly.",
-        "Scatter the spring onions and tomatoes over the potatoes and toss. Make gaps and place the fish skin-side up. Drizzle with the remaining oil and return to the oven for 12-15 minutes (thick cod loin may need the full 15), until the fish is cooked and the tomatoes have softened.",
-        "Finish with the lemon juice and serve with boiled green beans or tenderstem."
-      ],
-      "notes": [
-        "Recipe as written serves 4 (500g potatoes, 600g fillets) and uses sea bream; halved here for 2. Swapped to cod on 2026-11-09 because the bream was no longer available — the source itself suggests cod or sea bass.",
-        "The source serves it with runner beans; green beans or tenderstem are the in-season swap and aren't on the panel.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-03 using raw striped sea bass as a stand-in for bream, then adjusted on 2026-11-09 for raw Atlantic cod (cod values from memory, not re-looked-up, so treat as ~). Herbs and lemon are not counted."
-      ],
-      "nutrition": {
-        "Energy": "~255kcal",
-        "Protein": "~30g",
-        "Fat": "~5g",
-        "Saturated Fat": "~0.5g",
-        "Carbs": "~23g"
-      },
-      "nutritionNote": "per serving, estimated from the ingredients as scaled, without the beans"
-    },
-    {
       "id": "sausages-mustard-cider-gravy",
       "title": "Sausages with Mustard and Cider Gravy",
       "collection": "weekday",
@@ -2582,6 +2265,409 @@
         "Salt": "2.3g"
       },
       "nutritionNote": "per serving, from the source"
+    },
+    {
+      "id": "garlicky-slow-cooked-pork-belly",
+      "title": "Garlicky Slow-Cooked Pork Belly",
+      "collection": "this-week",
+      "added": "2026-11-17",
+      "time": "10 mins prep + 2 hrs 35 in the oven",
+      "timeMins": 165,
+      "serves": 2,
+      "source": {
+        "name": "Waitrose",
+        "url": "https://www.waitrose.com/ecom/recipe/garlicky-slow-cooked-pork-belly"
+      },
+      "note": "Prep-ahead oven night: 10 mins hands-on, then it cooks itself. Serve with the Creamy Mashed Potato (half quantity).",
+      "tags": [
+        "pork",
+        "slow cook",
+        "prep ahead",
+        "roast"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "pork belly joint (about 600g), skin cut off and discarded"
+        },
+        {
+          "qty": 0.5,
+          "unit": "tbsp",
+          "item": "sea salt flakes"
+        },
+        {
+          "qty": 5,
+          "unit": "g",
+          "item": "fresh sage (about a quarter of a 20g pack)"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "bulb garlic, broken into unpeeled cloves"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "leek, cut into 5cm chunks"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "celery sticks, cut into 5cm chunks"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "unwaxed lemon (a quarter sliced, the rest juiced)"
+        },
+        {
+          "qty": 150,
+          "unit": "ml",
+          "item": "white wine"
+        },
+        {
+          "qty": 20,
+          "unit": "g",
+          "item": "clear honey"
+        }
+      ],
+      "method": [
+        "Heat the oven to 220°C (gas 7). Cut off and discard the thick, hard skin from the pork. Season it all over with the salt, put it in a large casserole and roast uncovered for 20 minutes.",
+        "Move the pork to a plate. Add most of the sage (keep 3 leaves), most of the garlic (keep 1 clove), the leek, celery and lemon slices to the casserole. Sit the pork on top, pour over the wine, cover with a lid or foil and return to the oven for 1 hour.",
+        "Take the dish out and baste the pork well. Lower the oven to 180°C (gas 4), cover again and cook for another hour. Meanwhile finely chop the reserved sage and garlic and mix with the honey and lemon juice.",
+        "Drizzle the honey mixture over the pork and cook uncovered for 15 minutes. Rest the pork for 15 minutes before serving."
+      ],
+      "notes": [
+        "Recipe as written serves 4 (two 600g joints, 2 bulbs of garlic, 2 leeks, 4 celery sticks, 300ml wine, 40g honey); halved here for 2. Cooking times are the source's, which were written for 600g joints.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-17, excluding the mash. It assumes about half the fat in the belly renders out and stays in the dish, which is a guess. USDA raw pork belly is much fattier than the source's panel implies (the source gives about 866kcal, 54g fat and 65g protein a serving). Treat the energy as a rough guide, and the protein as probably higher in a UK joint. The wine counts only its carbs, as the alcohol cooks off. Lemon and sage are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~900kcal",
+        "Protein": "~28g",
+        "Fat": "~80g",
+        "Saturated Fat": "~29g",
+        "Carbs": "~21g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients, without mash"
+    },
+    {
+      "id": "chicken-leek-apple-casserole",
+      "title": "Chicken, Leek & Apple Casserole",
+      "collection": "this-week",
+      "added": "2026-11-17",
+      "time": "35 mins hands-on + 20-25 mins in the oven",
+      "timeMins": 60,
+      "serves": 2,
+      "source": {
+        "name": "Waitrose",
+        "url": "https://www.waitrose.com/ecom/recipe/chicken-leek-apple-casserole"
+      },
+      "note": "Prep-ahead-ish: brown the chicken and apples and soften the leeks earlier, then finish at dinnertime. Good with the Creamy Mashed Potato (half quantity).",
+      "tags": [
+        "chicken",
+        "casserole",
+        "prep ahead"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "olive oil"
+        },
+        {
+          "qty": 15,
+          "unit": "g",
+          "item": "unsalted butter"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "item": "chicken thighs, skin on, bone in"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "Braeburn apple, peeled, cored and cut into wedges"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "item": "leeks, trimmed and cut into 3cm pieces"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "unwaxed lemon, zest and juice"
+        },
+        {
+          "qty": 75,
+          "unit": "ml",
+          "item": "dry vermouth"
+        },
+        {
+          "qty": 0.75,
+          "unit": "tbsp",
+          "item": "Dijon mustard"
+        },
+        {
+          "qty": 125,
+          "unit": "ml",
+          "item": "chicken stock"
+        },
+        {
+          "qty": 75,
+          "unit": "ml",
+          "item": "crème fraîche"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "2-3 sprigs thyme, leaves picked"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "2-3 sprigs tarragon, finely chopped"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A small handful of flat-leaf parsley, chopped, to serve"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Heat the oven to 180°C (gas 4). Heat half the oil and butter in a large casserole over a medium-high heat. Add the chicken thighs skin-side down and cook, turning now and then, for about 10 minutes until golden all over. Move to a plate.",
+        "Heat the rest of the oil and butter in the casserole. Cook the apple wedges until they start to caramelise, 5-7 minutes, then set them aside with the chicken.",
+        "Add the leeks and cook on a low heat for 6-8 minutes until softened but not coloured.",
+        "Add the lemon zest and fry for 20 seconds. Pour in the vermouth and scrape up the base of the pan.",
+        "Stir in the mustard, then add the stock and crème fraîche and bring to a simmer.",
+        "Return the chicken to the pan skin-side up, with the apples. Scatter over the thyme and tarragon and season.",
+        "Cover and braise in the oven for 20-25 minutes until the chicken is cooked through with no pink meat.",
+        "Stir in the lemon juice and scatter over the parsley."
+      ],
+      "notes": [
+        "Recipe as written serves 4 (8 thighs, 2 apples, 500g leeks, 150ml vermouth, 250ml stock, 150ml crème fraîche); halved here for 2.",
+        "To do the work earlier: brown the chicken and apples and soften the leeks (steps 1-4), then keep the chicken in the fridge. At dinnertime add the mustard, stock and crème fraîche, bring to a simmer and carry on from step 6. That split is my own suggestion, not from the source.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-17, excluding the mash. It assumes about 100g of edible meat and skin per thigh and counts the leeks at the USDA figure, so the carbs run higher than the source's panel (762kcal, 18g carbs). The vermouth, stock, mustard, lemon and herbs are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~780kcal",
+        "Protein": "~36g",
+        "Fat": "~58g",
+        "Saturated Fat": "~22g",
+        "Carbs": "~28g"
+      },
+      "nutritionNote": "per serving, estimated from the ingredients, without mash"
+    },
+    {
+      "id": "quick-beef-ragu",
+      "title": "Quick Beef Ragù",
+      "collection": "this-week",
+      "added": "2026-11-17",
+      "time": "20 mins hands-on + 30 mins simmering",
+      "timeMins": 50,
+      "serves": 2,
+      "source": {
+        "name": "delicious. magazine",
+        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-beef-ragu/"
+      },
+      "note": "Halved from the source, so the sauce makes about 3 portions: 2 for dinner and one for lunch or the freezer. Start the sauce, then cook the pasta in the last 10 minutes.",
+      "tags": [
+        "beef",
+        "pasta",
+        "ragu",
+        "freezable"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil, plus extra to serve"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "item": "large onion, finely chopped"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "item": "garlic cloves, crushed"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "item": "beef mince"
+        },
+        {
+          "qty": 400,
+          "unit": "g",
+          "item": "tin chopped tomatoes"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A small splash of red wine vinegar"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "A pinch of sugar (optional)"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "dried pasta, such as pappardelle (for 2)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Grated Parmesan and fresh basil, to serve"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Heat the oil in a large frying pan. Fry the onion over a medium heat for about 5 minutes until soft but not coloured. Crush in the garlic and cook for 5 minutes more.",
+        "Season the beef. Turn up the heat, add the beef and stir until lightly browned all over. Add the tomatoes, vinegar and sugar if using, and simmer for 30 minutes, stirring now and then.",
+        "When the ragù has reduced and thickened, stir in a good drizzle of olive oil and adjust the seasoning. Toss with the cooked pasta and top with Parmesan and basil."
+      ],
+      "notes": [
+        "Recipe as written serves 6 (500g mince, 2 tins of tomatoes, 1 large onion, 3 garlic cloves); halved here, which makes about 3 portions of sauce.",
+        "For a richer sauce the source suggests simmering gently for 1-2 hours, adding a splash of water if it looks dry. It freezes for up to 3 months.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-17, for one third of the sauce with 75g dry pasta and 10g Parmesan. It uses 85% lean mince. The source's own panel (209kcal) covers the sauce alone, with no pasta. Vinegar, basil and the pinch of sugar are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~600kcal",
+        "Protein": "~31g",
+        "Fat": "~20g",
+        "Saturated Fat": "~7g",
+        "Carbs": "~66g"
+      },
+      "nutritionNote": "per portion of sauce with 75g dry pasta and 10g Parmesan, estimated from the ingredients"
+    },
+    {
+      "id": "ragu-alla-bolognese-accademia",
+      "title": "Ragù alla Bolognese (Accademia Italiana della Cucina)",
+      "collection": "this-week",
+      "added": "2026-11-20",
+      "time": "30 mins hands-on + 2-3 hours simmering",
+      "timeMins": 180,
+      "serves": 2,
+      "source": {
+        "name": "Accademia Italiana della Cucina",
+        "url": "https://www.accademiaitalianadellacucina.it/sites/default/files/Rag%C3%B9%20alla%20bolognese%20-%20updated%20recipe_20%20April%202023.pdf"
+      },
+      "note": "The official Bologna recipe, as updated in April 2023. Hob only, so start it mid-afternoon and cook the pasta at the end.",
+      "tags": [
+        "beef",
+        "pasta",
+        "ragu",
+        "italian",
+        "slow cook",
+        "hob only"
+      ],
+      "ingredients": [
+        {
+          "qty": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "item": "fresh unsmoked pancetta, sliced, then cut small"
+        },
+        {
+          "qty": 20,
+          "unit": "g",
+          "item": "onion, finely chopped by hand"
+        },
+        {
+          "qty": 20,
+          "unit": "g",
+          "item": "carrot, finely chopped by hand"
+        },
+        {
+          "qty": 20,
+          "unit": "g",
+          "item": "celery, finely chopped by hand"
+        },
+        {
+          "qty": 135,
+          "unit": "g",
+          "item": "coarsely minced beef (chuck, shoulder or brisket; or hanger/skirt chopped by hand)"
+        },
+        {
+          "qty": 40,
+          "unit": "ml",
+          "item": "red or white wine"
+        },
+        {
+          "qty": 65,
+          "unit": "g",
+          "item": "passata (strained tomatoes)"
+        },
+        {
+          "qty": 1,
+          "unit": "tsp",
+          "item": "double-concentrated tomato paste"
+        },
+        {
+          "qty": 80,
+          "unit": "ml",
+          "item": "hot light meat or vegetable broth (or water), plus more as needed"
+        },
+        {
+          "qty": 40,
+          "unit": "ml",
+          "item": "whole milk (optional)"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "item": "dried tagliatelle (not in the source; my addition for serving)"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Salt and pepper"
+        }
+      ],
+      "method": [
+        "Chop the onion, carrot and celery very finely by hand, not in a food processor.",
+        "Warm the olive oil in a small heavy-based pan and cook the pancetta over a low heat until the fat has melted down.",
+        "Add the chopped vegetables and cook gently over a low heat, stirring often, until soft but not browned.",
+        "Turn the heat up to medium, add the beef and break it up. Cook for about 10 minutes, stirring all the time, until browned.",
+        "Pour in the wine and let it cook away completely.",
+        "Stir in the tomato paste and passata, add the hot broth, cover and simmer very gently for 2 to 3 hours. Top up with a little hot broth or water whenever it looks dry.",
+        "Halfway through, stir in the milk if using and let it cook right down.",
+        "Season with salt and pepper. It's ready when thick, glossy and a deep maroon. Cook the tagliatelle, toss it with the sauce and serve."
+      ],
+      "notes": [
+        "The source recipe serves 6 (400g beef, 150g pancetta, 200g passata). Scaled here to a third for 2.",
+        "The source uses a 24-26cm casserole for the full batch. For this size a small heavy pan or saucepan works better (my adjustment, not the source's).",
+        "This is the 2023 update, which replaced the version deposited at the Bologna Chamber of Commerce in 1982. The Accademia says it is a guide rather than the only possible recipe.",
+        "The source gives no pasta, so the tagliatelle is my addition. Fresh egg tagliatelle (about 250g) is the classic partner.",
+        "Nutrition worked out from per-ingredient USDA data on 2026-11-20, for half the sauce with 75g dry pasta. Pancetta uses raw cured bacon as a proxy, passata uses canned crushed tomatoes, and the pasta fat figures are typical values rather than looked up. Wine, broth, salt and pepper are not counted."
+      ],
+      "nutrition": {
+        "Energy": "~620kcal",
+        "Protein": "~27g",
+        "Fat": "~29g",
+        "Saturated Fat": "~9g",
+        "Carbs": "~62g"
+      },
+      "nutritionNote": "per portion with 75g dry pasta, estimated from the ingredients"
     }
   ]
 }
