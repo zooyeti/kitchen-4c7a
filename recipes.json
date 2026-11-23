@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "recipes": [
     {
       "id": "roasted-salmon-veg-traybake",
@@ -310,69 +310,6 @@
       ],
       "notes": [
         "Ask your fishmonger to skin and pin-bone the sea bass for you. Quality of fish is everything here — buy the freshest you can find."
-      ]
-    },
-    {
-      "id": "perfect-pan-fried-chicken-breasts",
-      "title": "Perfect Pan-Fried Chicken Breasts",
-      "collection": "weekend",
-      "added": "2026-08-11",
-      "time": "20 mins + 30 mins dry-brining",
-      "timeMins": 50,
-      "serves": 2,
-      "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/perfect-pan-fried-chicken-breasts/"
-      },
-      "tags": [
-        "keto",
-        "chicken",
-        "technique"
-      ],
-      "ingredients": [
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "free-range chicken breasts"
-        },
-        {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "coarse sea salt"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Drizzle olive oil"
-        },
-        {
-          "qty": 20,
-          "unit": "g",
-          "item": "unsalted butter"
-        },
-        {
-          "qty": 1,
-          "unit": "",
-          "item": "anchovy fillet, drained (or 1/2 tsp chopped capers)"
-        },
-        {
-          "qty": 1,
-          "unit": "tsp",
-          "item": "white wine vinegar"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Small handful parsley or chives, chopped"
-        }
-      ],
-      "method": [
-        "Put the chicken breasts in a large food bag and bash the thicker parts with a rolling pin until an even 1.5-1.7cm thick. Add the salt and massage into the chicken. Leave at room temperature to dry-brine for 30 minutes (no more).",
-        "Remove from the bag and brush off excess salt. Heat a large frying pan over medium-high heat, add the oil. Once simmering, add the chicken. Cook 5-6 minutes each side without moving it, for a strong caramelised sear. In the final minute, add the butter and baste the chicken once it's foaming. Rest the chicken 5 minutes.",
-        "While resting, add the anchovy to the butter in the pan, stirring until dissolved. Add the vinegar, swirl and cook 1 minute. Slice the chicken against the grain, plate up, add resting juices to the sauce with the chopped herbs, and pour over the chicken."
-      ],
-      "notes": [
-        "The original recipe suggests roast new potatoes and seasonal veg as sides — swap in boiled new potatoes or a simple summer salad to keep it fully oven-free in hot weather."
       ]
     },
     {
@@ -2466,69 +2403,94 @@
       "nutritionNote": "per serving, estimated from the ingredients, without mash"
     },
     {
-      "id": "quick-beef-ragu",
-      "title": "Quick Beef Ragù",
+      "id": "beef-cheeks-red-wine-creamed-parsnips",
+      "title": "Beef Cheeks in Red Wine with Creamed Parsnips",
       "collection": "this-week",
-      "added": "2026-11-17",
-      "time": "20 mins hands-on + 30 mins simmering",
-      "timeMins": 50,
+      "added": "2026-11-23",
+      "time": "30 mins prep + 4-4½ hrs in the oven",
+      "timeMins": 30,
       "serves": 2,
       "source": {
-        "name": "delicious. magazine",
-        "url": "https://www.deliciousmagazine.co.uk/recipes/quick-beef-ragu/"
+        "name": "Jamie Oliver (Jamie Magazine, Georgina Hayden)",
+        "url": "https://www.jamieoliver.com/recipes/beef/beef-cheeks-in-red-wine-with-creamed-parsnips/"
       },
-      "note": "Halved from the source, so the sauce makes about 3 portions: 2 for dinner and one for lunch or the freezer. Start the sauce, then cook the pasta in the last 10 minutes.",
+      "note": "Prep-ahead oven night: brown and assemble earlier in the day, then leave it in a low oven. The parsnip, celeriac and apple purée is the side.",
       "tags": [
         "beef",
-        "pasta",
-        "ragu",
-        "freezable"
+        "slow cook",
+        "prep ahead",
+        "braise"
       ],
       "ingredients": [
         {
           "qty": 1,
-          "unit": "tbsp",
-          "item": "extra-virgin olive oil, plus extra to serve"
+          "unit": "",
+          "item": "beef cheek (about 400g), sinew trimmed"
         },
         {
+          "qty": 4,
+          "unit": "",
+          "item": "shallots, halved"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "item": "garlic clove, thinly sliced"
+        },
+        {
+          "qty": 30,
+          "unit": "g",
+          "item": "unsalted butter, divided"
+        },
+        {
+          "qty": null,
+          "unit": "",
+          "item": "Small bunch of fresh thyme (about half a bunch), leaves picked"
+        },
+        {
+          "qty": 175,
+          "unit": "ml",
+          "item": "red wine"
+        },
+        {
+          "qty": 15,
+          "unit": "g",
+          "item": "dark chocolate, at least 80% cocoa (optional)"
+        },
+        {
+          "qty": 375,
+          "unit": "ml",
+          "item": "beef stock, roughly (enough to cover the meat)"
+        },
+        {
+          "group": "For the creamed parsnips",
+          "qty": 375,
+          "unit": "g",
+          "item": "parsnips, peeled and cut into 3cm pieces"
+        },
+        {
+          "group": "For the creamed parsnips",
+          "qty": 175,
+          "unit": "g",
+          "item": "celeriac, peeled and cut into 3cm pieces"
+        },
+        {
+          "group": "For the creamed parsnips",
+          "qty": 1,
+          "unit": "",
+          "item": "Bramley apple, peeled, cored and cut into 3cm pieces"
+        },
+        {
+          "group": "For the creamed parsnips",
+          "qty": 25,
+          "unit": "ml",
+          "item": "milk, plus a little more if needed"
+        },
+        {
+          "group": "To finish",
           "qty": 0.5,
-          "unit": "",
-          "item": "large onion, finely chopped"
-        },
-        {
-          "qty": 2,
-          "unit": "",
-          "item": "garlic cloves, crushed"
-        },
-        {
-          "qty": 250,
-          "unit": "g",
-          "item": "beef mince"
-        },
-        {
-          "qty": 400,
-          "unit": "g",
-          "item": "tin chopped tomatoes"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "A small splash of red wine vinegar"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "A pinch of sugar (optional)"
-        },
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "dried pasta, such as pappardelle (for 2)"
-        },
-        {
-          "qty": null,
-          "unit": "",
-          "item": "Grated Parmesan and fresh basil, to serve"
+          "unit": "tsp",
+          "item": "blackberry or redcurrant jam"
         },
         {
           "qty": null,
@@ -2537,137 +2499,178 @@
         }
       ],
       "method": [
-        "Heat the oil in a large frying pan. Fry the onion over a medium heat for about 5 minutes until soft but not coloured. Crush in the garlic and cook for 5 minutes more.",
-        "Season the beef. Turn up the heat, add the beef and stir until lightly browned all over. Add the tomatoes, vinegar and sugar if using, and simmer for 30 minutes, stirring now and then.",
-        "When the ragù has reduced and thickened, stir in a good drizzle of olive oil and adjust the seasoning. Toss with the cooked pasta and top with Parmesan and basil."
+        "Earlier in the day: heat the oven to 140°C (120°C fan, gas 1). Trim any sinew from the beef cheek.",
+        "Melt half the butter in a small ovenproof casserole over a medium heat and brown the beef on all sides. Set it aside.",
+        "Soften the shallots in the same pan for 8-10 minutes until lightly browned. Add the garlic and thyme and cook for a minute. Return the beef to the pan and add the wine.",
+        "Boil the wine until reduced by half. If using, grate in the chocolate.",
+        "Add enough stock to cover the beef and bring back to the boil. Season, turn the heat right down, cover with foil and a tight lid, and braise in the oven for 4-4½ hours until very tender.",
+        "At dinnertime, about 20 minutes before the beef is ready: boil the parsnips, celeriac and apple in salted water for about 12 minutes until tender. Drain and let them steam dry.",
+        "Add the rest of the butter, then blend with the milk, salt and pepper until smooth. Add a little more milk if it's too thick.",
+        "Lift the beef out. Boil the sauce hard until thickened, stir in the jam, and adjust the seasoning. Return the beef to the sauce and baste it.",
+        "Serve the beef and sauce on the creamed parsnip purée."
       ],
       "notes": [
-        "Recipe as written serves 6 (500g mince, 2 tins of tomatoes, 1 large onion, 3 garlic cloves); halved here, which makes about 3 portions of sauce.",
-        "For a richer sauce the source suggests simmering gently for 1-2 hours, adding a splash of water if it looks dry. It freezes for up to 3 months.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-17, for one third of the sauce with 75g dry pasta and 10g Parmesan. It uses 85% lean mince. The source's own panel (209kcal) covers the sauce alone, with no pasta. Vinegar, basil and the pinch of sugar are not counted."
+        "Source serves 4 with 2 beef cheeks (about 800g), a 5 hr 20 min dish. Everything here is halved for 2. The source says 4-4½ hours; with half the quantity in a smaller pot, check after 3½ hours (my suggestion, not from the source).",
+        "The chocolate is optional in the source; it adds richness to the sauce.",
+        "Nutrition is a per-ingredient estimate for the halved recipe, not the source's panel (which shows only percentages). Beef uses the lean beef shank entry as a proxy for cheek, so real fat is probably higher. Wine counts only its carbs (most of the alcohol reduces away). Carbs for shallots, parsnip, celeriac and apple are from general knowledge, not looked up; stock, jam, thyme and the optional chocolate are not counted."
       ],
       "nutrition": {
-        "Energy": "~600kcal",
-        "Protein": "~31g",
-        "Fat": "~20g",
-        "Saturated Fat": "~7g",
-        "Carbs": "~66g"
+        "Energy": "~650kcal",
+        "Protein": "~49g",
+        "Fat": "~21g",
+        "Saturated Fat": "~11g",
+        "Carbs": "~70g"
       },
-      "nutritionNote": "per portion of sauce with 75g dry pasta and 10g Parmesan, estimated from the ingredients"
+      "nutritionNote": "per serving, estimated from the ingredients as scaled for 2"
     },
     {
-      "id": "ragu-alla-bolognese-accademia",
-      "title": "Ragù alla Bolognese (Accademia Italiana della Cucina)",
-      "collection": "this-week",
-      "added": "2026-11-20",
-      "time": "30 mins hands-on + 2-3 hours simmering",
-      "timeMins": 180,
-      "serves": 2,
+      "id": "clootie-dumpling-wright",
+      "title": "Clootie Dumpling",
+      "collection": "weekend",
+      "added": "2026-11-23",
+      "time": "30 mins prep + 4 hrs simmering + 20 mins drying",
+      "timeMins": 30,
+      "serves": 10,
       "source": {
-        "name": "Accademia Italiana della Cucina",
-        "url": "https://www.accademiaitalianadellacucina.it/sites/default/files/Rag%C3%B9%20alla%20bolognese%20-%20updated%20recipe_20%20April%202023.pdf"
+        "name": "The Scotsman (food historian Fraser Wright)",
+        "url": "https://foodanddrink.scotsman.com/?p=6459"
       },
-      "note": "The official Bologna recipe, as updated in April 2023. Hob only, so start it mid-afternoon and cook the pasta at the end.",
+      "note": "Traditional cloth-boiled Scottish fruit pudding. Needs a very large pot and a floured cloth. Serve sliced with custard or double cream.",
       "tags": [
-        "beef",
-        "pasta",
-        "ragu",
-        "italian",
-        "slow cook",
-        "hob only"
+        "dessert",
+        "scottish",
+        "pudding",
+        "party"
       ],
       "ingredients": [
         {
-          "qty": 1,
-          "unit": "tbsp",
-          "item": "extra-virgin olive oil"
-        },
-        {
-          "qty": 50,
+          "group": "Dry",
+          "qty": 500,
           "unit": "g",
-          "item": "fresh unsmoked pancetta, sliced, then cut small"
+          "item": "plain flour"
         },
         {
-          "qty": 20,
+          "group": "Dry",
+          "qty": 200,
           "unit": "g",
-          "item": "onion, finely chopped by hand"
+          "item": "beef suet"
         },
         {
-          "qty": 20,
+          "group": "Dry",
+          "qty": 250,
           "unit": "g",
-          "item": "carrot, finely chopped by hand"
+          "item": "caster sugar"
         },
         {
-          "qty": 20,
+          "group": "Dry",
+          "qty": 250,
           "unit": "g",
-          "item": "celery, finely chopped by hand"
+          "item": "raisins"
         },
         {
-          "qty": 135,
+          "group": "Dry",
+          "qty": 250,
           "unit": "g",
-          "item": "coarsely minced beef (chuck, shoulder or brisket; or hanger/skirt chopped by hand)"
+          "item": "sultanas"
         },
         {
-          "qty": 40,
-          "unit": "ml",
-          "item": "red or white wine"
-        },
-        {
-          "qty": 65,
-          "unit": "g",
-          "item": "passata (strained tomatoes)"
-        },
-        {
+          "group": "Dry",
           "qty": 1,
           "unit": "tsp",
-          "item": "double-concentrated tomato paste"
+          "item": "ground cinnamon"
         },
         {
-          "qty": 80,
+          "group": "Dry",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "ground allspice"
+        },
+        {
+          "group": "Dry",
+          "qty": 1,
+          "unit": "tsp",
+          "item": "ground ginger"
+        },
+        {
+          "group": "Dry",
+          "qty": 0.25,
+          "unit": "tsp",
+          "item": "freshly grated nutmeg"
+        },
+        {
+          "group": "Dry",
+          "qty": 3,
+          "unit": "tsp",
+          "item": "baking powder"
+        },
+        {
+          "group": "Dry",
+          "qty": 0.5,
+          "unit": "tsp",
+          "item": "salt"
+        },
+        {
+          "group": "Wet",
+          "qty": 2,
+          "unit": "",
+          "item": "large eggs"
+        },
+        {
+          "group": "Wet",
+          "qty": 1,
+          "unit": "",
+          "item": "Bramley apple, peeled and grated"
+        },
+        {
+          "group": "Wet",
+          "qty": 3,
+          "unit": "tbsp",
+          "item": "black treacle"
+        },
+        {
+          "group": "Wet",
+          "qty": 100,
           "unit": "ml",
-          "item": "hot light meat or vegetable broth (or water), plus more as needed"
+          "item": "whole milk"
         },
         {
-          "qty": 40,
-          "unit": "ml",
-          "item": "whole milk (optional)"
-        },
-        {
-          "qty": 150,
-          "unit": "g",
-          "item": "dried tagliatelle (not in the source; my addition for serving)"
-        },
-        {
+          "group": "For the cloth",
           "qty": null,
           "unit": "",
-          "item": "Salt and pepper"
+          "item": "Plain flour, for dusting the cloth generously (a few tablespoons)"
+        },
+        {
+          "group": "To serve",
+          "qty": null,
+          "unit": "",
+          "item": "Custard or double cream"
         }
       ],
       "method": [
-        "Chop the onion, carrot and celery very finely by hand, not in a food processor.",
-        "Warm the olive oil in a small heavy-based pan and cook the pancetta over a low heat until the fat has melted down.",
-        "Add the chopped vegetables and cook gently over a low heat, stirring often, until soft but not browned.",
-        "Turn the heat up to medium, add the beef and break it up. Cook for about 10 minutes, stirring all the time, until browned.",
-        "Pour in the wine and let it cook away completely.",
-        "Stir in the tomato paste and passata, add the hot broth, cover and simmer very gently for 2 to 3 hours. Top up with a little hot broth or water whenever it looks dry.",
-        "Halfway through, stir in the milk if using and let it cook right down.",
-        "Season with salt and pepper. It's ready when thick, glossy and a deep maroon. Cook the tagliatelle, toss it with the sauce and serve."
+        "Bring a very large pot of water to the boil, with 2-3 inches of space below the rim and enough water for the dumpling to float freely.",
+        "Mix the flour, sugar, spices, salt, baking powder, dried fruit and suet together in a large bowl.",
+        "In a second bowl, mix the eggs, milk, treacle and grated apple, then combine the wet mixture with the dry.",
+        "Dip the cloth in the boiling water for a few minutes, then wring it out. Spread it flat on a large work surface and dust it generously with flour, right out to the edges, so the flour covers the whole dumpling once the cloth is gathered.",
+        "Tip the mixture into the middle of the cloth and gather the cloth up around it. Tie it with string wrapped twice round and pulled tight, leaving a little room at the top for the dumpling to expand, with a long length of string left to tie to the pot handles.",
+        "Lower it into the pot, put the lid on and keep the water at a low simmer for 4 hours, topping up with boiling water if needed.",
+        "Lift the dumpling out by the string, take off the cloth and put it on a baking tray. Dry it in a preheated oven at 180°C (160°C fan, gas 4) for 15-20 minutes. It starts with a white, glutinous skin, which darkens into a crust as it dries.",
+        "Serve sliced, with custard or double cream."
       ],
       "notes": [
-        "The source recipe serves 6 (400g beef, 150g pancetta, 200g passata). Scaled here to a third for 2.",
-        "The source uses a 24-26cm casserole for the full batch. For this size a small heavy pan or saucepan works better (my adjustment, not the source's).",
-        "This is the 2023 update, which replaced the version deposited at the Bologna Chamber of Commerce in 1982. The Accademia says it is a guide rather than the only possible recipe.",
-        "The source gives no pasta, so the tagliatelle is my addition. Fresh egg tagliatelle (about 250g) is the classic partner.",
-        "Nutrition worked out from per-ingredient USDA data on 2026-11-20, for half the sauce with 75g dry pasta. Pancetta uses raw cured bacon as a proxy, passata uses canned crushed tomatoes, and the pasta fat figures are typical values rather than looked up. Wine, broth, salt and pepper are not counted."
+        "The source doesn't state a serving count or prep time. About 1.9kg of mixture, so roughly 190g a slice for 10: that's my estimate. The 30 mins prep is also my estimate.",
+        "Cloth: a flat tea towel with a dense weave works (not terrycloth), as does calico, muslin or linen. Andy's plan is a 150 x 66cm linen cloth folded in half for a double layer, about 75 x 66cm. The 75-90cm square size is my estimate, not from the source.",
+        "Wash the cloth in hot water with no detergent or softener. The flour dusting forms the skin, so don't skimp on it. A pudding basin would give something different, as the cloth makes the skin.",
+        "Leftovers can be fried in butter and served with bacon and eggs (from the source).",
+        "Nutrition is a per-ingredient estimate for 10 equal slices, without custard or cream. Suet is counted at about 94% fat, and the dried fruit, sugar and treacle values come from general knowledge, not looked up. The National Trust for Scotland's smaller version gives 60g carbs a serving, much lower than this estimate, because it has far less sugar and dried fruit per slice. It's still a very rich pudding, so treat the carb figure as rough."
       ],
       "nutrition": {
-        "Energy": "~620kcal",
-        "Protein": "~27g",
-        "Fat": "~29g",
-        "Saturated Fat": "~9g",
-        "Carbs": "~62g"
+        "Energy": "~650kcal",
+        "Protein": "~9g",
+        "Fat": "~21g",
+        "Saturated Fat": "~11g",
+        "Carbs": "~110g"
       },
-      "nutritionNote": "per portion with 75g dry pasta, estimated from the ingredients"
+      "nutritionNote": "per serving (1 of 10 slices), estimated from the ingredients, without custard or cream"
     }
   ]
 }
